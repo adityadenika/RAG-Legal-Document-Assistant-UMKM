@@ -15,13 +15,10 @@ Mengurangi risiko sanksi hukum<br>
 Mempercepat proses pengurusan izin dan dokumen legal
 
 # 2. Datasets
-**Peraturan Perundang-Undangan Indonesia**<br>
-Sumber: JDIH Kemenkeu (jdih.kemenkeu.go.id)<br>
-Konten: UU, PP, Perpres, atau Permendag terkait UMKM
-
-**Template Dokumen Legal**<br>
-Sumber: Kementerian UMKM, OSS Portal, Website Notaris<br>
-Konten: Kontrak kerja, perjanjian kerjasama, atau syarat ketentuan
+Data yang digunakan berfokus pada scope utama UMKM antara lain:
+Perizinan
+Ketenagakerjaan
+Perpajakan Dasar
 
 **Kualitas dan relevansi data**<br>
 Sumber resmi dari pemerintah<br>
