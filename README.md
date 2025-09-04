@@ -15,10 +15,10 @@ Mengurangi risiko sanksi hukum<br>
 Mempercepat proses pengurusan izin dan dokumen legal
 
 # 2. Datasets
-Data yang digunakan berfokus pada scope utama UMKM antara lain:
-Perizinan
-Ketenagakerjaan
-Perpajakan Dasar
+Data yang digunakan berfokus pada scope utama UMKM antara lain:<br>
+Perizinan<br>
+Ketenagakerjaan<br>
+Perpajakan Dasar<br>
 
 **Kualitas dan relevansi data**<br>
 Sumber resmi dari pemerintah<br>
