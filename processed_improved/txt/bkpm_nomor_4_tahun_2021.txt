@@ -1,0 +1,2038 @@
+DOKUMEN: BKPM Nomor 4 Tahun 2021
+SOURCE: BKPM Nomor 4 Tahun 2021.pdf
+PROCESSED: 2025-09-06T22:51:17.994868
+TOTAL ELEMENTS: 1016
+================================================================================
+
+BAB I: KETENTUAN UMUM
+
+Pasal 1 berbunyi: Dalam Peraturan Badan ini yang dimaksud dengan: 1. Pemerintah Pusat adalah yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang - Undang Dasar Negara Republik Indonesia Tahun 1945. 2. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom . 3. Perizinan Berusaha adalah legalitas yang diberikan kepada Pelaku Usaha untuk memulai dan menjalankan usaha dan/atau kegiatannya . 4. Perizinan Berusaha Berbasis Risiko adalah Perizinan Berusaha berdasarkan tingkat Risiko kegiatan usaha. 5. Perizinan Berusaha Untuk Menunjang Kegiatan Usaha adalah legalitas yang diberikan kepada Pelaku Usaha untuk menunjang kegiatan usaha. 6. Sistem Perizinan Berusaha Terintegrasi Secara Elektronik (Online Single Submission ) yang selanjutnya disebut Sistem OSS adalah sistem elektronik terintegrasi yang dikelola dan diselenggarakan oleh Lembaga OSS untuk penyelenggaraan Perizinan Berusaha Berbasis Risiko . 7. Lembaga Pengelola dan Penyelenggara OSS yang selanjutnya disebut Lembaga OSS adalah lembaga pemerintah yang menyele nggarakan urusan pemerintahan di bidang koordinasi penanaman modal. 8. Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu yang selanjutnya disingkat DPMPTSP adalah organisasi perangkat daerah pemerintah provinsi atau pemerintah kabupaten/kota yang mempunyai tugas menyelenggarakan urusan pemerintahan daerah di bidang penanaman modal. 9. Pelaku Usaha adalah orang perseorangan, badan usaha , kantor perwakilan, dan badan usaha luar negeri yang melakukan kegiatan usaha dan/atau kegiatan pada bidang tertentu . 10. Penanam Modal Dalam Negeri adalah Pelaku Usaha perseorangan warga negara Indonesia, badan usaha Indonesia, negara Republik Indonesia, atau daerah yang melakukan Penanaman Modal di wilayah Negara Republik Indonesia. 11. Penanam Modal Asing adalah Pelaku Usa ha perseorangan warga negara asing, badan usaha asing, dan/atau pemerintah asing yang melakukan Penanaman Modal di wilayah Negara Republik Indonesia. 12. Penanaman Modal Dalam Negeri yang selanjutnya disingkat PMDN adalah kegiatan menanam modal untuk melakuka n usaha di wilayah negara Republik Indonesia yang dilakukan oleh Penanam Modal Dalam Negeri dengan menggunakan modal dalam negeri. 13. Penanaman Modal Asing yang selanjutnya disingkat PMA adalah kegiatan menanam modal untuk melakukan usaha di wilayah negara Republik Indonesia yang dilakukan oleh Penanam Modal Asing, baik yang menggunakan modal asing sepenuhnya maupun yang berpatungan dengan Penanam Modal Dalam Negeri. 14. Nomor Induk Berusaha yang selanjutnya disingkat NIB adalah bukti registrasi / pendaftaran Pelaku Usaha untuk melakukan kegiatan usaha dan sebagai identitas bagi Pelaku Usaha dalam pelaksanaan kegiatan usahanya. 15. Sertifikat Standar adalah pernyata an dan/atau bukti pemenuhan standar pelaksanaan kegiatan usaha. 16. Izin adalah persetujuan Pemerintah Pusat atau Pemerintah Daerah untuk pelaksanaan kegiatan usaha yang wajib dipenuhi oleh Pelaku Usaha sebelum melaksanakan kegiatan usahanya . 17. Pengawasan adalah upaya untuk memastikan pelaksanaan kegiatan usaha sesuai dengan standar pelaksanaan kegiatan usaha yang dilakukan melalui pendekatan berbasis risiko dan kewajiban yang harus dipenuhi oleh Pelaku Usaha. 18. Nomor Pokok Wajib Pajak yang selanjutnya disin gkat NPWP adalah nomor yang diberikan kepada Wajib Pajak sebagai sarana dalam administrasi perpajakan yang dipergunakan sebagai tanda pengenal diri atau identitas Wajib Pajak dalam melaksanakan hak dan kewajiban perpajakannya. 19. Nomor Induk Kependudukan yan g selanjutnya disingkat NIK adalah nomor identitas penduduk yang bersifat unik atau khas, tunggal, dan melekat pada seseorang yang terdaftar sebagai penduduk Indonesia. 20. Rencana Penggunaan Tenaga Kerja Asing yang selanjutnya disingkat RPTKA adalah rencana penggunaan tenaga kerja asing pada jabatan tertentu yang dibuat oleh pemberi kerja tenaga kerja asing untuk jangka waktu tertentu yang disahkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan atau pejabat yang ditunjuk. 21. Rencana Detail Tata Ruang yang selanjutnya disingkat RDTR adalah rencana secara terperinci tentang tata ruang wilayah kabupaten/kota yang dilengkapi dengan peraturan zonasi kabupaten/kota. 22. Persetujuan Lingkungan adalah Keputusan Kelayakan Lingkungan H idup atau Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup yang telah mendapatkan persetujuan dari Pemerintah Pusat atau Pemerintah Daerah. 23. Persetujuan Bangunan Gedung yang selanjutnya disingkat PBG adalah perizinan yang diberikan kepada pemilik Bangunan Gedung untuk membangun baru, mengubah, memperluas, mengurangi, dan/atau merawat Bangunan Gedung sesuai dengan standar teknis Bangunan Gedung . 24. Sertifikat Laik Fungsi Bangunan Gedung yang selanjutnya disebut SLF adalah sertifikat yang diberikan oleh Pemerintah Daerah untuk menyatakan kelaikan fungsi bangunan gedung sebelum dapat dimanfaatkan. 25. Upaya pengelolaan lingkungan hidup dan upaya pemantauan lingkungan hidup yang selanjutnya disebut UKL -UPL adalah rangkaian proses pengelolaan dan pemantauan li ngkungan hidup yang dituangkan dalam bentuk standar untuk digunakan sebagai prasyarat pengambilan keputusan serta termuat dalam Perizinan Berusaha, atau persetujuan Pemerintah Pusat atau Pemerintah Daerah. 26. Analisis mengenai dampak lingkungan h idup yang selanjutnya disebut Amdal adalah Kajian mengenai dampak penting pada lingkungan hidup dari suatu usaha dan/atau kegiatan yang direncanakan, untuk digunakan sebagai prasyarat pengambilan keputusan tentang penyelenggaraan usaha dan/ata u kegiatan serta termuat dalam Perizinan Berusaha, atau persetujuan Pemerintah Pusat atau Pemerintah Daerah. 27. Rencana Pengelolaan Lingkungan Hidup yang selanjutnya disebut RKL adalah upaya penanganan dampak terhadap lingkungan hidup yang ditimbulkan akibat dari rencana usaha dan/atau kegiatan. 28. Rencana Pengelolaan Lingkungan Hidup Rinci, yang selanjutnya disebut RKL Rinci, adalah upaya penanganan dampak terhadap lingkungan hidup yang ditimbulkan akibat dari rencana Usaha dan/atau Kegiatan yang berada dalam Kawasan yang sudah memilki Amdal kawasan . 29. Rencana Pemantauan Lingkungan Hidup yang selanjutnya disebut RPL adalah upaya pemantauan komponen lingkungan hidup yang terkena dampak akibat dari rencana usaha dan/atau kegiatan. 30. Rencana Pemantaua n Lingkungan Hidup Rinci, yang selanjutnya disebut RPL Rinci, adalah upaya pemantauan komponen lingkungan hidup yang terkena dampak akibat dari rencana Usaha dan/atau Kegiatan yang berada dalam Kawasan yang sudah memilki Amdal kawasan. 31. Surat Pernyat aan Kesanggupan Pengelolaan dan Pemantauan Lingkungan Hidup yang selanjutnya disebut SPPL adalah pernyataan kesanggupan dari penanggung jawab Usaha dan/atau Kegiatan untuk melakukan pengelolaan dan pemantauan Lingkungan Hidup atas Dampak Lingkungan Hidup d ari Usaha dan/atau Kegiatannya di luar Usaha dan/atau Kegiatan yang wajib Amdal atau UKL -UPL. 32. Pengembangan Usaha adalah penambahan/perluasan kegiatan usaha dengan cara menambah kapasitas, bidang usaha, dan/atau lokasi. 33. Pelayanan Terpadu Satu Pintu yang selanjutnya disingkat PTSP adalah pelayanan secara terintegrasi dalam satu kesatuan proses dimulai dari tahap permohonan sampai dengan tahap penyelesaian produk pelayanan melalui satu pintu. 34. PTSP Pusat di BKPM adalah Pela yanan terkait Penanaman Modal yang menjadi kewenangan Pemerintah diselenggarakan secara terintegrasi dalam satu kesatuan proses dimulai dari tahap permohonan sampai dengan tahap penyelesaian produk pelayanan melalui satu pintu di BKPM. 35. Kawasan Ekonomi Khus us yang selanjutnya disingkat KEK adalah kawasan ekonomi khusus sebagaimana diatur dalam peraturan perundang -undangan di bidang kawasan ekonomi khusus . 36. Kawasan Industri adalah kawasan tempat pemusatan kegiatan industri yang dilengkapi dengan sarana dan prasarana penunjang yang dikembangkan dan dikelola oleh perusahaan kawasan industri . 37. Kawasan Perdagangan Bebas dan Pelabuhan Bebas yang selanjutnya disingkat KPBPB adalah suatu kawasan perdagangan bebas dan pelabuhan bebas sebagaimana diatur dalam peraturan perundang - undangan di bidang kawasan perdagangan bebas dan pelabuhan bebas . 38. Hari adalah hari kerja sesuai yang ditetapkan oleh Pemerintah Pusat. 39. Laporan Kegiatan Penanaman Modal yang selanjutnya disingkat LKPM adalah laporan mengenai perkembangan realisasi Penanaman Modal dan permasalahan yang dihadapi Pelaku Usaha yang wajib dibuat dan disampaikan secara berkala. 40. Usaha Mikro, Kecil, dan Menengah yang selanjutnya disingkat UMK -M adalah usaha mikro, usaha kecil, dan usaha menengah sebagaimana yang dimaksud dalam Undang -Undang mengenai Usaha Mikro, Kecil, dan Menengah. 41. Usaha Mikro dan Kecil yang selanjutnya disingkat UMK adalah usaha mikro dan usaha kecil sebagaimana dimaksud dalam Undang -Undang mengenai Usaha Mikro, Kecil, dan Menengah. 42. Klasifikasi Baku Lapangan Usaha Indonesia yang selanjutnya disebut KBLI adalah kode klasifikasi yang diatur oleh lembaga pemerintah non menyelenggarakan urusan pemerintahan di bidang statistik. 43. Fasilitas Penanaman Modal adalah segala bentuk insentif fiskal dan non fiskal serta kemudahan pelayanan Penanam an Modal, sesuai dengan ketentuan peraturan perundang -undangan. 44. Industri Pionir adalah industri yang memiliki keterkaitan yang luas, memberi nilai tambah dan eksternalitas yang tinggi, memperkenalkan teknologi baru, serta me miliki nilai strategis bagi pere konomian nasional. 45. Saat Mulai Berproduksi Komersial adalah saat pertama kali hasil produksi dari Kegiatan Usaha Utama dijual ke pasaran dan/atau digunakan sendiri untuk proses produksi lebih lanjut.
+
+Pasal 2 berbunyi: Pedoman dan tata cara pelayanan Perizinan Berusaha Berbasis Risiko dan Fasilitas Penanaman Modal yang diatur dalam Peraturan Badan ini dimaksudkan sebagai panduan penggunaan dalam pelaksanaan Perizinan Berusaha Berbasis Risiko dan pemberian Fasilitas Penanaman Modal bagi: a. Lembaga OSS; b. c. DPMPTSP provinsi dan perangkat daerah teknis provinsi; d. DPMPTSP kabupaten/ kota dan perangkat daerah teknis kabupaten/kota; e. administrator KEK ; f. badan pengusahaan KPBPB ; dan/atau g. Pelaku Usaha serta masyarakat umum lainnya .
+
+Pasal 3 berbunyi: Pedoman dan tata cara pelayanan Perizinan Berusaha Berbasis Risiko dan Fasilitas Penanaman Modal bertujuan untuk tercapainya pelayanan Perizinan Berusaha Berbasis Risiko dan Fasilitas Penanaman Modal yang terintegrasi secara elektronik , terstandar, cepat, sederhana, dan transparan.
+
+BAB II: RUANG LINGKUP
+
+Pasal 4 ayat (1) berbunyi: Layanan yang diatur dalam Peraturan Badan ini meliputi :
+
+Pasal 4 ayat (1) poin a berbunyi: layanan penerbitan Perizinan Berusaha ; dan
+
+Pasal 4 ayat (1) poin b berbunyi: layanan Fasilitas Penanaman Modal .
+
+Pasal 4 ayat (2) berbunyi: Penerbitan Perizinan Berusaha sebagaimana dimaksud pada ayat (1) huruf a meliputi layanan atas :
+
+Pasal 4 ayat (2) poin a berbunyi: data pelaku usaha dan data usaha ;
+
+Pasal 4 ayat (2) poin b berbunyi: penerbitan Perizinan Berusaha Berbasis Risiko ;
+
+Pasal 4 ayat (2) poin c berbunyi: penerbitan Perizinan Berusaha untuk menunjang kegiatan usaha;
+
+Pasal 4 ayat (2) poin d berbunyi: penerbitan Perizinan Berusaha Berbasis Risiko untuk UMK ;
+
+Pasal 4 ayat (2) poin e berbunyi: perubahan data usaha ;
+
+Pasal 4 ayat (2) poin f berbunyi: pengembangan usaha; dan
+
+Pasal 4 ayat (2) poin g berbunyi: penggabungan, peleburan, dan pembubaran usaha .
+
+Pasal 4 ayat (3) berbunyi: Layanan Fasilitas Penanaman Modal sebagaimana dimaksud pada ayat (1) huruf b mencakup:
+
+Pasal 4 ayat (3) poin a berbunyi: layanan fasilitas f iskal; dan
+
+Pasal 4 ayat (3) poin b berbunyi: layanan fasilitas n on fiskal.
+
+Pasal 4 ayat (4) berbunyi: Layanan fasilitas fiskal sebagaimana dimaksud pada ayat ( 3) huruf a mencakup :
+
+Pasal 4 ayat (4) poin a berbunyi: fasilitas pembebasan bea masuk atas impor;
+
+Pasal 4 ayat (4) poin b berbunyi: fasilitas pajak penghasilan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah -daerah tertentu ;
+
+Pasal 4 ayat (4) poin c berbunyi: fasilitas pengurangan pajak penghasilan badan ;
+
+Pasal 4 ayat (4) poin d berbunyi: fasilitas pengurangan pajak penghasilan badan dan fasilitas pajak penghasilan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah -daerah tertentu pada KEK;
+
+Pasal 4 ayat (4) poin e berbunyi: fasilitas pengurangan penghasilan bruto atas kegiatan penelitian dan pengembang an tertentu di indonesia;
+
+Pasal 4 ayat (4) poin f berbunyi: pemberian pengurangan penghasilan bruto atas penyelenggaraan kegiatan praktik kerja, pemagangan, dan/atau pembelajaran dalam rangka pembinaan dan pengembangan sumber daya manusia berbasis kompetensi tertentu; dan
+
+Pasal 4 ayat (4) poin g berbunyi: pemberian fasilitas pengurangan penghasilan neto atas penanaman modal baru atau perluasan usaha pada bidang usaha tertentu yang merupakan industri padat karya .
+
+Pasal 4 ayat (5) berbunyi: Layanan fasilitas non fiskal sebagaimana dimaksud pada ayat (3) huruf b berupa rekomendasi keimigrasian , terdiri atas:
+
+Pasal 4 ayat (5) poin a berbunyi: rekomendasi alih status izin tinggal kunjungan menjadi izin tinggal terbatas; dan
+
+Pasal 4 ayat (5) poin b berbunyi: rekomendasi alih status izin tinggal terbatas menjadi izin tinggal tetap.
+
+Pasal 5 ayat (1) berbunyi: Layanan sebagaimana dimaksud dalam Pasal 4 ayat (1) mencakup sektor :
+
+Pasal 5 ayat (1) poin a berbunyi: kelautan dan perikanan;
+
+Pasal 5 ayat (1) poin b berbunyi: pertanian;
+
+Pasal 5 ayat (1) poin c berbunyi: lingkungan hidup dan kehutanan;
+
+Pasal 5 ayat (1) poin d berbunyi: energi dan sumber daya mineral;
+
+Pasal 5 ayat (1) poin e berbunyi: ketenaganukliran;
+
+Pasal 5 ayat (1) poin f berbunyi: perindustrian;
+
+Pasal 5 ayat (1) poin g berbunyi: perdagangan;
+
+Pasal 5 ayat (1) poin h berbunyi: pekerjaan umum dan perumahan rakyat;
+
+Pasal 5 ayat (1) poin i berbunyi: transportasi;
+
+Pasal 5 ayat (1) poin j berbunyi: kesehatan, obat dan makanan;
+
+Pasal 5 ayat (1) poin k berbunyi: pendidikan dan kebudayaan;
+
+Pasal 5 ayat (1) poin l berbunyi: pariwisata;
+
+Pasal 5 ayat (1) poin m berbunyi: keagamaan;
+
+Pasal 5 ayat (1) poin n berbunyi: pos, telekomunikasi, penyiaran, dan sistem dan transaksi elektronik;
+
+Pasal 5 ayat (1) poin o berbunyi: pertahanan dan keamanan;
+
+Pasal 5 ayat (1) poin p berbunyi: ketenagakerjaan; dan
+
+Pasal 5 ayat (1) poin q berbunyi: keuangan .
+
+Pasal 5 ayat (2) berbunyi: Layanan atas sektor keuangan sebagaimana dimaksud pada ayat (1) huruf q meliputi :
+
+Pasal 5 ayat (2) poin a berbunyi: penerbitan NIB sebagai identitas bagi Pelaku Usaha dalam pelaksanaan kegiatan usaha perbankan dan non perbankan ; dan
+
+Pasal 5 ayat (2) poin b berbunyi: layanan fasilitas fiskal sebagaimana dimaksud dalam Pasal 4 ayat ( 4).
+
+Pasal 5 ayat (3) berbunyi: Perizinan Berusaha sebagai legalitas pelaksanaan kegiatan usaha perbankan dan non perbankan sebagaimana dimaksud pada ayat (2) huruf a dilakukan oleh Otoritas Jasa Keuangan atau Bank Indonesia sesuai dengan ketentuan peraturan perundang -undangan. BAB I II KETENTUAN PELAYANAN PERIZINAN BERUSAHA Bagian Kesatu Perizinan Berusaha
+
+Pasal 6 berbunyi: Perizinan Berusaha mencakup: a. Perizinan Berusaha Berbasis Risiko; dan b. Perizinan Berusaha Untuk Menunjang Kegiatan Usaha.
+
+Pasal 7 ayat (1) berbunyi: Untuk memulai dan melakukan kegiatan usaha, Pelaku Usaha wajib memenuhi:
+
+Pasal 7 ayat (1) poin a berbunyi: persyaratan dasar; dan/atau
+
+Pasal 7 ayat (1) poin b berbunyi: Perizinan Berusaha Berbasis Risiko .
+
+Pasal 7 ayat (2) berbunyi: Perizinan Berusaha Berbasis Risiko yang diatur di dalam Peraturan Badan ini sebagaimana diatur di dalam peraturan pemerintah tentang penyelenggaraan perizinan berusaha berbasis risiko yang terdiri atas:
+
+Pasal 7 ayat (2) poin a berbunyi: NIB;
+
+Pasal 7 ayat (2) poin b berbunyi: Sertifikat Standar ; dan
+
+Pasal 7 ayat (2) poin c berbunyi: Izin.
+
+Pasal 7 ayat (3) berbunyi: Perizinan Berusaha Berbasis Risiko sebagaimana dimaksud pada ayat ( 2) diterbitkan melalui Sistem OSS berdasarkan penetapan tingkat risiko, peringkat skala kegiatan usaha meliputi UMK -M dan/atau usaha besar , dan luas lahan sebagaimana tercantum pada lampiran peraturan pemerintah tentang penyelenggaraa n Perizinan Berusaha Berbasis Risiko .
+
+Pasal 7 ayat (4) berbunyi: Tingkat risiko sebagaimana dimaksud pada ayat (3) terdiri atas:
+
+Pasal 7 ayat (4) poin a berbunyi: rendah ;
+
+Pasal 7 ayat (4) poin b berbunyi: menengah rendah ;
+
+Pasal 7 ayat (4) poin c berbunyi: menengah tinggi; dan
+
+Pasal 7 ayat (4) poin d berbunyi: tinggi , yang dikaitkan dengan KBLI atas kegiatan atau bidang usaha yang akan dilakukan oleh Pelaku Usaha.
+
+Pasal 7 ayat (5) berbunyi: Dalam hal tingkat risiko sebagaimana dimaksud pada ayat ( 4) terdapat pengaturan oleh lebih dari 1 (satu) mengacu kepada utama sektor usaha yang sudah dilaksanakan sebelum berlakunya Sistem OSS berbasis risiko.
+
+Pasal 7 ayat (6) berbunyi: Pemenuhan standar dan/atau persyaratan Perizinan Berusaha Berbasis Risiko berdasarkan tingkat risiko sebagaimana dimaksud pada ayat (5) mengacu kepada NSPK usaha .
+
+Pasal 8 ayat (1) berbunyi: Dalam hal diperlukan untuk menunjang kegiatan usaha , Pelaku Usaha dapat mengajukan permohonan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha.
+
+Pasal 8 ayat (2) berbunyi: Perizinan Berusaha Untuk Menunjang Kegiatan Usaha sebagaimana dimaksud pada ayat (1) mencakup standar usaha dan/atau standar produk yang dapat diajukan sebelum atau sesudah tahap operasional dan/atau komersial sesuai dengan ketentuan Bagian Kedua Pemohon Perizinan Berusaha
+
+Pasal 9 ayat (1) berbunyi: Pelaku Usaha yang dapat mengajukan p ermohon an Perizinan Berusaha terdiri atas:
+
+Pasal 9 ayat (1) poin a berbunyi: orang perseorangan ;
+
+Pasal 9 ayat (1) poin b berbunyi: badan usaha ;
+
+Pasal 9 ayat (1) poin c berbunyi: kantor perwakilan; dan
+
+Pasal 9 ayat (1) poin d berbunyi: badan usaha luar negeri.
+
+Pasal 9 ayat (2) berbunyi: Badan usaha sebagaimana dimaksud pada ayat (1) huruf b merupakan badan usaha berbentuk badan hukum atau tidak berbentuk badan hukum yang didirikan di wilayah Negara Kesatuan Republik Indonesia dan melakukan usaha dan/atau kegiatan pada bidang tertentu.
+
+Pasal 9 ayat (3) berbunyi: Kantor perwakilan sebagaimana dimaksud pada
+
+Pasal 9 ayat (1) berbunyi: huruf c merupakan oran g perseorangan warga negara Indonesia atau orang perseorangan warga negara asing, atau badan usaha yang merupakan perwakilan Pelaku Usaha dari luar negeri dengan persetujuan pendirian kantor di wilayah Negara Kesatuan Republik Indonesia.
+
+Pasal 9 ayat (4) berbunyi: Badan usaha luar negeri sebagaimana dimaksud pada
+
+Pasal 9 ayat (1) berbunyi: huruf d merupakan badan usaha asing yang didirikan di luar wilayah Negara Kesatuan Republik Indonesia dan melakukan usaha dan/atau kegiatan pada bidang tertentu.
+
+Pasal 9 ayat (5) berbunyi: Badan usaha sebagaimana dimaksud pada ayat (1) huruf b paling sedikit terdiri atas :
+
+Pasal 9 ayat (5) poin a berbunyi: perseroan terbatas;
+
+Pasal 9 ayat (5) poin b berbunyi: persekutuan komanditer ( commanditaire vennotschap );
+
+Pasal 9 ayat (5) poin c berbunyi: persekutuan firma ( venootschap onder firma );
+
+Pasal 9 ayat (5) poin d berbunyi: persekutuan perdata;
+
+Pasal 9 ayat (5) poin e berbunyi: koperasi;
+
+Pasal 9 ayat (5) poin f berbunyi: yayasan;
+
+Pasal 9 ayat (5) poin g berbunyi: perusahaan umum;
+
+Pasal 9 ayat (5) poin h berbunyi: perusahaan umum daerah;
+
+Pasal 9 ayat (5) poin i berbunyi: badan hukum lainnya yang dimiliki oleh negara; dan
+
+Pasal 9 ayat (5) poin j berbunyi: lembaga penyiaran .
+
+Pasal 9 ayat (6) berbunyi: Badan hukum lainnya yang dimiliki oleh negara sebagaimana dimaksud pada ayat (5) huruf i berupa Lembaga Pembiayaan Ekspor Indonesia, Lembaga Pengelola Investasi, Bank Tanah , dan Badan La yanan Umum .
+
+Pasal 9 ayat (7) berbunyi: Penanaman modal yang dilakukan oleh o rang perseorangan sebagaimana dimaksud pada ayat (1) huruf a dikategorikan ke dalam PMDN.
+
+Pasal 9 ayat (8) berbunyi: Penanaman modal yang dilakukan oleh b adan usaha sebagaimana dimaksud pada ayat ( 1) huruf b dikategorikan ke dalam PMDN dan PMA .
+
+Pasal 9 ayat (9) berbunyi: PMA sebagaimana dimaksud pada ayat (8) wajib dalam bentuk perseroan t erbatas berdasarkan hukum lndonesia dan berkedudukan di dalam wilayah Negara Kesatuan Republik Indonesia , kecuali ditentukan lain oleh undang -undang .
+
+Pasal 9 ayat (10) berbunyi: Kantor perwakilan sebagaimana dimaksud pada ayat ( 1) huruf c paling sedikit terdiri atas:
+
+Pasal 9 ayat (10) poin a berbunyi: kantor perwakilan perusahaan perdagangan asing;
+
+Pasal 9 ayat (10) poin b berbunyi: kantor perwakilan perusahaan asing;
+
+Pasal 9 ayat (10) poin c berbunyi: kantor perwakilan badan usaha jasa konstruksi asing ; dan /atau
+
+Pasal 9 ayat (10) poin d berbunyi: kantor perwakilan jasa penunjang tenaga listrik asing.
+
+Pasal 9 ayat (11) berbunyi: Badan usaha luar negeri sebagaimana dimaksud pada ayat ( 1) huruf d yang dapat melakukan kegiatan usaha di Indonesia paling sedikit terdiri atas:
+
+Pasal 9 ayat (11) poin a berbunyi: pemberi waralaba dari luar negeri;
+
+Pasal 9 ayat (11) poin b berbunyi: pedagang berjangka asing;
+
+Pasal 9 ayat (11) poin c berbunyi: penyelenggara s istem elektronik lingkup privat asing ; dan
+
+Pasal 9 ayat (11) poin d berbunyi: bentuk usaha tetap.
+
+Pasal 9 ayat (12) berbunyi: Bentuk usaha tetap sebagaimana dimaksud pada ayat (1 1) huruf d termasuk kantor perwakilan yang didirikan untuk melakukan kegiatan usaha di sektor minyak dan gas bumi. Bagian Ketiga Penerbit Perizinan Berusaha
+
+Pasal 10 ayat (1) berbunyi: Perizinan Berusaha sebagaimana dimaksud dalam Pasal 6 diterbitkan oleh:
+
+Pasal 10 ayat (1) poin a berbunyi: Lembaga OSS;
+
+Pasal 10 ayat (1) poin b berbunyi: Lembaga OSS atas nama menteri/ kepala lembaga pemerintah non kegiatan usaha yang menjadi kewenangan Pemerintah Pusat;
+
+Pasal 10 ayat (1) poin c berbunyi: kepala DPMPTSP provinsi atas nama gubernur untuk kegiatan usaha yang menjadi kewenangan pemerintah provinsi ;
+
+Pasal 10 ayat (1) poin d berbunyi: kepala DPMPTSP kabupaten/kota atas nama bupati/ wali kota untuk kegiatan usaha yang menjadi kewenangan pemerintah kabupaten/kota ;
+
+Pasal 10 ayat (1) poin e berbunyi: administrator KEK untuk kegiatan usaha yang berlokasi di KEK ; dan
+
+Pasal 10 ayat (1) poin f berbunyi: kepala badan pengusahaan KPBPB untuk kegiatan usaha yang berlokasi di KPBPB .
+
+Pasal 10 ayat (2) berbunyi: Kewenangan Pemerintah Pusat sebagaimana dimaksud pada ayat (1) huruf b mencakup:
+
+Pasal 10 ayat (2) poin a berbunyi: penyelenggaraan penanaman modal yang ruang lingkupnya lintas provinsi ;
+
+Pasal 10 ayat (2) poin b berbunyi: penanaman modal yang meliputi: 1. penanaman modal terkait dengan sumber daya alam yang tidak terbarukan dengan tingkat risiko kerusakan lingkungan yang tinggi; 2. penanaman modal pada bidang industr i yang merupakan prioritas tinggi pada skala nasional; 3. penanaman modal yang terkait dengan fungsi pemersatu dan penghubung antar wilayah atau ruang lingkupnya lintas provinsi; 4. penanaman modal yang terkait pada pelaksanaan strategi pertahanan dan keamanan nasional; 5. PMA dan penanam modal yang menggunakan modal asing, yang berasal dari pemerintah negara lain, yang didasarkan perjanjian yang dibuat oleh pemerintah dan pemerintah negara lain; dan/atau 6. bidang penanaman modal lain yang menjadi urusan pemerintah menurut undang - undang .
+
+Pasal 10 ayat (3) berbunyi: Kewenangan pemerintah provinsi sebagaimana dimaksud pada ayat (1) huruf c mencakup:
+
+Pasal 10 ayat (3) poin a berbunyi: penanaman modal yang ruang lingkup kegiatan lintas kabupaten/kota dalam 1 (satu) provinsi ;
+
+Pasal 10 ayat (3) poin b berbunyi: penanaman modal yang kewenangan Pemerintah Pusat dan pemerintah provinsi yang diberikan pelimpahan/pendelegasian wewenang dari pemerintah kepada gubernur;
+
+Pasal 10 ayat (3) poin c berbunyi: penanaman modal yang menjadi kewenangan pemerintah provinsi berdasarkan peraturan perundang -undangan ; dan/atau
+
+Pasal 10 ayat (3) poin d berbunyi: industri yang diklasifikasikan sebagai industri besar, kecuali untuk jenis industri yang menjadi kewenangan Pemerintah Pusat.
+
+Pasal 10 ayat (4) berbunyi: Kewenangan pemerintah kabupaten/kota sebagaimana dimaksud pada ayat (1) huruf d mencakup:
+
+Pasal 10 ayat (4) poin a berbunyi: penanaman modal yang ruang lingkup kegiatan di kabupaten/kota ;
+
+Pasal 10 ayat (4) poin b berbunyi: yang dipertugasbantukan kepada pemerintah kabupaten/kot a;
+
+Pasal 10 ayat (4) poin c berbunyi: penanaman modal yang menjadi kewenangan pemerintah kabupaten/kota berdasarkan peraturan perundang -undangan ; dan/atau
+
+Pasal 10 ayat (4) poin d berbunyi: industri yang diklasifikasikan sebagai industri menengah dan industri kecil yang lokasi industrinya berada pada kabupaten/kota, kecuali untuk jenis industri yang menjadi kewenangan Pemerintah Pusat dan pemerintah daerah provinsi .
+
+Pasal 10 ayat (5) berbunyi: Kewenangan administrator K EK sebagaimana dimaksud pada ayat (1) huruf e dan kepala badan pengusahaan KPBPB sebagaimana dimaksud pada
+
+Pasal 10 ayat (1) berbunyi: huruf f mencakup kewenangan pemerintah kabupaten/kota sebagaimana dimaksud pada ayat (4) dan dilaksanakan berdasarkan p elimpahan/ pendelegas ian kewenangan dari Pemerintah Pusat/ Pemerintah Daerah dan memperhatikan peraturan perundang -undangan terkait KEK dan KPBPB .
+
+Pasal 10 ayat (6) berbunyi: Kewenangan Pemerintah Pusat untuk bidang industri sebagaimana dimaksud pada ayat (2) huruf b angka 2, mencakup:
+
+Pasal 10 ayat (6) poin a berbunyi: industri strategis;
+
+Pasal 10 ayat (6) poin b berbunyi: industri teknologi tinggi;
+
+Pasal 10 ayat (6) poin c berbunyi: industri minuman beralkohol;
+
+Pasal 10 ayat (6) poin d berbunyi: industri yang terkait langsung dengan pertahanan dan keamanan;
+
+Pasal 10 ayat (6) poin e berbunyi: industri yang berdampak penting pada lingkungan; dan
+
+Pasal 10 ayat (6) poin f berbunyi: industri yang merupakan PMA dan penanam modal yang menggunakan modal asin g, yang berasal dari pemerintah negara lain, yang didasarkan perjanjian yang dibuat oleh Pemerintah dan pemerintah negara lain.
+
+Pasal 10 ayat (7) berbunyi: Kewenangan penerbitan Perizinan Berusaha mencakup:
+
+Pasal 10 ayat (7) poin a berbunyi: NIB oleh Lembaga OSS; dan
+
+Pasal 10 ayat (7) poin b berbunyi: Sertifikat Standar , Izin, dan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha diterbitkan sesuai kewenangannya sebagaimana dimaksud pada ayat (1 ).
+
+Pasal 10 ayat (8) berbunyi: Lembaga OSS menerbitkan NIB s ebagaimana dimaksud pada ayat (7 ) huruf a berdasarkan:
+
+Pasal 10 ayat (8) poin a berbunyi: tingkat risiko;
+
+Pasal 10 ayat (8) poin b berbunyi: ketentuan bidang usaha penanaman modal ;
+
+Pasal 10 ayat (8) poin c berbunyi: ketentuan minimum investasi; dan
+
+Pasal 10 ayat (8) poin d berbunyi: ketentuan permodalan. sesuai ketentuan peraturan perundang -undangan. Khusus Perizinan Berusaha Untuk Menunjang Kegiatan Usaha berupa standar produk diterbitkan oleh Lembaga OSS atas nama menteri/kepala lembaga pemerintah non Bagian Ke empat Ketentuan Nilai Investasi dan Permodalan Paragraf 1 UMK -M
+
+Pasal 11 ayat (1) berbunyi: Ketentuan nilai investasi dan permodalan bagi UMK -M mengikuti kriteria modal usaha sebagaimana diatur dalam peraturan pemerintah tentang kemudahan, pelindungan, dan pemberdayaan koperasi dan usaha mikro, kecil, dan menengah .
+
+Pasal 11 ayat (2) berbunyi: Kriteria modal usaha sebagaimana dimaksud pada
+
+Pasal 11 ayat (1) berbunyi: diatur sebagai berikut:
+
+Pasal 11 ayat (1) poin a berbunyi: usaha mikro memiliki modal usaha sampai dengan paling banyak Rp1.000.000.000,00 (satu miliar rupiah) tidak termasuk tanah dan bangunan tempat usaha;
+
+Pasal 11 ayat (1) poin b berbunyi: usaha kecil memiliki modal usaha lebih dari Rp1.000.000.000,00 (satu miliar rupiah) sampai dengan paling banyak Rp5.00 0.000.000,00 (lima miliar rupiah) tidak termasuk tanah dan bangunan tempat usaha; dan
+
+Pasal 11 ayat (1) poin c berbunyi: usaha menengah memiliki modal usaha lebih dari Rp5.000.000.000,00 (lima miliar rupiah) sampai dengan paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah) tidak terma suk tanah dan bangunan tempat usaha. Paragraf 2 Usaha Besar
+
+Pasal 12 ayat (1) berbunyi: Badan usaha sebagaimana dimaksud dalam Pasal 9
+
+Pasal 12 ayat (1) berbunyi: huruf b yang tergolong PMA dikategorikan sebagai usaha besar dan wajib mengikuti ketentuan minimum nilai investasi , kecuali ditentukan lain oleh peraturan perundang -undangan.
+
+Pasal 12 ayat (2) berbunyi: Ketentuan minimum nilai investasi bagi PMA sebagaimana dimaksud pada ayat (1), yaitu total investasi lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah), di luar tanah dan bangunan per bidang usaha KBLI 5 (lima) digit per lokasi proyek.
+
+Pasal 12 ayat (3) berbunyi: Ketentuan total investasi sebagaimana dimaksud pada ayat ( 2) dikecualikan untuk beberapa kegiatan usaha :
+
+Pasal 12 ayat (3) poin a berbunyi: khusus untuk kegiatan usaha perdagangan besar, lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan, adalah per 4 (empat) digit awal KBLI;
+
+Pasal 12 ayat (3) poin b berbunyi: khusus untuk kegiatan usaha jasa makanan dan minuman, lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan, adalah per 2 (dua) digit awal KBLI per satu titik lokasi;
+
+Pasal 12 ayat (3) poin c berbunyi: khusus untuk kegiatan usaha jasa konstruksi, lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan dalam satu kegiatan, adalah per 4 (empat) digit awal KBLI;
+
+Pasal 12 ayat (3) poin d berbunyi: khusus untuk kegiatan usaha industri yang menghasilkan jenis produk dengan KBLI 5 (lima) digit yang berbeda dalam 1 (satu) lini produksi, lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan ; atau
+
+Pasal 12 ayat (3) poin e berbunyi: khusus untuk kegiatan usaha pembangunan dan pengusahaan proper ti berlaku ketentuan: 1. berupa properti dalam bentuk bangunan gedung secara utuh atau komplek perumahan secara terpadu dengan ketentuan nilai investasi lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) termasuk tanah dan bangunan; atau 2. berupa unit properti tidak dalam 1 (satu) bangunan gedung secara utuh atau 1 (satu) kompleks perumahan secara terpadu, nilai investasi lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan;
+
+Pasal 12 ayat (4) berbunyi: Satu kegiatan sebagaimana dimaksud pada ayat (3) huruf c merupakan satu jenis kegiatan usaha jasa konstruksi, meliputi:
+
+Pasal 12 ayat (4) poin a berbunyi: usaha jasa konsultasi konstruksi;
+
+Pasal 12 ayat (4) poin b berbunyi: usaha pekerjaan konstruksi; atau
+
+Pasal 12 ayat (4) poin c berbunyi: usaha pekerjaan konstruksi terintegrasi .
+
+Pasal 12 ayat (5) berbunyi: Usaha jasa konsultasi konstruksi sebagaim ana dimaksud pada ayat (4) huruf a tidak dapat digabung dengan kegiatan usaha sebagaimana dimaksud pada
+
+Pasal 12 ayat (4) berbunyi: huruf b dan/atau ayat ( 4) huruf c.
+
+Pasal 12 ayat (6) berbunyi: Selain ketentuan nilai minimum investasi sebagaimana dimaksud pada ayat ( 2), bagi PMA, diatur ketentuan minimum permodalan .
+
+Pasal 12 ayat (7) berbunyi: Ketentuan minimum permodalan bagi PMA sebagaimana dimaksud pada ayat (6) merupakan modal ditempatkan/disetor paling sedikit Rp10.000 .000.000,00 ( sepuluh miliar rupiah), kecuali ditentukan lain oleh peraturan perundang -undangan.
+
+Pasal 13 berbunyi: Ketentuan nilai investasi dan permodalan sebagaimana dimaksud dalam Pasal 12 ayat (2) dan ayat ( 7) dikecualikan bagi kantor perwakilan dan badan usaha luar negeri sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf c dan huruf d. Bagian Kelima Kewajiban Divestasi
+
+Pasal 14 ayat (1) berbunyi: Kewajiban divestasi saham badan usaha PMA yang telah ditetapkan pada surat persetujuan dan/atau Izin Usaha sebelum berlakunya Peraturan Badan ini , tetap mengikat dan harus dilaksanakan sesuai dengan jangka waktu yang ditetapkan.
+
+Pasal 14 ayat (2) berbunyi: Kewajiban divestasi sesuai dengan sektor usaha bagi badan usaha PMA tetap harus dilaksanakan sesuai dengan ketentuan peraturan perundang -undangan.
+
+Pasal 14 ayat (3) berbunyi: Divestasi saham sebagaimana dimaksud pada ayat (1) dan ayat (2), dapat dilakukan kepada warga negara Indonesia atau badan usaha Indonesia yang modal saham seluruhnya dimiliki warga negara Indonesia melalui kepemilikan langsung sesuai dengan kesepakatan para pihak dan /atau pasar modal dalam negeri.
+
+Pasal 14 ayat (4) berbunyi: Kepemilikan langsung sebagaimana dimaksud pada
+
+Pasal 14 ayat (3) berbunyi: bagi warga negara Indonesia atau badan usaha Indonesia paling sedikit Rp10.000.000,00 (sepuluh juta rupiah) untuk masing -masing pemegang saham.
+
+Pasal 14 ayat (5) berbunyi: Kepemilikan pada pasar m odal dalam negeri sebagaimana dimaksud pada ayat (3) diatur sesuai dengan ketentuan peraturan perundang -undangan di bidang pasar modal.
+
+Pasal 14 ayat (6) berbunyi: Kewajiban divestasi saham sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan dengan dasar dokumen akta yang m enyatakan kesepakatan para pihak terkait pelaksanaan kewajiban divestasi s aham.
+
+Pasal 14 ayat (7) berbunyi: Kepemilikan saham peserta Indonesia akibat dari pelaksanaan divestasi saham , setelah mendapat persetujuan dari menteri yang menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia , dapat dijual kembali kepada perseorangan warga negara Indonesia/perseorangan warga negara asing/ badan usaha Indonesia/ badan usaha asing dengan tetap memperhatikan ketentuan peraturan perundang -undangan.
+
+Pasal 14 ayat (8) berbunyi: Kewajiban divestasi s aham sebagaimana dimaksud pada ayat (1) dapat tidak dilaksanakan apabila ketentuan yang berlaku tidak mewajibkan divestasi dan di dalam dokumen akta perusahaan para pemegang saham menyepakati:
+
+Pasal 14 ayat (8) poin a berbunyi: untuk badan usaha PMA yang tidak 100% (seratus persen) sahamnya dim iliki oleh asing, pihak Indonesia menyatakan bahwa tidak menghendaki/menuntut kepemilikan saham sesuai dengan ketentuan divestasi sah am yang tercantum didalam surat persetujuan dan/atau Izin Usaha; atau
+
+Pasal 14 ayat (8) poin b berbunyi: untuk badan usaha PMA yang 100% ( seratus persen) saha mnya dimiliki oleh asing, para pemegang saham menyatakan tidak mempunyai komitmen/perjanjian dengan pihak Indonesia manapun untuk menjual saham.
+
+Pasal 14 ayat (9) berbunyi: Dalam hal kewajiban divestasi sa ham yang dapat tidak dilaksanakan sebagaimana dimaksud pada ayat
+
+Pasal 14 ayat (8) berbunyi: huruf b , para pemegang saham/ badan usaha bertanggung jawab apabila dikemudian hari ada pihak -pihak Indonesia yang menuntut dilaksanakannya kewajiban divestasi saha m tersebut.
+
+Pasal 14 ayat (10) berbunyi: Dalam hal perubahan kepemilikan saham untuk pelaksanaan kewajiban divestasi saham telah selesai dilakukan dan disahkan oleh menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia , Pelaku Usaha wajib melakukan perubahan data di Sistem OSS .
+
+Pasal 14 ayat (11) berbunyi: Pelaku Usaha menyampaikan k esepakatan para pemegang saham sebagaiman a dimaksud pada ayat
+
+Pasal 14 ayat (8) berbunyi: , kepada kepala lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal .
+
+Pasal 14 ayat (12) berbunyi: Lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal melakukan evaluasi dan penilaian atas penyampaian kesepakatan para pemegang saham sebagaimana dimaksud pada ayat (11) .
+
+Pasal 14 ayat (13) berbunyi: Dalam hal hasil evaluasi dan penilaian sebagaimana dimaksud pada ayat (12) :
+
+Pasal 14 ayat (13) poin a berbunyi: disetujui , lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal memberikan keterangan gugur terhadap kewajiban divestasi tersebut; atau
+
+Pasal 14 ayat (13) poin b berbunyi: tidak disetujui , lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal memberikan surat pe njelasan dan alasan penolakan. Bagian Keenam Ketentuan Bidang Usaha
+
+Pasal 15 ayat (1) berbunyi: Selain ketentuan nilai investasi dan permodalan sebagaimana dimaksud dalam Pasal 11 dan Pasal 12, Pelaku Usaha juga harus memperhatikan:
+
+Pasal 15 ayat (1) poin a berbunyi: KBLI;
+
+Pasal 15 ayat (1) poin b berbunyi: bidang usaha yang diklasifikasikan sebagai bidang usaha prioritas;
+
+Pasal 15 ayat (1) poin c berbunyi: bidang usaha dengan persyaratan tertentu ;
+
+Pasal 15 ayat (1) poin d berbunyi: bidang usaha yang dialokasikan bagi koperasi dan UMK -M dan bidang usaha yang terbuka untuk usaha besar yang bermitra dengan koperasi dan UMK -M;
+
+Pasal 15 ayat (1) poin e berbunyi: bidang usaha yang tertutup bagi penanaman modal;
+
+Pasal 15 ayat (1) poin f berbunyi: bidang usaha khusus ( single purpose dan single majority ); dan
+
+Pasal 15 ayat (1) poin g berbunyi: peraturan perundang -undangan yang terkait.
+
+Pasal 15 ayat (2) berbunyi: Bidang usaha yang diklasifikasikan sebagai bidang usaha prioritas sebagaimana dimaksud pada ayat (1) huruf b, bidang usaha dengan persyaratan tertentu sebagaimana dimaksud pada ayat (1) huruf c, bidang usaha yang dialokasikan bagi koperasi dan UMK -M dan bidang usaha yang terbuka untuk usaha besar yang bermitra dengan koperasi dan UMK -M sebagaim ana dimaksud pada ayat (1) huruf d, dan bidang usaha yang tertutup bagi penanaman modal sebagaimana pada ayat (1) huruf e diatur sesuai ketentuan dalam peraturan presiden tentang bidang usaha penanaman modal.
+
+Pasal 15 ayat (3) berbunyi: Bidang usaha khusus sebagaimana dimaksud pada
+
+Pasal 15 ayat (1) berbunyi: huruf f diatur sesuai ketentuan peraturan perundang -undangan. Bagian Ketujuh Ketentuan Perizinan Berusaha Berbasis Risiko Kantor Perwakilan dan Badan Usaha Luar Negeri Pasal 1 6
+
+Pasal 15 ayat (1) berbunyi: Kantor Perwakilan sebagaimana dimaksud dalam Pasal 9 ayat ( 1) huruf c dan badan usaha luar negeri sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf d mengikuti ketentuan Perizinan Berusaha Berbasis Risiko sesuai ketentuan peraturan perundangan - undangan.
+
+Pasal 15 ayat (2) berbunyi: Perizinan Berusaha Berbasis Risiko sebagaimana dimaksud pada ayat (1) diajukan melalui Sistem OSS .
+
+Pasal 15 ayat (3) berbunyi: Terhadap kantor perwakilan perusahaan asing sebagaimana dimaksud dalam Pasal 9 ayat ( 10) huruf b, berlaku ketentuan pembatasan sebagai berikut :
+
+Pasal 15 ayat (3) poin a berbunyi: sebagai pengawas, penghubung, koordinator, dan mengurus kepentingan perusahaan atau perusahaan -perusahaan afiliasinya;
+
+Pasal 15 ayat (3) poin b berbunyi: mempersiapkan pendirian dan Pengembangan Usaha perusahaan PMA di Indonesia atau di negara lain dan Indonesia;
+
+Pasal 15 ayat (3) poin c berbunyi: berlokasi di gedung perk antoran di ibu kota provinsi ;
+
+Pasal 15 ayat (3) poin d berbunyi: tidak mencari sesuatu penghasilan dari sumber di Indonesia termasuk tidak dibenarkan melaksanakan kegiatan atau melakukan sesuatu perikatan/ transaksi penjualan dan pembelian barang atau jasa komersial dengan perusahaan atau perorangan di dalam negeri; dan
+
+Pasal 15 ayat (3) poin e berbunyi: tidak ikut serta dalam bentuk apapun dalam pengelolaan sesuatu perusahaan, anak perusahaan atau cabang perusahaan yang ada di Indonesia.
+
+Pasal 15 ayat (4) berbunyi: Kepala perwakilan perusahaan asing harus bertempat tinggal di Indonesia, bertanggung jawab penuh atas kelancaran jalannya kantor, tidak dibenarkan melakukan kegiatan di luar kegiatan perwakilan perusahaan asing dan tidak merangkap jabatan sebagai pimpinan perusahaan dan/atau le bih dari 1 (satu) perwakilan perusahaan asing .
+
+Pasal 15 ayat (5) berbunyi: Dalam hal Kepala perwakilan perusahaan asing yang ditunjuk adalah WNA dan/atau memperkerjakan tenaga kerja asing, perwakilan perusahaan asing harus memperkerjakan tenaga kerja Indonesia sesuai dengan ketentuan peraturan perundang -undangan.
+
+Pasal 15 ayat (6) berbunyi: Perizinan Berusaha Berbasis Risiko sebagaimana dimaksud pada ayat ( 2) bagi kantor perwakilan perusahaan asing sebagaimana dimaksud dalam Pasal 9 ayat (10) huruf b termasuk dalam tingkat risiko rendah dan berlaku selama kantor perwakilan perusahaan asing melakukan kegiatan.
+
+BAB IV: Pelaksanaan Perizinan Berusaha Melalui Sistem OSS
+
+Bagian Kesatu
+
+Pasal 15 ayat (1) berbunyi: Perizinan Berusaha sebagaimana dimaksud dalam Pasal 6 diterbitkan melalui Sistem OSS .
+
+Pasal 15 ayat (2) berbunyi: Dalam melakukan permohonan Perizinan Berusaha, Pelaku Usaha sebagaimana dimaksud dalam Pasal 9 diberikan hak akses oleh Lembaga OSS .
+
+Pasal 15 ayat (3) berbunyi: Tata cara permohonan dan pemberian hak akses sebagaimana dimaksud pada ayat (2) diatur sesuai ketentuan dalam peraturan badan koordinasi penanaman modal mengenai sistem perizinan berusaha berbasis risiko terintegrasi secara elektronik . Bagian Kedua Penerbitan Perizinan Berusaha Paragraf 1 NIB
+
+Pasal 18 ayat (1) berbunyi: Dalam memulai kegiatan usaha, Pelaku Usaha harus memiliki NIB.
+
+Pasal 18 ayat (2) berbunyi: Setiap Pelaku Usaha hanya memiliki 1 (satu) NIB.
+
+Pasal 18 ayat (3) berbunyi: NIB sebagaimana dimaksud pada ayat (1) merupakan identitas bagi Pelaku Usaha sebagai bukti registrasi/pendaftaran Pelaku Usaha untuk melakukan kegiatan usaha.
+
+Pasal 18 ayat (4) berbunyi: NIB sebagaimana dimaksud pada ayat (1) berlaku juga sebagai:
+
+Pasal 18 ayat (4) poin a berbunyi: angka pengenal impor;
+
+Pasal 18 ayat (4) poin b berbunyi: hak akses kepabeanan;
+
+Pasal 18 ayat (4) poin c berbunyi: pendaftaran kepesertaan Pelaku Usaha untuk jaminan sosia l kesehatan dan jaminan sosial ketenagakerjaan ; dan
+
+Pasal 18 ayat (4) poin d berbunyi: wajib lapor ketenagakerjaan untuk periode pertama Pelaku Usaha.
+
+Pasal 18 ayat (5) berbunyi: Pelaku Usaha yang memerlukan angka pengenal impor sebagaimana dimaksud pada ayat (4) huruf a harus memilih:
+
+Pasal 18 ayat (5) poin a berbunyi: angka pengenal impor umum untuk kegiatan impor barang yang diperdagangkan; atau
+
+Pasal 18 ayat (5) poin b berbunyi: angka pengenal impor produsen untuk kegiatan impor barang yang dipergunakan sendiri sebagai baran g modal, bahan baku, bahan penolong, dan/atau bahan untuk mendukung proses produksi.
+
+Pasal 18 ayat (6) berbunyi: Pelaku Usaha orang p erseorangan hanya dapat memilih angka pengenal impor produsen sebagaimana dimaksud pada ayat (5) huruf b untuk kepentingan kegiatan usahanya sebagaiman a yang tercantum di dalam Perizinan Berusaha .
+
+Pasal 18 ayat (7) berbunyi: Pelaku Usaha sebagaimana dimaksud ayat (5) tidak termasuk Pelaku Usaha sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf c dan huruf d. Paragraf 2 Data Pelaku Usaha dan Rencana Umum Kegiatan Usaha
+
+Pasal 19 ayat (1) berbunyi: Dalam memohonkan NIB sebagaimana dimaksud dalam Pasal 18 ayat (1) , Pelaku Usaha memastikan kelengkapan data Pelaku Usaha dan rencana umum kegiatan usaha .
+
+Pasal 19 ayat (2) berbunyi: Data Pelaku Usaha sebagaimana dimaksud pada
+
+Pasal 19 ayat (1) berbunyi: untuk orang perseorangan paling sedikit terdiri atas :
+
+Pasal 19 ayat (1) poin a berbunyi: nama dan NIK;
+
+Pasal 19 ayat (1) poin b berbunyi: NPWP orang perseorangan ;
+
+Pasal 19 ayat (1) poin c berbunyi: rencana permodalan ; dan
+
+Pasal 19 ayat (1) poin d berbunyi: nomor telepon seluler dan/atau alamat surat elektronik ( email ).
+
+Pasal 19 ayat (3) berbunyi: Data Pelaku Usaha berupa nama dan NIK sebagaimana dimaksud pada ayat (2) huruf a merupakan data yang diakses dari data kependudukan yang dikelola oleh menyelenggarakan urusan pemerintahan dalam negeri.
+
+Pasal 19 ayat (4) berbunyi: Untuk mengakses data sebagaimana dimaksud pada
+
+Pasal 19 ayat (3) berbunyi: , orang perseorangan mengisi NIK dalam Sistem OSS.
+
+Pasal 19 ayat (5) berbunyi: Data Pelaku Usaha berupa NPWP orang perseorangan dan rencana permodalan sebagaimana dimaksud pada
+
+Pasal 19 ayat (2) berbunyi: huruf b dan huruf c diisi oleh Pelaku Usaha.
+
+Pasal 19 ayat (6) berbunyi: Data Pelaku Usaha sebagaimana dimaksud pada
+
+Pasal 19 ayat (1) berbunyi: untuk badan usaha paling sedikit terdiri atas :
+
+Pasal 19 ayat (1) poin a berbunyi: nama badan usaha ;
+
+Pasal 19 ayat (1) poin b berbunyi: jenis badan usaha ;
+
+Pasal 19 ayat (1) poin c berbunyi: status penanaman modal ;
+
+Pasal 19 ayat (1) poin d berbunyi: nomor akta pendirian atau nomor pendaftaran beserta pengesahannya ;
+
+Pasal 19 ayat (1) poin e berbunyi: alamat korespondensi;
+
+Pasal 19 ayat (1) poin f berbunyi: besaran rencana permodalan;
+
+Pasal 19 ayat (1) poin g berbunyi: data pengurus dan pemegang saham;
+
+Pasal 19 ayat (1) poin h berbunyi: negara asal penanam modal, dalam hal terdapat PMA;
+
+Pasal 19 ayat (1) poin i berbunyi: maksud dan tujuan badan usaha ;
+
+Pasal 19 ayat (1) poin j berbunyi: nomor telepon badan usaha ;
+
+Pasal 19 ayat (1) poin k berbunyi: alamat surat elektronik ( email ) badan usaha ; dan
+
+Pasal 19 ayat (1) poin l berbunyi: NPWP badan usaha .
+
+Pasal 19 ayat (7) berbunyi: Rencana umum kegiatan usaha sebagaimana dimaksud pada ayat (1) untuk orang perseorangan dan badan usaha paling sedikit terdiri atas :
+
+Pasal 19 ayat (7) poin a berbunyi: bidang usaha sesuai KBLI;
+
+Pasal 19 ayat (7) poin b berbunyi: lokasi usaha;
+
+Pasal 19 ayat (7) poin c berbunyi: akses kepabeanan;
+
+Pasal 19 ayat (7) poin d berbunyi: angka pengenal importir;
+
+Pasal 19 ayat (7) poin e berbunyi: keikutsertaan jaminan kesehatan dan ketenagakerjaa n; dan
+
+Pasal 19 ayat (7) poin f berbunyi: status laporan ketenagakerjaan .
+
+Pasal 19 ayat (8) berbunyi: Data Pelaku Usaha untuk badan usaha sebagaimana dimaksud pada ayat ( 6) dan rencana bidang usaha sesuai KBLI sebagaimana dimaksud pada ayat ( 7) huruf a merupakan data yang ditarik dari sistem yang dikelola oleh urusan pemerintahan di bidang hukum dan hak asasi manusia.
+
+Pasal 19 ayat (9) berbunyi: Penarikan data sebagaimana dimaksud pada ayat ( 8), badan usaha mengisi nama badan usaha dan/atau nomor pengesahan legalitas dalam Sistem OSS .
+
+Pasal 19 ayat (10) berbunyi: Dalam hal data sebagaimana dimaksud ayat ( 6) dan ayat ( 7) huruf a belum tersedia secara dalam jaringan (daring) sesuai dengan int egrasi antara Sistem OSS dengan sistem yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia, badan usaha melakukan pengisian data Pelaku Usaha .
+
+Pasal 19 ayat (11) berbunyi: Rencana umum kegiatan usaha sebagaimana dimaksud pada ayat (7) huruf b sampai dengan huruf f diisi oleh Pelaku Usaha.
+
+Pasal 20 ayat (1) berbunyi: Bagi orang perseorangan yang belum memiliki NPWP sebagaimana dimaksud dalam Pasal 1 9 ayat ( 2) huruf b, dapat mengajukan permohonan NPWP melalui Sistem OSS yang terintegrasi dengan sistem yang dikelola oleh urusan pemerintahan di bidang keuangan negara .
+
+Pasal 20 ayat (2) berbunyi: Terhadap data NPWP sebagaimana dimaksud dalam Pasal 19 ayat ( 2) huruf b dan ayat ( 6) huruf l, Sistem OSS melakukan validasi kesesuaian data dan/atau konfirmasi status wajib pajak melalui integrasi dengan sistem yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang keuangan negara.
+
+Pasal 21 ayat (1) berbunyi: Pengisian d ata rencana lokasi usaha sebagaimana dimaksud dalam Pasal 1 9 ayat ( 7) huruf b paling sedikit :
+
+Pasal 21 ayat (1) poin a berbunyi: alamat lokasi usaha ;
+
+Pasal 21 ayat (1) poin b berbunyi: kebutuhan luas lahan kegiatan pemanfaatan ruang ;
+
+Pasal 21 ayat (1) poin c berbunyi: informasi penguasaan lahan;
+
+Pasal 21 ayat (1) poin d berbunyi: koordinat lokasi ;
+
+Pasal 21 ayat (1) poin e berbunyi: rencana luas dan jumlah lantai bangunan ; dan
+
+Pasal 21 ayat (1) poin f berbunyi: rencana jumlah bangunan.
+
+Pasal 21 ayat (2) berbunyi: Dalam hal lokasi usaha belum memiliki RDTR, Pelaku Usaha selain melakukan pengisian data rencana lokasi usaha sebagaimana dimaksud pada ayat (1), juga mengunggah data rencana teknis bangunan dan/atau rencana induk kawasan .
+
+Pasal 21 ayat (3) berbunyi: Alamat lokasi usaha sebagaimana dimaksud pada
+
+Pasal 21 ayat (1) berbunyi: huruf a diisi paling sedikit alamat lengkap yang mencakup kelurahan, kecamatan, kabupaten/kota, dan provinsi .
+
+Pasal 21 ayat (4) berbunyi: Kebutuhan luas lahan sebagaimana dimaksud pada
+
+Pasal 21 ayat (1) berbunyi: huruf b diisi dengan luas lahan yang direncanakan untuk digunakan dalam satuan hektar (ha) atau meter persegi (m2).
+
+Pasal 21 ayat (5) berbunyi: Informasi penguasaan lahan sebagaimana dimaksud pada ayat (1) huruf c diisi dengan status penguasaan lahan berupa milik sendiri /sewa /pinjam pakai /menggunakan lahan sebelumnya .
+
+Pasal 21 ayat (6) berbunyi: Koordinat lokasi sebagaimana dimaksud pada ayat (1) huruf d diisi berupa koordinat lintang (latitude ) dan bujur (longitude ) dan digambarkan dalam bentuk poligon yang dapat memberikan informasi luasan dan bentuk.
+
+Pasal 21 ayat (7) berbunyi: Rencana luas dan jumlah lantai bangunan sebagaimana dimaksud pada ayat (1) huruf e disertakan pada pelaksanaan rencana pemanfaatan ruang akan dilakukan pembangunan gedung.
+
+Pasal 21 ayat (8) berbunyi: Rencana jumlah bangunan sebagaimana dimaksud pada ayat (1) huruf f mencakup bangunan yang merupakan kapasitas produk/jasa yang dihasilkan dan/atau prasarana yang diperlukan dalam mendukung kegiatan usaha .
+
+Pasal 21 ayat (9) berbunyi: Dalam pengisian rencana jumlah bangunan sebagaimana dimaksud pada ayat ( 1) huruf f, Pelaku Usaha juga mengisi status penguasaan bangunan yang meliputi sewa/bukan sewa/pinjam pakai/menggunakan bangunan proyek sebelumnya.
+
+Pasal 21 ayat (10) berbunyi: Dalam hal rencana lokasi usaha sebagaimana dimaksud pada ayat (1) berada pada wilayah perairan pesisir, perairan , atau laut, selain koordinat lokasi sebagaimana dimaksud pada ayat (1) huruf d , Pelaku Usaha juga mengisi data kedalaman lokasi , rencana bangunan dan instalasi di laut, dan informasi pemanfaatan ruang di sekitarnya.
+
+Pasal 21 ayat (11) berbunyi: Data rencana lokasi usaha sebagaimana dimaksud pada ayat ( 1) sesuai dengan data integrasi :
+
+Pasal 21 ayat (11) poin a berbunyi: lokasi daratan antara Sistem OSS dengan sistem yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang agraria dan tata ruang ;
+
+Pasal 21 ayat (11) poin b berbunyi: lokasi laut antara Sistem OSS dengan sistem yang dikelola oleh urusan pemerintahan di bidang kelautan dan perikanan ; dan
+
+Pasal 21 ayat (11) poin c berbunyi: lokasi hutan antara Sistem OSS dengan sistem yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang lingkungan hidup dan kehutanan.
+
+Pasal 22 ayat (1) berbunyi: Data Pelaku Usaha untuk kantor perwakilan dan badan usaha luar negeri sebagaimana dimaksud dalam Pasal 9 ayat ( 1) huruf c dan huruf d paling sedikit mencakup :
+
+Pasal 22 ayat (1) poin a berbunyi: nama perusahaan di luar negeri yang menunjuk;
+
+Pasal 22 ayat (1) poin b berbunyi: kegiatan usaha perusahaan di luar negeri yang menunjuk;
+
+Pasal 22 ayat (1) poin c berbunyi: alamat perusahaan di luar negeri yang menunjuk, termasuk negara asal ; dan
+
+Pasal 22 ayat (1) poin d berbunyi: data kantor perwakilan di Indonesia.
+
+Pasal 22 ayat (2) berbunyi: Data kantor perwakilan di Indonesia sebagaimana
+
+Pasal 22 ayat (1) berbunyi: huruf d paling sedikit terdiri atas :
+
+Pasal 22 ayat (1) poin a berbunyi: alamat lengkap korespondensi;
+
+Pasal 22 ayat (1) poin b berbunyi: nomor telepon kantor perwakilan yang dapat dihubungi ; dan
+
+Pasal 22 ayat (1) poin c berbunyi: alamat surat elektronik ( email ). Paragraf 3 Persyaratan Dasar Perizinan Berusaha Berbasis Risiko
+
+Pasal 23 berbunyi: Persyaratan dasar Perizinan Berusaha Berbasis Risiko meliputi: a. kesesuaian kegiatan pemanfaatan ruang; b. Persetujuan Lingkungan; dan c. PBG dan SLF .
+
+Pasal 24 ayat (1) berbunyi: Dalam proses penerbitan Perizinan Berusaha Berbasis Risiko , atas isian data rencana lokasi usaha sebagaimana dimaksud dalam Pasal 21 ayat ( 1), Sistem OSS melakukan pemeriksaan persyaratan dasar Perizinan Berusaha Berbasis Risiko berupa kesesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud dalam Pasal 23 huruf a.
+
+Pasal 24 ayat (2) berbunyi: Pemeriksaan k esesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud pada ayat ( 1) mencakup lokasi usaha :
+
+Pasal 24 ayat (2) poin a berbunyi: daratan;
+
+Pasal 24 ayat (2) poin b berbunyi: laut; dan /atau
+
+Pasal 24 ayat (2) poin c berbunyi: kawasan hutan.
+
+Pasal 24 ayat (3) berbunyi: Laut sebagaimana dimaksud pada ayat ( 2) huruf b merupakan perairan pesisir, wilayah perairan , dan wilayah yurisdiksi sebagaimana diatur dalam peraturan pemerintah mengenai penyelenggaraan penataan ruang.
+
+Pasal 25 ayat (1) berbunyi: Dalam hal rencana lokasi usaha berada di daratan , Sistem OSS melakukan pemeriksaan kesesuaian kegiatan pemanfaatan ruang melalui mekanisme sebagaimana dimaksud dalam Pasal 21 ayat (11) huruf a .
+
+Pasal 25 ayat (2) berbunyi: Atas pemeriksaan k esesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud pada ayat ( 1), Lembaga OSS menerbit kan:
+
+Pasal 25 ayat (2) poin a berbunyi: konfirmasi kesesuaian kegiatan pemanfaatan ruang ; atau
+
+Pasal 25 ayat (2) poin b berbunyi: persetujuan kesesuaian kegiatan pemanfaatan ruang .
+
+Pasal 25 ayat (3) berbunyi: Pemeriksaan kesesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud pada ayat ( 1) terlebih dahulu dilakukan atas ketersediaan RDTR daerah.
+
+Pasal 25 ayat (4) berbunyi: Dalam hal atas rencana lokasi usaha yang dimohonkan sudah sesuai dengan RDTR daerah sebagaimana dimaksud pada ayat ( 3), Sistem OSS secara otomatis menerbitkan konfirmasi kesesuaian kegiatan pemanfaat an ruang dengan format sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini . Dalam hal atas rencana lokasi usaha yang dimohonkan tidak sesuai dengan RDTR daerah sebagaimana dimaksud pada ayat ( 3), Sistem OSS menyampaikan notifikasi ketidaksesuaian tata ruang kepada Pelaku Usaha dan permohonan NIB tidak dapat dilanjutkan.
+
+Pasal 25 ayat (5) berbunyi: Terhadap notifikasi sebagaimana dimaksud pada ayat ( 5), Pelaku Usaha mencari alternatif lokasi yang sesuai tata ruang dan melakukan pe nyesuaian isian data rencana lokasi usaha sebagaimana dimaksud dalam Pasal 21 ayat (1).
+
+Pasal 26 ayat (1) berbunyi: Dalam hal atas rencana lokasi usaha daratan yang dimohonkan, Pemerintah Daerah belum menyusun dan menyediakan RDTR, Sistem OSS akan mengirimkan notifikasi permohonan persetujuan kesesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf b kepada Menteri yang menyelenggarakan urusan pemerintahan di bidang agraria dan tata ruang atau DPMPTSP Provinsi atau Kabupaten/Kota sesuai kewenangannya.
+
+Pasal 26 ayat (2) berbunyi: Terhadap notifikasi sebagaimana dimaksud pada
+
+Pasal 26 ayat (1) berbunyi: , Menteri yang menyelenggarakan urusan pemerintahan di bidang agraria dan tata ruang atau DPMPTSP provinsi atau kabupaten/kota sesuai kewenangannya melakukan penilaian kesesuaian kegiatan pemanfaatan dengan kajian menggunakan asas berjenjang dan komplementer yang berdasarkan:
+
+Pasal 26 ayat (1) poin a berbunyi: rencana tata ruang wilayah kabupaten/kota;
+
+Pasal 26 ayat (1) poin b berbunyi: rencana tata ruang wilayah provinsi;
+
+Pasal 26 ayat (1) poin c berbunyi: rencana tata ruang kawasan strategis nasional;
+
+Pasal 26 ayat (1) poin d berbunyi: rencana zonasi kawasan strategis nasional tertentu (RZ KSNT);
+
+Pasal 26 ayat (1) poin e berbunyi: rencana zonasi kawasan antar wilayah (RZ KAW);
+
+Pasal 26 ayat (1) poin f berbunyi: rencana tata ruang pulau/kepulauan; dan/atau
+
+Pasal 26 ayat (1) poin g berbunyi: rencana tata ruang wilayah nasional.
+
+Pasal 26 ayat (3) berbunyi: Sistem OSS yang terintegrasi dengan sistem yang dikelola oleh urusan pemerintahan di bidang agraria dan tata ruang, menyampaikan notifikasi permohonan kesesuaian kegiatan pemanfaatan ruang ke pada menteri yang menyelenggarakan urusan pemerintahan di bidang agraria dan tata ruang, DPMPTSP provinsi atau DPMPTSP kabupaten/kota dan kantor pertanahan sesuai kewenangan .
+
+Pasal 26 ayat (4) berbunyi: Terhadap notifikasi sebagaima na dimaksud pada
+
+Pasal 26 ayat (3) berbunyi: , Kantor pertanahan menyampaikan pertimbangan teknis pertanahan kepada menteri yang menyelenggarakan urusan pemerintahan di bidang agragria dan tata ruang atau DPMPTSP provinsi atau DPMPTSP kabupaten/kota sesuai kewenangannya paling lama 10 (sepuluh) Hari terhitung sejak pendaftaran atau pembayaran penerimaan negara bukan pajak yang dilakukan oleh Pelaku Usaha.
+
+Pasal 26 ayat (5) berbunyi: Dalam hal kantor pertanahan tidak menyampaikan pertimbangan teknis pertanahan dalam jangka waktu sebagaimana dimaksud pa da ayat ( 4), kantor pertanahan dimaksud dianggap telah memberikan pertimbangan teknis pertanahan.
+
+Pasal 26 ayat (6) berbunyi: Hasil penilaian yang dilakukan dengan mempertimbangkan kajia n sebagaimana dimaksud
+
+Pasal 26 ayat (2) berbunyi: dan pertimbangan teknis pertanahan sebagaimana dimaksud ayat (4) dinotifikasi melalui Sistem OSS dan selanjutnya:
+
+Pasal 26 ayat (2) poin a berbunyi: dalam hal disetujui, Sistem OSS menerbitkan persetujuan kesesuaian kegiatan pemanfaatan ruang, bagi Lembaga OSS atas nama menteri yang menyelenggarakan urusan pemerintahan di bidang agragria dan tata ruang , DPMPTSP provinsi atas nama gubernur, atau DPMPTSP kabupaten/kota atas nama bupati/walikota sesuai kewenangan serta menotifikasi kepada Pelaku Usaha melalui surat elektronik , dengan format sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak t erpisahkan dari Peraturan Badan ini; atau
+
+Pasal 26 ayat (2) poin b berbunyi: dalam hal ditolak, Sistem OSS menyampaikan notifikasi penolakan kepada Pelaku Usaha dan permohonan NIB tidak dapat dilanjutkan.
+
+Pasal 26 ayat (7) berbunyi: Dalam hal permohonan memerlukan kelengkapan data atau persyaratan, Sistem OSS menyampaikan notifikasi kepada Pelaku Usaha dan Pelaku Usaha menyampaikan kelengkapan data melalui Sistem OSS.
+
+Pasal 26 ayat (8) berbunyi: Dalam hal penolakan sebagaimana dimaksud pada ayat ( 6) huruf b berupa ketidak sesuaian lokasi atas tata ruang, Pelaku Usaha mencari alternatif lokasi yang sesuai tata ruang dan melakukan penyesuaian isian data rencana lokasi usaha sebagaimana dimaksud dalam Pasal 21 ayat (1).
+
+Pasal 26 ayat (9) berbunyi: Jangka waktu penerbitan atau penolakan persetujuan kesesu aian kegiatan pemanfaatan ruang sebagaimana dimaksud pada ayat ( 6) paling lama 20 (dua puluh) Hari dihitung sejak permohonan diajukan.
+
+Pasal 26 ayat (10) berbunyi: Dalam hal m enteri yang menyelenggarakan urusan pemerintahan di bidang tata ruang dan agraria atau DPMPTSP provinsi atau DPMPTSP kabupaten/kota sesuai kewenangannya tidak menyampaikan persetujuan atau penolakan dalam jangka waktu sebagaimana dimaksud pada ayat ( 9), menteri atau DPMPTSP dianggap telah memberikan persetujuan dan Sistem OSS menerbitkan persetujuan kesesuaian kegiatan pemanfaatan ruang.
+
+Pasal 26 ayat (11) berbunyi: Terhadap rencana lokasi usaha yang dimohonkan Pelaku UMK berdasarkan pernyataan bahwa kegiatan usaha telah sesuai rencana tata ruang dengan format sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini , tidak diperlukan penerbitan kesesuaian kegiatan pemanfaatan ruang.
+
+Pasal 26 ayat (12) berbunyi: Dalam hal Pelaku Usaha menengah dan besar melakukan pembangunan rumah bagi masyarakat berpenghasilan rendah dengan luasan tidak lebih dari 5 ha (lima hektare), persetuj uan kesesuaian kegiatan pemanfaatan ruang diterbitkan atas pernyataan Pelaku Usaha sesuai format dengan format sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini pada Sistem OSS.
+
+Pasal 26 ayat (13) berbunyi: Persetujuan kesesuaian kegiatan pemanfaatan ruang diterbitkan secara otomatis dalam hal:
+
+Pasal 26 ayat (13) poin a berbunyi: tanah lokasi usaha dan/atau kegiatan terletak di lokasi Kawasan Industri, kawasan pariwisata, dan KEK;
+
+Pasal 26 ayat (13) poin b berbunyi: tanah lokasi usaha dan/atau kegiatan diperlukan untuk perluasan usaha yang sudah berjalan dan letak tanahnya berbatasan dengan lokasi usaha dan/atau kegiatan yang bersangkutan dengan peruntukan tata ruang yang sama;
+
+Pasal 26 ayat (13) poin c berbunyi: tanah lokasi usaha dan/atau kegiatan me rupakan tanah yang sudah dikuasai oleh Pelaku Usaha lain yang telah mendapatkan izin lokasi/kesesuaian kegiatan pemanfaatan ruang dan akan digunakan oleh Pelaku Usaha;
+
+Pasal 26 ayat (13) poin d berbunyi: lokasi usaha dan/atau kegiatan yang terletak pada wilayah usaha minyak dan gas bumi yang sudah ditetapkan oleh pemerintah; dan/atau
+
+Pasal 26 ayat (13) poin e berbunyi: tanah lokasi usaha dan/atau kegiatan berasal dari otorita atau badan penyelenggara pengembangan suatu kawasan sesuai dengan rencana tata ruang kawasan pengembangan tersebut.
+
+Pasal 26 ayat (14) berbunyi: Mekanisme verifikasi, persetujuan, dan penolakan serta jangka waktu yang diperlukan dalam rangka persetujuan kesesuaian kegiatan pemanfaatan ruang ditetapkan dan diatur di dalam peraturan pemerintah tentang penyelenggaraan penataan ruang.
+
+Pasal 27 ayat (1) berbunyi: Dalam hal rencana lokasi usaha sebagaimana dimaksud dalam Pasal 1 9 ayat ( 7) huruf b berada di laut, p emeriksaan kesesuaian kegiatan pemanfaatan ruang dilakukan melalui mekanisme sebagaimana dimaksud dalam Pasal 21 ayat (1 1) huruf b dengan mengacu pada :
+
+Pasal 27 ayat (1) poin a berbunyi: rencana zonasi ; atau
+
+Pasal 27 ayat (1) poin b berbunyi: rencana tata ruang .
+
+Pasal 27 ayat (2) berbunyi: Sistem OSS mengirimkan notifikasi permohonan kesesuaian kegiatan pemanfaatan ruang laut kepada menteri yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan berdasarkan isian data rencana lokasi usaha sebagaimana dimaksud dalam Pasal 21 ayat (1) dan ayat ( 10).
+
+Pasal 27 ayat (3) berbunyi: Dalam hal lokasi pemanfaatan ruang laut merupakan kewenangan gubernur, Sistem OSS mengirimkan notifikasi permohonan kesesuaian kegiatan pemanfaatan ruang di laut kepada DPMPTSP provinsi.
+
+Pasal 27 ayat (4) berbunyi: Terhadap permohonan kesesuaian kegiatan pemanfaatan ruang di laut sebagaimana dimaksud pada ayat ( 2), menteri yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan menyampaikan notifikasi persetujuan atau penolakan ke dalam Sistem OSS paling lama 2 0 (dua puluh) Hari sejak permohonan NIB diajukan.
+
+Pasal 27 ayat (5) berbunyi: Berdasarkan notifikasi sebagaimana dimaksud pada ayat ( 4), Sistem OSS akan menerbitkan :
+
+Pasal 27 ayat (5) poin a berbunyi: persetujuan kesesuaian kegiatan pemanfaatan ruang laut;
+
+Pasal 27 ayat (5) poin b berbunyi: catatan kelengkapan persyaratan pemanfaatan ruang laut; atau
+
+Pasal 27 ayat (5) poin c berbunyi: penolakan kegiatan pemanfaatan ruang laut.
+
+Pasal 27 ayat (6) berbunyi: Dalam hal jangka waktu sebagaimana dimaksud pada ayat ( 4) terlampaui, persetujuan kesesuaian kegiatan pemanfaatan ruang laut diterbitkan secara otomatis oleh Sistem OSS dengan format sebagaimana tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 27 ayat (7) berbunyi: Dalam hal permohonan persetujuan sebagaimana dimaksud pada ayat ( 2) ditolak, Sistem OSS menyampaikan notifikasi penolakan kepada Pelaku Usaha dan permohonan NIB tidak dapat dilanjutkan.
+
+Pasal 27 ayat (8) berbunyi: Dalam hal penolakan sebagaimana dimaksud pada ayat ( 7) karena ketidaksesuaian lokasi atas rencana zonasi atau rencana tata ruang, Pelaku Usaha mencari alternatif lokasi dan melakukan penyesuaian isian data rencana lokasi usaha sebagaimana dimaksud dalam Pasal 21 ayat (1).
+
+Pasal 27 ayat (9) berbunyi: Mekanisme verifikasi, persetujuan, dan penolakan serta jangka waktu yang diperlukan dalam rangka persetujuan kesesuaian kegiatan pemanfaatan ruang laut sesuai ketentuan dalam peraturan pemerintah mengenai penyelenggaraan penataan ruang.
+
+Pasal 28 ayat (1) berbunyi: Dalam hal rencana lokasi usaha berada di kawasan hutan sebagaimana dimaksud dalam Pasal 24 ayat (2) huruf c , Pelaku Usaha dapat mengajukan permohonan melalui Sistem OSS untuk kegiatan :
+
+Pasal 28 ayat (1) poin a berbunyi: pemanfaatan kawasan hutan ;
+
+Pasal 28 ayat (1) poin b berbunyi: penggunaan kawasan hutan ; atau
+
+Pasal 28 ayat (1) poin c berbunyi: pelepasan kawasan hutan.
+
+Pasal 28 ayat (2) berbunyi: Atas kegiatan pemanfaatan kawasan hutan sebagaimana dimaksud pada ayat (1) huruf a, Pelaku Usaha diberikan Perizinan Berusaha Berbasis Risiko.
+
+Pasal 28 ayat (3) berbunyi: Untuk mendapatkan Perizinan Berusaha Berbasis Risiko sebagaimana dimaksud pada ayat (2), Pelaku Usaha mengajukan permohonan melalui Sistem OSS dengan mekanisme sebagaimana diatur dalam Peraturan Badan ini .
+
+Pasal 28 ayat (4) berbunyi: Untuk kegiatan penggunaan kawasan hutan sebagaiman a dimaksud pada ayat (1) huruf b , Pelaku Usaha wajib mendapatkan persetujuan penggunaan kawasan hutan .
+
+Pasal 28 ayat (5) berbunyi: Untuk kegiatan pelepasan kawasan hutan sebagaimana dimaksud pada ayat (1) huruf c, Pelaku Usaha wajib mendapatkan persetujuan pelepasan kawasan hutan.
+
+Pasal 28 ayat (6) berbunyi: Dalam hal kegiatan dan rencana lokasi usaha yang dimohonkan Pelaku Usaha membutuhkan persetujuan penggunaan kawasan hutan sebagaimana dimaksud pada ayat (4) atau persetujuan pelepasan kawasan hutan sebagaimana dimaksud pada ayat (5) , Sistem OSS mengir imkan notifikasi permohonan ke s istem pemerintahan di bidang lingkungan hidup dan kehutanan untuk dilakukan verifikasi dalam jangka waktu sesuai dengan ketentuan peraturan perundang - undangan .
+
+Pasal 28 ayat (7) berbunyi: Hasil verifikasi sebagaimana dimaksud pada ayat ( 6) dinotifikasi melalui Sistem OSS yang terdiri atas:
+
+Pasal 28 ayat (7) poin a berbunyi: persetujuan;
+
+Pasal 28 ayat (7) poin b berbunyi: catatan kelengkapan persyaratan; atau
+
+Pasal 28 ayat (7) poin c berbunyi: penolakan , atas penggunaan kawasan hutan atau pelepasan kawasan hutan
+
+Pasal 28 ayat (8) berbunyi: Terhadap notifikasi sebagaimana dimaksud pada ayat ( 7) huruf a dan huruf c , Lembaga OSS atas nama menteri yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidup dan kehutanan akan menerbitkan persetujuan atau penolakan penggunaan kawasan hutan atau pelepasan kawasan hutan .
+
+Pasal 28 ayat (9) berbunyi: Terhadap notifikasi catatan kelengkapan persyaratan sebagaimana dimaksud pada ayat ( 7) huruf b, Sistem OSS meneruskan kepada Pelaku Usaha.
+
+Pasal 28 ayat (10) berbunyi: Dalam hal urusan di bidang lingkungan hidup dan kehutanan tidak memberikan notifikasi sebagaimana dimaksud pada ayat ( 7) huruf a, huruf b , dan huruf c, Sistem OSS menerbitkan persetujuan penggunaan kawasan hutan atau pelepasan kawasan hutan .
+
+Pasal 28 ayat (11) berbunyi: Persetujuan atau penolakan sebagaimana dimaksud pada ayat (8) dan persetujuan sebagaimana dimaksud pada ayat (10), mengikuti format sebagaimana diatur di dalam peraturan menteri yang menyelenggarakan urusan di bidang lingkungan hidup dan kehutanan. Paragraf 4 Data Kegiatan Usaha
+
+Pasal 29 ayat (1) berbunyi: Dalam hal secara tata ruang dan rencana umum kegiatan usaha yang dimohonkan sudah sesuai dan disetujui, Pelaku Usaha mengisi data kegiatan usaha untuk melanjutkan proses permohonan NIB.
+
+Pasal 29 ayat (2) berbunyi: Bagi orang perseorangan dan badan usaha isian data kegiatan usaha paling sedikit terdiri atas :
+
+Pasal 29 ayat (2) poin a berbunyi: jenis produk/jasa yang dihasilkan;
+
+Pasal 29 ayat (2) poin b berbunyi: kapasitas produk/jasa;
+
+Pasal 29 ayat (2) poin c berbunyi: jumlah tenaga kerja ; dan
+
+Pasal 29 ayat (2) poin d berbunyi: rencana nilai investasi .
+
+Pasal 29 ayat (3) berbunyi: Bagi Pelaku Usaha kantor perwakilan dan badan usaha luar negeri , selain isian data sebagaimana dimaksud dalam Pasal 22 ayat ( 1), Pelaku Usaha mengunggah kelengkapan dokumen sebagaimana dipersyaratkan dalam ketentuan peraturan pemerintah tentang penyelenggaraan perizinan berusaha berbasis risiko .
+
+Pasal 29 ayat (4) berbunyi: Dalam hal persyarat an kelengkapan dokumen sebagaimana dimaksud pada ayat (3) tidak diatur , Pelaku Usaha mengungg ah kelengkapan dokumen sebagaimana tercantum dalam Lampiran II yang merupakan bagian yang tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 29 ayat (5) berbunyi: Data kegiatan usaha sebagaimana dimaksud pada ayat ( 2) diisi untuk masing -masing kode KBLI 5 (lima) digit dan per-lokasi .
+
+Pasal 29 ayat (6) berbunyi: Bagi badan usaha PMA, Sistem OSS melakukan validasi atas rencana nilai investasi sebagaimana dimaksud pada ayat (2) huruf d sesuai ketentuan sebagaimana dimaksud dalam Pasal 1 2 ayat (2) .
+
+Pasal 29 ayat (7) berbunyi: Ketentuan data kegiatan usaha berupa jenis produk/jasa yang dihasilk an sebagaimana dimaksud pada ayat ( 2) huruf a mencakup:
+
+Pasal 29 ayat (7) poin a berbunyi: jenis kegiatan yang menghasilkan produk diisi dengan nama produk akhir yang dihasilkan ;
+
+Pasal 29 ayat (7) poin b berbunyi: jenis produk/jasa untuk kegiatan jasa/perdagangan diisi dengan kegiatan jasa/perdagangan yang dilakukan ; dan
+
+Pasal 29 ayat (7) poin c berbunyi: kegiatan perdagang an besar mencakup ekspor, impor dan/atau distributor.
+
+Pasal 29 ayat (8) berbunyi: Ketentuan data kegiatan usaha berupa kapasitas produk/jasa sebagaimana dimaksud pada ayat ( 2) huruf b:
+
+Pasal 29 ayat (8) poin a berbunyi: untuk kegiatan yang menghasilkan produk, satuan kapasitas diisi dengan satuan volume/berat/unit/buah .
+
+Pasal 29 ayat (8) poin b berbunyi: untuk jasa/perdagangan, satuan berupa mata uang dalam rupiah (Rp); dan
+
+Pasal 29 ayat (8) poin c berbunyi: untuk jasa terkait prasarana, satuan berupa unit/lantai/kamar sesuai prasara na.
+
+Pasal 29 ayat (9) berbunyi: Jumlah tenaga kerja sebagaimana dimaksud pada ayat ( 2) huruf c diisi dengan jumlah tenaga kerja Warga Negara Indonesia yang terdiri atas tenaga kerja laki-laki dan tenaga kerja perempuan.
+
+Pasal 29 ayat (10) berbunyi: Rencana nilai investasi sebagaimana dimaksud ayat
+
+Pasal 29 ayat (2) berbunyi: huruf d diisi dengan nilai yang mencakup:
+
+Pasal 29 ayat (2) poin a berbunyi: nilai pembelian dan pemat angan tanah, merupakan nilai perolehan awal atas tanah yang dikeluarkan untuk pengadaan termasuk biaya pematangan tanah ( land clearing , cut and fill , dan lainya) ;
+
+Pasal 29 ayat (2) poin b berbunyi: nilai bangunan/gedung, merupakan biaya yang dikeluarkan untuk pembangunan bangunan pabrik, gu dang dan prasarana yang ada dalam lokasi proyek, biaya konsultan desain, pembangunan jalan permanen di dalam lokasi proyek, fasilitas umum, dan fasilitas khusus serta sarana pendukung lainnya ;
+
+Pasal 29 ayat (2) poin c berbunyi: nilai mesin/peralatan, merupakan biaya yang dikeluarkan untuk p embelian mesin/peralatan termasuk suku cadang ( spareparts ), baik yang diimpor maupun pembelian lokal termasuk peralatan pencegahan pencemaran lingkungan ;
+
+Pasal 29 ayat (2) poin d berbunyi: nilai investasi lain -lain, merupakan biaya lainnya yang dikeluarkan, termasuk kendaraan operasional pe rusahaan, peralatan kantor, studi kelayakan, biaya sewa lahan/gedung, biaya survey, perizinan, termasuk biaya operasional (modal kerja) selama masa pembangunan/konstruksi selama perusahaan belum siap produksi komersial, selain untuk tanah, bangunan/gedung, dan mesin/peralatan; dan
+
+Pasal 29 ayat (2) poin e berbunyi: nilai modal kerja (untuk 1 turnover ), merupakan biaya yang dikeluarkan untuk bahan baku/penolong, gaji/upah karyawan, biaya operasional (listrik, air, telepon) dan biaya overhead perusahaan pada saat Pelaku Usaha siap mulai beroperasi/produksi .
+
+Pasal 29 ayat (11) berbunyi: Selain data kegiatan usaha sebagaimana dimaksud pada ayat (2), Pelaku Usaha orang perseorangan dan badan usaha juga mengisi jangka waktu perkiraan mulai beroperasi/produksi dalam bulan dan tahun.
+
+Pasal 30 ayat (1) berbunyi: Dalam proses pengisian data rencana umum kegiatan usaha sebagaimana dimaksud dalam Pasal 19 ayat ( 7), Pelaku Usaha orang perseorangan dan badan usaha harus melakukan klarifikasi kegiatan usaha.
+
+Pasal 30 ayat (2) berbunyi: Klarifikasi kegiatan usaha sebagaimana dimaksud pada ayat ( 1) berupa :
+
+Pasal 30 ayat (2) poin a berbunyi: kegiatan usaha utama ;
+
+Pasal 30 ayat (2) poin b berbunyi: kegiatan usaha pendukung ; dan/atau
+
+Pasal 30 ayat (2) poin c berbunyi: kantor cabang administrasi.
+
+Pasal 30 ayat (3) berbunyi: Kegiatan usaha utama sebagaimana dimaksud pada ayat ( 2) huruf a merupakan kegiatan usaha sebagaimana yang tercantum pada Data Pelaku Usaha dan bertujuan komersial, sumber pendapatan, atau menghasilkan keuntungan bagi Pelaku Usaha.
+
+Pasal 30 ayat (4) berbunyi: Ketentuan kegiatan usaha pendukung sebagaimana dimaksud pada ayat (2) huruf b adalah sebagai berikut:
+
+Pasal 30 ayat (4) poin a berbunyi: merupakan kegiatan usaha yang tergolong sebagai pendukung dari kegiatan utama;
+
+Pasal 30 ayat (4) poin b berbunyi: bukan merupakan sumber pendapatan bagi Pelaku Usaha;
+
+Pasal 30 ayat (4) poin c berbunyi: kegiatannya dapat dilakukan dan diselesaikan terlebih dahulu sebelum pelaksanaan Kegiatan Usaha Utama ;
+
+Pasal 30 ayat (4) poin d berbunyi: Pelaku Usaha wajib memenuhi persyaratan sesuai dengan ketentuan peraturan perundang - undangan, termasuk pe ngidentifikasian Perizinan Berusaha Berbasis Risiko ; dan
+
+Pasal 30 ayat (4) poin e berbunyi: dikecualikan atas validasi ketentuan nilai investasi dan permodalan sebagaimana dimaksud dalam Pasal 11 dan Pasal 12, serta kewajiban pencantuman KBLI dalam maksud dan tujuan pada akta.
+
+Pasal 30 ayat (5) berbunyi: Perizinan Berusaha atas Kegiatan Usaha Utama dan pendukung sebagaimana dimaksud pada ayat (2) huruf a dan huruf b berupa Perizinan Berusaha Berbasis Risiko .
+
+Pasal 30 ayat (6) berbunyi: Pada tahap operasional dan/atau komersial, atas kegiatan utama dan pendukung sebagaimana dimaksud p ada ayat (2) huruf a dan huruf b dapat dimohonkan Perizinan Berusaha Untuk Menunjang Kegiatan Usah a.
+
+Pasal 30 ayat (7) berbunyi: Kantor cabang administrasi sebagaimana dimaksud pada ayat (2) huruf c merupakan unit atau bagian dari perusahaan induknya yang dapat berkedudukan di tempat yang berlainan yang bersifat administratif, dan tidak memerlukan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha.
+
+Pasal 30 ayat (8) berbunyi: Data kantor cabang administrasi sebagaimana dimaksud pada ayat (7) menjadi bagian dari Lampiran NIB.
+
+Pasal 30 ayat (9) berbunyi: Dalam hal 1 (satu) kegiatan usaha utama sebagaimana dimaksud pada ayat (2) huruf a merupakan:
+
+Pasal 30 ayat (9) poin a berbunyi: dalam 1 (satu) lini produksi menghasilkan lebih dari 1 (satu) produk yang berbeda kode KBLI 5 (lima) digit dengan lokasi yang sama; atau
+
+Pasal 30 ayat (9) poin b berbunyi: kegiatan yang menghasilkan jasa lebih dari 1 (satu) kode KBLI 5 (lima) digit berbeda dengan lokasi yang sama, kelengkapan data dapat digabung menjadi 1 (satu) , kelengkapan data sebagaimana dimaksud dalam Pasal 29 ayat (2) dapat digabung menjadi 1 (satu).
+
+Pasal 30 ayat (10) berbunyi: Perizinan Berusaha Berbasis Risiko atas kegiatan usaha utama sebagaimana dimaksud pada ayat ( 9) huruf a mengikuti basis risiko yang tertinggi.
+
+Pasal 30 ayat (11) berbunyi: Perizinan Berusaha Berbasis Risiko atas kegiatan utama sebagaimana dimaksud pada ayat ( 9) huruf b sesuai ketentuan peraturan perundang -undangan.
+
+Pasal 31 ayat (1) berbunyi: Selain dilakukan verifikasi kesesuaian kegiatan pemanfaatan ruang, a tas isian rencana umum kegiatan usaha sebagaimana dimaksud dalam Pasal 19 ayat ( 7) dan data kegiatan usaha sebagaimana dimaksud dalam Pasal 29 ayat ( 2), Sistem OSS juga akan melakukan pemeriksaan ketentuan lingkungan hidup serta dokumen yang harus diproses oleh Pelaku Usaha berdasarkan kegiatan usaha dan tingkat risikonya.
+
+Pasal 31 ayat (2) berbunyi: Setiap rencana usaha dan/atau kegiatan yang berdampak terhadap lingkung an wajib memiliki dokumen lingkungan hidup berupa :
+
+Pasal 31 ayat (2) poin a berbunyi: Amdal ;
+
+Pasal 31 ayat (2) poin b berbunyi: UKL-UPL; atau
+
+Pasal 31 ayat (2) poin c berbunyi: SPPL .
+
+Pasal 31 ayat (3) berbunyi: Daftar usaha dan/atau kegiatan yang wajib memiliki Amdal, UKL -UPL dan SPPL ditetapkan sesuai dengan ketentuan peraturan perundang -undangan.
+
+Pasal 31 ayat (4) berbunyi: Terhadap rencana usaha dan/atau kegiatan yang wajib Amdal atau UKL-UPL, Persetujuan Lingkungan diberikan melalui:
+
+Pasal 31 ayat (4) poin a berbunyi: penyusunan Amdal dan uji kelayakan Amdal; atau
+
+Pasal 31 ayat (4) poin b berbunyi: verifikasi atas UKL-UPL.
+
+Pasal 31 ayat (5) berbunyi: Persetujuan lingkungan sebagaimana dimaksud pada
+
+Pasal 31 ayat (4) berbunyi: menjadi pemenuhan persyaratan Perizinan Berusaha.
+
+Pasal 31 ayat (6) berbunyi: Dalam hal rencana usaha dan/atau kegiatan wajib Amdal atau UKL-UPL, Sistem OSS meneruskan verifikasi Persetujuan Lingkungan kepada daerah melalui sistem yang dikelola oleh yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidup dan kehutanan . terkait sebagaimana dimaksud pada ayat ( 6) melakukan uji kelayakan Amdal atau verifikasi atas UKL-UPL dalam jangka waktu sesuai ketentuan peraturan perundang -undangan.
+
+Pasal 31 ayat (7) berbunyi: Terhadap hasil uji kelayakan Amdal sebagaimana dimaksud pada ayat ( 7) ditetapkan:
+
+Pasal 31 ayat (7) poin a berbunyi: surat keputusan kelayakan lingkungan hidup; atau
+
+Pasal 31 ayat (7) poin b berbunyi: surat keputusan ketidaklayakan lingkungan hidup yang disampaikan kepada Pelaku Usaha melalui Sistem OSS .
+
+Pasal 31 ayat (8) berbunyi: Dalam hal disetujui, atas kegiatan usaha wajib Amdal diterbitkan Surat Keputusan Kelayakan Lingkungan Hidup disampaikan kepada Pelaku Usaha melalui Sistem OSS dengan format sebagaimana tercantum dalam peraturan pemerintah mengenai penyelenggaraan perlindungan dan pengelolaan lingkungan hidup .
+
+Pasal 31 ayat (9) berbunyi: Dalam hal hasil verifikasi atas UKL-UPL sebagaimana dimaksud pada ayat (7) disetujui, Persetujuan Pernyataan Kesanggupan Pengelolaan Lingkungan Hidup dengan format sebagaimana tercantum dalam peraturan pemerintah mengenai penyelenggaraan perlindungan dan pengelolaan lingkungan hidup diterbitkan dan disampaikan kepada Pelaku Usaha melalui Sistem OSS .
+
+Pasal 31 ayat (10) berbunyi: Ketentuan dan tata cara pemenuhan dokumen lingkungan hidup sebagaimana dimaksud pada
+
+Pasal 31 ayat (2) berbunyi: sesuai ketentuan peraturan pemerintah tentang penyelenggaraan perlindungan dan pengelolaan lingkungan hidup.
+
+Pasal 31 ayat (11) berbunyi: Dalam hal lokasi usaha berada di Kawasan Industri dan/atau KEK, kewajiban dokumen lingkungan yang harus dibuat oleh Pelaku Usaha adalah berupa RKL Rinci dan RPL Rinci.
+
+Pasal 31 ayat (12) berbunyi: Format RKL Rinci dan RPL Rinci sebagaimana diatur dalam peraturan menteri yang menyelenggarakan urusan di lingkungan hidup dan kehutanan.
+
+Pasal 31 ayat (13) berbunyi: RKL Rinci dan RPL Rinci sebagaimana dimaksud pada ayat (1 3) merupakan bentuk Persetujuan Lingkungan bagi Pelaku Usaha di dalam kawasan yang dinyatakan dalam bentuk SPPL dengan format sebagaimana ketentuan peraturan pemerintah tentang penyelenggaraan perlindungan dan pengelolaan lingkungan hidup .
+
+Pasal 31 ayat (14) berbunyi: Terhadap pernyataan sebagaimana dimaksud pada ayat (1 4), Pelaku Usaha mengajukan permohonan pengesahan melalui Sistem OSS kepada pengelola Kawasan Industri dan/atau administrator KEK.
+
+Pasal 31 ayat (15) berbunyi: Dalam hal rencana usaha dan/atau kegiatan wajib Amdal atau UKL -UPL dan terdapat dampak lalu lintas, persetujuan teknis atas analisis dampak lalu lintas (ANDALALIN) diintegrasikan ke dalam Amdal atau UKL-UPL sesuai ketentuan peraturan perundang - undangan.
+
+Pasal 31 ayat (16) berbunyi: Dalam hal rencana usaha dan/atau kegiatan tidak termasuk wajib Amdal atau UKL -UPL, SPPL diintegrasikan ke dalam NIB.
+
+Pasal 32 ayat (1) berbunyi: Dalam hal pemanfaatan ruang, kegiatan usaha dan lokasi yang dimohonkan sudah sesuai dengan tata ruang , baik secara otomatis oleh Sistem OSS maupun melalui tahapan persetujuan oleh instansi teknis, atas rencana luas dan jumlah lantai bangunan sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf e dan rencana jumlah bangunan sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf f, Sistem OSS memberikan :
+
+Pasal 32 ayat (1) poin a berbunyi: notifikasi keperluan PBG kepada sistem informasi manajemen bangunan gedung (SIMBG) yang dikelola oleh urusan pemerintahan di bidang pekerjaan umum dan perumahan rakyat ; dan
+
+Pasal 32 ayat (1) poin b berbunyi: notifikasi kepada Pelaku Usaha untuk menindaklanjuti untuk memperoleh PBG dan SLF ke SIMBG.
+
+Pasal 32 ayat (2) berbunyi: Terhadap permohonan sebagaimana dimaksud pada
+
+Pasal 32 ayat (1) berbunyi: , dalam waktu yang bersamaan, Pelaku Usaha tetap dapat memproses permohonan Perizinan Berusaha.
+
+Pasal 32 ayat (3) berbunyi: Mekanisme validasi penolakan dan persetujuan serta jangka waktu yang ditetapkan atas permohonan sebagaimana dimaksud pada ayat ( 1) diatur sesuai dengan peraturan pemerintah tentang penyelenggaraan bidang pekerjaan umum dan perumahan rakyat . Paragraf 5 RPTKA , Badan Penyelenggara Jaminan Sosial Ketenagakerjaan, Badan Penyelenggara Jaminan Sosial Kesehatan, dan Wajib Lapor Ketenagakerjaan di Perusahaan
+
+Pasal 33 ayat (1) berbunyi: Dalam hal menggunakan tenaga kerja asing, Pelaku Usaha menyampaikan permohonan pengesahan RPTKA melalui sistem elektronik yang diselenggarakan pemerintahan di bidang ketenagakerjaan .
+
+Pasal 33 ayat (2) berbunyi: Dalam hal Pengesahan RPTKA disetujui, yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan menyampai kan persetujuan kepada Lembaga OSS melalui sistem yang terintegrasi dengan Sistem OSS .
+
+Pasal 33 ayat (3) berbunyi: Pengesahan RPTKA sebagaimana dimaksud pada
+
+Pasal 33 ayat (2) berbunyi: menjadi bahan Pengawasan.
+
+Pasal 33 ayat (4) berbunyi: Tata cara permohonan sebagaiman a dimaksud pada ayat ( 1) diatur sesuai ketentuan dalam p eraturan menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan dan di bidang hukum dan hak asasi manusia.
+
+Pasal 34 ayat (1) berbunyi: Terhadap Pelaku Usaha yang belum terdaftar sebagai peserta jaminan sosial kesehatan dan jaminan sosial ketenagakerjaan , NIB berlaku juga sebagai pendaftaran kepesertaa n.
+
+Pasal 34 ayat (2) berbunyi: Bagi Pelaku Usaha yang telah terdaftar sebagai peserta jaminan sosial kesehatan harus mengisi nomor virtual account Pelaku Usaha pada Sistem OSS .
+
+Pasal 34 ayat (3) berbunyi: Bagi Pelaku Usaha yang telah terdaftar sebagai peserta jaminan sosial ketenagakerjaan harus mengisi nomor pendaftaran perusahaan Pelaku Usaha pada Sistem OSS .
+
+Pasal 34 ayat (4) berbunyi: Atas pendaftaran sebagaimana dimaksud pada
+
+Pasal 34 ayat (1) berbunyi: , Sistem OSS menerbitkan bukti pendaftaran kepesertaan BPJS Ketenagakerjaan dan BPJS Kesehatan. Pasal 3 5
+
+Pasal 34 ayat (1) berbunyi: Bagi Pelaku Usaha yang belum melakukan wajib lapor ketenagakerjaan di perusahaan, NIB merupakan bukti pemenuhan laporan pertama wajib lapor ketenagakerjaan di perusahaan.
+
+Pasal 34 ayat (2) berbunyi: Bagi Pelaku Usaha yang telah melakukan wajib lapor ketenagakerjaan di perusahaan, harus mengisi nomor wajib lapor ketenagakerjaan di perusahaan pada saat pendaftaran NIB.
+
+Pasal 34 ayat (3) berbunyi: Terhadap bukti pemenuhan laporan sebagaimana dimaksud pada ayat (1), Sistem OSS mengirim d ata ketenagakerjaan perusahaan kepada sistem wajib lapor ketenagakerjaan yang dikelola menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan .
+
+Pasal 34 ayat (4) berbunyi: Terhadap bukti pemenuhan laporan sebagaiman a dimaksud pada ayat (1), Pelaku usaha yang telah memiliki NIB wajib melakukan pelaporan kepada menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan secara berkala setiap 1 (satu) tahun pada bulan Desember sesuai dengan peraturan perundang -undangan d i bidang ketenagakerjaan . Bagian Ketiga Penerbitan Perizinan Berusaha Berbasis Risiko Paragraf 1 Umum
+
+Pasal 36 ayat (1) berbunyi: Sistem OSS menerbitkan NIB sebagai identitas dan legalitas untuk melakukan persiapan usaha secara otomatis dan dilengkapi tanda tangan elektronik dengan format sebagaimana tercantum pada Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini berdasarkan :
+
+Pasal 36 ayat (1) poin a berbunyi: isian data Pelaku Usaha dan rencana umum kegiatan usaha sebagaimana dimaksud dalam Pasal 19;
+
+Pasal 36 ayat (1) poin b berbunyi: hasil pemeriksaan kesesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud dalam Pasal 24 ayat ( 1); dan
+
+Pasal 36 ayat (1) poin c berbunyi: isian data kegiatan usaha sebagaimana dimaksud dalam Pasal 29.
+
+Pasal 36 ayat (2) berbunyi: Sistem OSS secara otomatis mengirimkan notifikasi penerbitan NIB sebagaimana dimaksud pada ayat (1) kepada DPMPTSP kabupaten/kota , administrator KEK, dan badan pengusahaan KPBPB s esuai kewenangannya.
+
+Pasal 36 ayat (3) berbunyi: Dalam proses penerbitan sebagaimana dimaksud
+
+Pasal 36 ayat (1) berbunyi: juga dilakukan proses validasi tingkat risiko atas kegiatan usaha yang akan dilakukan.
+
+Pasal 36 ayat (4) berbunyi: Tingkat risiko yang dimaksud pada ayat ( 3) mengikuti tingkat risiko sesuai dengan norma, standar, prosedur dan kriteria otomatis terverifikasi oleh Sistem OSS sebagaimana dimaksud pada peraturan pemerintah mengenai penyelenggaraan Perizinan Berusaha Berbasis Risiko .
+
+Pasal 36 ayat (5) berbunyi: Pelaku Usaha yang termasuk ke dalam kategori Usaha besar sebagaimana dimaksud dalam Pasal 12 dan mengajukan permohonan atas kegiatan usaha yang wajib bermitra sebagaimana dimaksud dalam peraturan presiden tentang bidang usaha penanaman modal , menyampaikan pernyataan mengenai komitmen untuk melakukan kemitraan dengan Koperasi dan UMK -M sebelum NIB sebagaimana dimaksud pada ayat (1) diterbitkan .
+
+Pasal 36 ayat (6) berbunyi: Format pernyataan sebagaimana dimaksud pada ayat ( 5) tercantum pada Lampiran X yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 36 ayat (7) berbunyi: Terhadap pernyataan Pelaku Usaha sebagaimana dimaksud pada ayat ( 5), DPMPTSP provinsi , DPMPTSP kabupaten/kota , dan administrator KEK, sesuai kewenangannya dapat melakukan Pengawasan sesuai ketentuan peraturan perundang -undangan. Paragraf 2 Penerbitan Perizinan Berusaha Risiko Rendah
+
+Pasal 37 ayat (1) berbunyi: Pelaku Usaha yang memiliki kegiatan usaha dengan tingkat risiko rendah menyampaikan pernyataan kesanggupan pengelolaan dan pemantauan lingkungan hidup yang tersedia di Sistem OSS sebelum NIB sebagaimana dimaksud dalam Pasal 36
+
+Pasal 37 ayat (1) berbunyi: diterbitkan .
+
+Pasal 37 ayat (2) berbunyi: Format pernyataan kesanggupan pengelolaan dan pemantauan lingkungan hidup sebagaimana dimaksud pada ayat (1) tercantum pada Lampiran IV yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 37 ayat (3) berbunyi: Pelaku Usaha memperoleh NIB yang sekaligus menjadi SPPL atas dasar pernyataan kesanggupan pengelolaan dan pemantauan lingkungan hidup sebagaimana dimaksud pada ayat ( 1).
+
+Pasal 37 ayat (4) berbunyi: Sistem OSS secara otomatis mengirimkan notifikasi penerbitan NIB yang sekaligus menjadi SPPL sebagaimana dimaksud pada ayat (3) kepada kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai kewenangannya.
+
+Pasal 37 ayat (5) berbunyi: NIB sebagaimana dimaksud pada ayat (3) sebagai legalit as untuk melaksanakan persiapan kegiatan berusaha, sekaligus operasional dan/atau komersial.
+
+Pasal 37 ayat (6) berbunyi: NIB sebagaimana dimaksud pada ayat (3) diterbitkan secara otomatis melalui Sistem OSS dilengkapi tanda tangan elektronik dengan format sebagaimana tercantum pada L ampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 37 ayat (7) berbunyi: Kegiatan yang dilakukan oleh Pelaku Usaha k antor perwakilan perusahaan asing sebagaimana dimaksud dalam Pasal 9 ayat ( 10) huruf b, dikategorikan dalam tingkat risiko rendah yang ditetapkan oleh lembaga pemerintah yang mempunyai tugas menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal.
+
+Pasal 37 ayat (8) berbunyi: Terhadap Kantor Perwakilan Perusahaan Asing sebagaimana dimaksud pada ayat ( 7), NIB diterbitkan dengan format sebagaimana tercantum pada Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini. Paragraf 3 Penerbitan Perizinan Berusaha Risiko Menengah Rendah
+
+Pasal 38 ayat (1) berbunyi: Pelaku Usaha yang memiliki kegiatan usaha dengan tingkat risiko menengah rendah, mengisi pernyataa n kesanggupan memenuhi standar kegiatan usaha melalui Sistem OSS sebagaimana format pada Lampiran V setelah memenuhi kelengkapan data .
+
+Pasal 38 ayat (2) berbunyi: Dalam hal kegiatan usaha dikategorikan wajib memenuhi standar UKL -UPL, selain menyampaikan pernyataan kesanggupan memenuhi standar kegiatan usaha sebagaimana dimaksud pada ayat (1), Pelaku Usaha mengisi formulir UKL -UPL disertai dengan pernyataan kesanggupan pengelolaan lingkungan hidup yang tersedia di Sistem OSS untuk memperoleh NIB dan Sertifikat Standar.
+
+Pasal 38 ayat (3) berbunyi: Dalam hal kegiatan usaha tidak wajib UKL -UPL, selain mengisi pernyataan kesanggupan memenuhi standar kegiatan usaha sebagaimana dimaksud pada ayat (1), Pelaku Usaha mengisi formulir SPPL dalam bentuk pernyataan yang tersedia di Sistem OSS untuk memperoleh NIB dan Sertifikat Standar.
+
+Pasal 38 ayat (4) berbunyi: Sistem OSS menerbitkan Sertifikat Standar sebagaimana dimaksud pada ayat (2) dan ayat (3) sesuai kewenangan secara otomatis dan dilengkapi tanda tangan elektronik dengan format sebagaimana tercantum dalam Lampiran V yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 38 ayat (5) berbunyi: Sistem OSS secara otomatis mengirimkan notifikasi penerbitan Sertifikat Standar sebagaimana dimaksud pada ayat (4) kepada provinsi, DPMPTSP kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai kewenangannya.
+
+Pasal 38 ayat (6) berbunyi: NIB dan Sertifikat Standar sebagaimana dimaksud pada ayat (2) dan ayat (3) sebagai legalitas untuk melakukan pelaksanaan persiapan, operasi onal dan/atau komersial kegiatan usaha.
+
+Pasal 38 ayat (7) berbunyi: Terhadap pernyataan Pelaku Usaha sebagaimana dimaksud pada ayat ( 1), DPMPTSP provinsi , DPMPTSP kabupaten/kota , administrator KEK, dan Badan Pengusahaan KPBPB sesuai kewenangannya melakukan Pengawasan sesuai dengan norma, standar, prosedur dan kriteria yang ditetapkan oleh
+
+Pasal 38 ayat (8) berbunyi: Dalam melakukan Pengawasan sebagaimana dimaksud pada ayat (7), DPMPTSP provinsi dan DPMPTSP kabupaten/kota dapat berkoordinasi dengan perangkat daerah teknis provinsi dan perangkat daerah tekni s kabupaten/kota. Paragraf 4 Perizinan Berusaha Risiko Menengah Tinggi
+
+Pasal 39 ayat (1) berbunyi: Pelaku Usaha yang memiliki kegiatan usaha dengan tingkat kategori tingkat risiko menengah tinggi mengisi pernyataan kesanggupan memenuhi standar kegiatan usaha melalui Sistem OSS setelah memenuhi kelengkapan data.
+
+Pasal 39 ayat (2) berbunyi: Dalam hal kegiatan usaha dikategorikan wajib memenuhi standar UKL -UPL, selain menyampaikan pernyataan kesanggupan memenuhi standar kegiatan usaha sebagaimana dimaksud pada ayat (1), Pelaku Usaha mengisi formulir UKL -UPL disertai dengan pernyataan kesanggupan pengelolaan lingkungan hidup yang tersedia di Sistem OSS untuk memperoleh NIB dan Sertifikat Standar yang mencantumkan tanda belum terverifikasi .
+
+Pasal 39 ayat (3) berbunyi: Format formulir UKL -UPL sebagaimana dimaksud pada ayat (2) sesuai dengan yang diatur di dalam peraturan pemerintah mengenai penyelenggaraan perlindungan dan pengelolaan lingkungan hidup.
+
+Pasal 39 ayat (4) berbunyi: Format pernyataan kesanggupan pengelolaan lingkungan hidup sebagaimana dimaksud pada
+
+Pasal 39 ayat (2) berbunyi: tercantum dalam Lampiran IV yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 39 ayat (5) berbunyi: Format Sertifikat Standar yang belum diverifikasi sebagaimana dimaksud pada ayat (2) terca ntum dalam Lampiran V yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 39 ayat (6) berbunyi: Dalam hal kegiatan usaha tidak wajib UKL -UPL, selain mengisi pernyataan kesanggupan memenuhi standar kegiatan usaha sebagaimana dimaksud pada ayat (1), Pelaku Usaha men gisi formulir SPPL untuk memperoleh NIB dan Sertifikat Standar yang mencantumkan tanda belum terverifikasi sebagaimana dimaksud pada ayat (5).
+
+Pasal 39 ayat (7) berbunyi: NIB dan Sertifikat Standar sebagaimana dimaksud pada ayat (2) dan ayat (6) sebagai legalitas Pelaku Usaha untuk melakukan persiapan kegiatan usaha .
+
+Pasal 40 ayat (1) berbunyi: Terhadap pengisian formul ir UKL -UPL dan pernyataan kesanggupan pengelolaan lingkungan hidup sebagaimana dimaksud dalam Pasal 39 ayat (2), Sistem OSS mengirim notifikasi ke sistem informasi dokumen lingkungan hidup yang dikelola oleh menteri yang menyelenggarakan urusan di bidang lingkungan hidup dan kehutanan untuk dilakukan verifikasi .
+
+Pasal 40 ayat (2) berbunyi: Proses verifikasi sebagaimana dimaksud pada ayat ( 1) dan notifikasi hasil verifikasi ke Sistem OSS dilakukan dalam jangka waktu paling lama 5 (lima) Hari.
+
+Pasal 40 ayat (3) berbunyi: Dalam hal verifikasi sebagaimana dimaksud pada ayat ( 2):
+
+Pasal 40 ayat (3) poin a berbunyi: disetujui, daerah provinsi, atau pemerintah daerah kabupaten/kota sesuai kewenangannya memberikan notifikasi persetujuan ke Sistem OSS untuk diterbitkan persetujuan pernyataan kesanggupan pengelolaan lingkungan hidup ;
+
+Pasal 40 ayat (3) poin b berbunyi: terhadap notifika si sebagaimana dimaksud pada huruf a, Sistem OSS menerbitkan persetujuan pernyataan kesanggupan pengelolaan lingkungan hidup oleh Lembaga OSS atas nama menteri yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidup dan kehutanan, DPMPTSP prov insi atas nama gubernur, DPMPTSP kabupaten/kota atas nama bupati/walikota, administrator KEK, atau badan pengusahaan KPBPB sesuai kewenangannya ;
+
+Pasal 40 ayat (3) poin c berbunyi: perlu perbaikan, pemerintah daerah provinsi, atau pemerintah daerah kabupaten/kota sesuai kewenangannya menyampaikan notifikasi perlunya perbaikan ke Sistem OSS melalui sistem informasi dokumen lingkungan hidup yang dikelola oleh menteri yang menyelenggarakan urusan di bidang lingkungan hidup dan kehutanan ;
+
+Pasal 40 ayat (3) poin d berbunyi: ditolak/ tidak sesuai standar yang dipersyaratkan, provinsi, atau pemerintah daerah kabupaten/kota sesuai kewenangannya menyampaikan notifikasi penolakan tidak sesuai dengan standar pengelolaan dan pemantauan lingkungan hidup ke Sistem OSS melalui sistem informasi dokumen lingkungan hidup yang dikelola oleh menteri yang menyelenggarakan urusan di bidang lingkungan hidup dan kehutanan ; dan
+
+Pasal 40 ayat (3) poin e berbunyi: terhadap notifikasi sebagaimana dimaksud pada huruf d Sistem OSS menerbitkan penolakan a tas pernyataan kesanggupan pengelolaan lingkungan hidup oleh Lembaga OSS atas nama menteri yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidup dan kehutanan, DPMPTSP provinsi atas nama gubernur, DPMPTSP kabupaten/kota atas nama bupati/wali kota, administrator KEK, atau badan pengusahaan KPBPB sesuai kewenangannya .
+
+Pasal 40 ayat (4) berbunyi: Dalam hal, provinsi, atau pemerintah daerah kabupaten/kota sesuai kewenangannya tidak memberikan verifikasi dan notifikasi dalam jangka waktu 5 (lima) Hari sebagaimana dimaksud pada ayat (2), Sistem OSS secara otomatis menerbitkan persetujuan pernyataan kesanggupan pengelolaan lingkungan hidup oleh Lembaga OSS atas nama menteri yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidu p dan kehutanan, DPMPTSP provinsi atas nama gubernur, DPMPTSP kabupaten/kota atas nama bupati/walikota, administrator KEK, atau badan pengusahaan KPBPB sesuai kewenangannya.
+
+Pasal 41 ayat (1) berbunyi: Terhadap pernyataan kesanggupan memenuhi standar kegiatan usaha sebagaimana dimaksud dalam Pasal 39 ayat (1) dan setelah mendapatkan Sertifikat Standar yang mencantumkan tanda belum terverifikasi, Pelaku Usaha wajib melakukan pemenuhan standar melalui Sistem OSS dengan jangka waktu sesuai no rma, standar, prosedur dan kriteria yang ditetapkan oleh pemerintah non
+
+Pasal 41 ayat (2) berbunyi: Dalam hal dimaksud pada ayat (1) tidak menetapkan jangka waktu pemenuhan standar, Pelaku Usaha wajib melakukan pemenuhan standar paling lambat 90 (sembilan puluh) Hari sebelum waktu perkiraan mulai beroperasi/produksi sebagaimana dimaksud dalam Pasal 29 ayat 11.
+
+Pasal 41 ayat (3) berbunyi: Terhadap pemenuhan standar sebagaimana dimaksud pada ayat ( 1), Sistem OSS memberikan peringatan pada waktu 180 (seratus delapan puluh) Hari sebelum waktu perkiraan mulai beroperasi/produksi sebagaimana dimaksud dalam Pasal 29 ayat 11.
+
+Pasal 41 ayat (4) berbunyi: Sistem OSS menyampaikan notifikasi pemenuhan standar sebagaimana dimaksud pada ayat ( 1) ke DPMPTSP kabupaten/kota, administrator KEK, dan Badan Pengusahaan KPBPB sesuai kewenangannya untuk dilakukan pemeriksaan.
+
+Pasal 41 ayat (5) berbunyi: Dalam hal pemeriksaan merupakan kewenangan pemerintah daerah, Sistem OSS juga menyampaikan notifikasi pemenuha n standar sebagaimana dimaksud pada ayat ( 5) kepada perangkat daerah teknis provinsi dan perangkat daerah teknis kabupaten/kota sesuai kewenangannya.
+
+Pasal 41 ayat (6) berbunyi: Terhadap pernyataan Pelaku Usaha sebagaimana dimaksud dalam Pasal 39 ayat (1) , provinsi, perangkat daerah kabupaten/kota, administrator KEK, dan Badan Pengusahaan KPBPB sesuai kewenangannya melakukan pemeriksaan sesuai jangka waktu yang ditetapkan dalam peraturan pemerintah tentang penyelenggaraan Perizin an Berusaha Berbasis Risiko.
+
+Pasal 41 ayat (7) berbunyi: Dalam melakukan pemeriksaan sebagaimana dimaksud pada ayat ( 7), perangkat daerah teknis provinsi dan perangkat daerah teknis kabupaten/kota berkoordinasi dengan DPMPTSP provinsi dan/atau DPMPTSP kabupaten/kota.
+
+Pasal 41 ayat (8) berbunyi: Dalam melakukan pemeriksaan sebagaimana dimaksud pada ayat ( 7), administrator KEK atau Badan Pengusahaan KPBPB dapat bekerja sama dengan provinsi, perangkat daerah kabupaten/kota, atau lembaga atau profesi ahli yang bersertilikat atau terakreditasi sesuai dengan ketentuan peraturan perundang -undangan.
+
+Pasal 41 ayat (9) berbunyi: Dalam hal provinsi, perangkat daerah kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai kewenangannya tidak melakukan pemeriksaan atau jangka waktu pemeriksaan sebagaimana dimak sud pada ayat ( 7) terlampaui, Pelaku Usaha dianggap telah memenuhi standar.
+
+Pasal 41 ayat (10) berbunyi: Dalam hal pemenuhan standar yang disampaikan oleh Pelaku Usaha sebagaimana dimaksud pada ayat ( 1) telah diperiksa dan disetujui, DPMPTSP provinsi, DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya menyampaikan notifikasi persetujuan melalui Sistem OSS.
+
+Pasal 41 ayat (11) berbunyi: Dalam hal DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya, tidak menotifikasi persetujuan ke dalam Sistem OSS, pemenuhan standar dianggap disetujui.
+
+Pasal 41 ayat (12) berbunyi: Dalam hal:
+
+Pasal 41 ayat (12) poin a berbunyi: tidak dilakukan pemeriksaan atau jangka waktu terlampaui sebagaimana dimaksud pada ayat (10);
+
+Pasal 41 ayat (12) poin b berbunyi: notifikasi persetujuan sebagaimana dimaksud pada ayat (11) sudah diterima Sistem OSS; atau
+
+Pasal 41 ayat (12) poin c berbunyi: tidak ada notifikasi persetujuan ke dalam Sistem OSS sebagaimana dimaksud pada ayat (12), Sistem OSS mengubah status Sertifikat Standar menjadi telah diverif ikasi dalam database OSS dengan format sebagaimana tercantum dalam Lampiran V yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 41 ayat (13) berbunyi: Sertifikat Standar dengan status telah diverifikasi sebagaimana dimaksud pada ayat (1 3) sebagai legalitas untuk melakukan kegiatan operasional dan/atau komersial.
+
+Pasal 42 ayat (1) berbunyi: Dalam hal:
+
+Pasal 42 ayat (1) poin a berbunyi: pemenuhan standar yang disampaikan oleh Pelaku Usaha sebagaimana dimaksud dalam Pasal 41 ayat ( 1) telah diverifikasi dan ditolak , serta Pelaku Usaha tidak menyampaikan kembali dalam jangka waktu yang ditetapkan dalam peraturan pemerintah tentang penyelenggaraan Perizinan Berusaha Berbasis Risiko , DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya menyampaikan notifikasi penolakan melalui Sistem OSS ; atau
+
+Pasal 42 ayat (1) poin b berbunyi: Pelaku Usaha tidak menyampaikan pemenuhan standar usaha dan berdasarkan hasil Pengawasan tidak melakukan persiapan kegiatan usaha da lam jangka waktu 1 (satu) tahun sejak NIB terbit, Lembaga OSS , DPMPTSP provinsi, DPMPTSP kabupaten/kota, administrator KEK, atau badan pengusahaan KPBPB sesuai kewenangannya membatalkan Sertifikat Standar yang belum terverifikasi sebagaimana dimaksud dalam Pasal 39 ayat (2) melalui Sistem OSS.
+
+Pasal 42 ayat (2) berbunyi: Dalam hal Pelaku Usaha hanya memiliki 1 (satu) kegiatan dan Sertifikat Standar yang belum diverifikasi dibatalkan, NIB yang telah dimiliki masih tetap berlaku hingga batas waktu paling lama 180 (seratus delap an puluh) hari sejak Sertifikat Standar dibatalkan.
+
+Pasal 42 ayat (3) berbunyi: Dalam hal Pelaku Usaha tidak melanjutkan kegiatan usaha, NIB sebagaimana dimaksud pada ayat (2) dicabut.
+
+Pasal 42 ayat (4) berbunyi: Mekanisme pembatalan sebagaimana dimaksud pada ayat ( 1) huruf b , serta pencabutan sebagaimana dimak sud pada ayat ( 3) diatur di dalam peraturan lembaga yang menyelenggarakan urusan pemerintah di bidang koordinasi penanaman modal tentang pedoman dan tata cara pengawasan perizinan berusaha berbasis risiko .
+
+Pasal 42 ayat (5) berbunyi: Dalam hal Pelaku Usaha memiliki lebih dari 1 (satu ) kegiatan usaha, atas pembatalan sebagaimana dimaksud pada ayat (1) huruf b , Sistem OSS melakukan pemutakhiran NIB dengan menghapus kegiatan usaha yang tidak memenuhi standar atau ditolak .
+
+Pasal 42 ayat (6) berbunyi: Terhadap pemutakhiran NIB sebagaimana dimaksud pada ayat ( 5), Sistem OSS menotifikasi ke Pelaku Usaha dan kepada provinsi, DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya bahwa kegiatan usaha yang tidak memenuhi standar atau ditolak sebagaimana dima ksud pada ayat ( 5) dihapus dari NIB.
+
+Pasal 42 ayat (7) berbunyi: NIB tetap berlaku untuk kegiatan usaha lain yang tidak dibatalkan atau dihapus .
+
+Pasal 43 ayat (1) berbunyi: Dalam hal diperlukan dan/atau dipersyaratkan, selain NIB dan Sertifikat Standar , Pelaku Usaha yang memiliki kegiatan usaha dengan tingkat risiko menengah rendah dapat memperoleh Sertifikat Standar produk atas produk/jasa yang dihasilkan .
+
+Pasal 43 ayat (2) berbunyi: Untuk mendapatkan Sertifikat Standar Produk sebagaimana dimaksud pada ayat (1), Pelaku Usaha menyampaikan permohonan pemenuhan standar produk baran g dan/atau jasa melalui Sistem OSS .
+
+Pasal 43 ayat (3) berbunyi: Terhadap permohonan sebagaimana dimaksud pada
+
+Pasal 43 ayat (2) berbunyi: , Sistem OSS mengirimkan notifikasi permohonan kepada kewenangannya.
+
+Pasal 43 ayat (4) berbunyi: Terhadap notifikasi dari Sistem OSS , melakukan pemeriksaan atas permohonan pemenuhan sertifikasi standar produk dengan durasi atau jangka waktu sesuai dengan norma, standar, prosedur dan kriteria yang ditetapkan oleh
+
+Pasal 43 ayat (5) berbunyi: verifikasi berupa penolakan atau persetujuan ke Sistem OSS .
+
+Pasal 43 ayat (6) berbunyi: Dalam hal permohonan sebagaimana ayat (2) disetujui, Lembaga OSS atas nama menteri/kepala lembaga, menerbitkan Sertifikat Standar Produk . Paragraf 5 Penerbitan Perizinan Berusaha Risiko Tinggi
+
+Pasal 44 ayat (1) berbunyi: Pelaku Usaha yang memiliki kegiatan usaha kategori tingkat risiko tinggi, selain NIB , wajib memiliki Izin sebagaimana dimaksud pada Pasal 7 ayat (2) huruf c dalam melakukan kegiatan operasional dan/atau komersial .
+
+Pasal 44 ayat (2) berbunyi: Dalam hal kegiatan usaha yang dimohonkan termasuk ke dalam kegiatan usaha wajib Amdal , sebelum mengajukan permohonan Izin , Pelaku Usaha juga wajib memiliki Persetujuan Lingkungan berupa keputusan ke layakan lingkungan hidup .
+
+Pasal 44 ayat (3) berbunyi: Keputusan kelayakan lingkungan hidup sebagaimana dimaksud pada ayat (2) sebagai persyaratan penerbitan Izin sesuai ketentuan peraturan perundang -undangan .
+
+Pasal 44 ayat (4) berbunyi: Dalam hal kegiatan usaha yang dimohonkan termasuk ke dalam kegiatan usaha wajib UKL -UPL, pada saat penerbitan NIB sebagaimana dimaksud dalam Pasal 36 ayat (1), Pelaku Usaha mengisi formulir UKL - UPL disertai dengan pernyataan kesanggupan pengelolaan l ingkungan hidup yang tersedia di Sistem OSS.
+
+Pasal 44 ayat (5) berbunyi: Terhadap pengisian formulir UKL -UPL dan pernyataan kesanggupan pengelolaan lingkungan hidup sebagaimana dimaksud pada ayat (4), ketentuan dalam pasal 40 berlaku secara mutatis mutandis.
+
+Pasal 45 ayat (1) berbunyi: Untuk menda patkan Izin sebagaimana dimaksud dalam Pasal 44 ayat (1), Pelaku Usaha wajib menyampaikan pemenuhan persyaratan Izin melalui Sistem OSS dalam jangka waktu sesuai dengan norma, standar, prosedur dan kriteria yang ditetapkan oleh
+
+Pasal 45 ayat (2) berbunyi: Dalam hal dimaksud pada ayat (1) tidak menetapkan jangka waktu pemenuhan persyaratan, Pelaku Usaha wajib melakukan pemenuhan persyaratan paling lambat 90 (sembilan puluh) Hari sebelum waktu perkiraan mulai beroperasi/produksi sebagaimana dimaksud dalam Pasal 2 9 ayat 11.
+
+Pasal 45 ayat (3) berbunyi: Terhadap kewajiban pemenuhan persyaratan sebagaimana dimaksud pada ayat (1), Sistem OSS memberikan peringatan pada waktu 180 (seratus delapan puluh) Hari sebelum waktu perkiraan mulai beroperasi/produksi sebagaimana dimaksud dalam Pasal 29 ayat 11.
+
+Pasal 45 ayat (4) berbunyi: Sistem OSS menyampaikan notifikasi pemenuhan persyaratan sebagaimana dimaksud pada ayat ( 1) ke kabupaten/kota, administrator KEK, dan Badan Pengusahaan KPBPB sesuai kewenangannya untuk dilakukan pemeriksaan.
+
+Pasal 45 ayat (5) berbunyi: Dalam hal pemeriksaan merupakan kewenangan pemerintah daerah, Sistem OSS juga menyampaikan notifikasi pemenuhan persyaratan kepada perangkat daerah teknis provinsi dan perangkat daerah teknis kabupaten/kota sesua i kewenangannya.
+
+Pasal 45 ayat (6) berbunyi: Terhadap pemenuhan persyaratan Izin yang disampaikan oleh Pelaku Usaha, perangkat daerah kabupaten/kota, administrator KEK, dan Badan Pengusahaan KPBPB sesuai kewenangannya melakukan pemeriks aan sesuai jangka waktu yang ditetapkan oleh tentang penyelenggaraan perizinan berusaha berbasis risiko.
+
+Pasal 45 ayat (7) berbunyi: Dalam melakukan pemeriksaan sebagaimana dimaksud pada ayat ( 6), perangkat daerah teknis provinsi dan perangkat daerah teknis kabupaten/kota berkoordinasi dengan DPMPTSP provinsi dan/atau DPMPTSP kabupaten/kota.
+
+Pasal 45 ayat (8) berbunyi: Dalam hal provinsi, perangkat daerah kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai k ewenangannya tidak melakukan pemeriksaan atau jangka waktu pemeriksaan sebagaimana dimaksud pada ayat ( 6) terlampaui, Pelaku Usaha dianggap telah memenuhi persyaratan Izin.
+
+Pasal 45 ayat (9) berbunyi: Dalam hal pemenuhan persyaratan Izin yang disampaikan oleh Pelaku Usaha sebagaimana dimaksud pada ayat (1):
+
+Pasal 45 ayat (9) poin a berbunyi: telah diverifikasi dan disetujui; atau
+
+Pasal 45 ayat (9) poin b berbunyi: dianggap telah memenuhi, kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya menyampaikan notifikasi persetujuan melalui Sistem OSS.
+
+Pasal 45 ayat (10) berbunyi: Dalam hal DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya, tidak menotifikasi persetujuan ke dalam Sistem OSS, pemenu han persyaratan dianggap disetujui.
+
+Pasal 45 ayat (11) berbunyi: Terhadap notifikasi sebagaimana dimaksud pada ayat ( 9), Sistem OSS atas nama Lembaga OSS, DPMPTSP provinsi, DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya menerbitkan Izin dengan format sebagaimana tercantum dalam Lampiran V I yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 46 ayat (1) berbunyi: Dalam hal permohonan pemenuhan persyaratan Izin yang disampaikan oleh Pelaku Usaha sebagaimana dimaksud dalam Pasal 45 ayat (1) ditolak , Sistem OSS atas nama Lembaga OSS, DPMPTSP provinsi, DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya menyampaikan notifikasi penolakan ke Pelaku Usaha.
+
+Pasal 46 ayat (2) berbunyi: Penolakan sebagaimana dimaksud pada ayat ( 1) mencakup:
+
+Pasal 46 ayat (2) poin a berbunyi: persyaratan tidak memenuhi ketentuan; dan
+
+Pasal 46 ayat (2) poin b berbunyi: kekurangan persyaratan.
+
+Pasal 46 ayat (3) berbunyi: Terhadap penolakan sebagaimana dimaksud pada ayat ( 2) huruf b, Pelaku Usaha tetap dapat melengkapi kekurangan persyaratan selama jangka waktu pemenuhan persyaratan belum terlampaui.
+
+Pasal 46 ayat (4) berbunyi: Dalam hal Pelaku Usaha tidak menyampaikan pemenuhan persyaratan Izin atau tidak memenuhi ketentuan, Lembaga OSS membatalkan NIB sebagai legalitas yang telah diterbitkan melalui Sistem OSS .
+
+Pasal 46 ayat (5) berbunyi: Mekanisme pembatalan sebagaimana dimaksud pada
+
+Pasal 46 ayat (4) berbunyi: diatur di dalam peraturan lembaga yang menyelenggarakan urusan pemerintah di bidang koordinasi penanaman modal tentang pedoman dan tata cara pengawasan perizinan berusaha berbasis risiko .
+
+Pasal 46 ayat (6) berbunyi: Dalam hal Pe laku Usaha memiliki lebih dari 1 (satu) kegiatan usaha, Sistem OSS melakukan pemutakhiran NIB dengan menghapus kegiatan usaha yang tidak memenuhi persyaratan atau ditolak .
+
+Pasal 46 ayat (7) berbunyi: Terhadap pemutakhiran NIB sebagaimana dimaksud pada ayat ( 6), Sistem OSS menotifikasi ke Pelaku Usaha dan kepada provinsi, DPMPTSP kabupaten/kota, administrator KEK, badan pengusahaan KPBPB sesuai kewenangannya , bahwa kegiatan usaha yang tidak memenuhi persyaratan atau ditolak dihapus dari NIB .
+
+Pasal 46 ayat (8) berbunyi: NIB tetap berlaku untuk kegiatan usaha lain sebagaimana dimaksud pada ayat ( 6).
+
+Pasal 46 ayat (9) berbunyi: Terhadap kegiatan usaha yang ditolak sebagaimana dimaksud pada ayat ( 1) Pelaku Usaha dapat mengajukan kembali permohonan Perizinan Berusaha Berbasis Risiko sesuai ketentuan peraturan perundang -undangan. Pasal 4 7
+
+Pasal 46 ayat (1) berbunyi: Dalam hal kegiatan usaha berisiko tinggi, selain NIB dan Izin , Pelaku Usaha juga bisa mendapatkan Sertifikat Standar usaha dan /atau standar produk.
+
+Pasal 46 ayat (2) berbunyi: Untuk mendapatkan Sertifikat Standar usaha dan standar produk sebagaimana dimaksud pada ayat ( 1), Pelaku Usaha wajib menyampaikan pemenuhan standar usaha dan standar produk melalui Sistem OSS sesuai dengan norma, standar, prosedur dan kriteria yang ditetapkan oleh
+
+Pasal 46 ayat (3) berbunyi: Terhadap permohonan pemenuhan st andar usaha dan standar produk sebagaimana dimaksud pada ayat (2), Sistem OSS meneruskan:
+
+Pasal 46 ayat (3) poin a berbunyi: pemenuhan standar usaha kepada DPMPTSP kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai kewenangan untuk dilakukan verifikasi .
+
+Pasal 46 ayat (3) poin b berbunyi: verifikasi sebagaimana dimaksud huruf a yang bersifat teknis untuk dilakukan oleh provinsi , perangkat daerah teknis kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB , serta Ahli yang dikoordinasikan oleh DPMPTSP provinsi , DPMPTSP kabupaten/kota , dan administrator KEK, sesuai kewenangannya .
+
+Pasal 46 ayat (3) poin c berbunyi: pemenuhan standar produk kepada verifikasi .
+
+Pasal 46 ayat (4) berbunyi: Dalam hal permohonan pemenuhan standar usaha sebagaimana dimaksud pada ayat (3) huruf a disetujui, DPMPTSP kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai kewenangan menotifikasi ke Sistem OSS .
+
+Pasal 46 ayat (5) berbunyi: Terhadap notifikasi sebagaimana dimaksud pada
+
+Pasal 46 ayat (4) berbunyi: , Sistem OSS menerbitkan Sertifikat Standar usaha sesuai kewenangan nya.
+
+Pasal 46 ayat (6) berbunyi: Dalam hal permohonan pemenuhan standar produk sebagaimana dimaksud pada ayat (3) huruf c disetujui, notifikasi persetujuan ke Sistem OSS .
+
+Pasal 46 ayat (7) berbunyi: Terhadap notifikasi persetujuan sebagaimana dimaksud pada ayat ( 6), Lembaga OSS atas nama produk melalui Sistem OSS .
+
+Pasal 46 ayat (8) berbunyi: Dalam hal permohonan pemenuhan standar usaha dan standar produk sebagaimana dimaksud pada
+
+Pasal 46 ayat (3) berbunyi: huruf a dan huruf c ditolak, Sistem OSS menotifikasi kepada Pelaku Usaha.
+
+Pasal 46 ayat (9) berbunyi: Penolakan sebagaimana dimaksud pada ayat ( 8) mencakup:
+
+Pasal 46 ayat (9) poin a berbunyi: persyaratan tidak memenuh i ketentuan; dan
+
+Pasal 46 ayat (9) poin b berbunyi: kekurangan persyaratan.
+
+Pasal 46 ayat (10) berbunyi: Terhadap penolakan sebagaimana dimaksud pada
+
+Pasal 46 ayat (9) berbunyi: huruf a, dalam rangka melakukan kegiatan komersial, Pelaku Usaha harus tetap mengikuti ketentuan peraturan perundang -undangan.
+
+Pasal 46 ayat (11) berbunyi: Terhadap penolakan sebagaimana dimaksud pada
+
+Pasal 46 ayat (9) berbunyi: huruf b, Pelaku Usaha tetap dapat melengkapi kekurangan persyaratan selama jangka waktu pemenuhan persyaratan belum terlampaui. Paragraf 6 Penerbitan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha Pasal 4 8
+
+Pasal 46 ayat (1) berbunyi: Dalam hal diperlukan untuk menunjang kegiatan usaha, Pelaku Usaha dapat mengajukan permohonan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha .
+
+Pasal 46 ayat (2) berbunyi: Pelaku Usaha memilih KBLI kegiatan utama sebagai acuan permohonan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha di da lam Sistem OSS .
+
+Pasal 46 ayat (3) berbunyi: Terhadap pemilihan KBLI kegiatan utama sebagaimana dimaksud pada ayat (2), Pelaku Usaha memilih Perizinan Berusaha Untuk Menunjang Kegiatan Usaha sebagaimana daftar yang tercantum pada peraturan pemerintah mengenai penyelenggaraan Perizinan Berusaha Berbasis Risiko .
+
+Pasal 46 ayat (4) berbunyi: Terhadap pemilihan perizinan sebagaimana dimaksud pada ayat (3), Sistem OSS mengirimkan notifikasi permohonan ke provinsi, DPMPTSP kabupaten/kota, administrator KEK, dan Badan Pengusahaan KPB PB sesuai kewenangannya.
+
+Pasal 46 ayat (5) berbunyi: kabupaten/kota, administrator KEK, dan Badan Pengusahaan KPBPB sesuai kewenangannya melakukan verifikasi pemenuhan persyaratan dalam jangka waktu sesuai norma, standar, prosedur dan kriteria .
+
+Pasal 46 ayat (6) berbunyi: Dalam melakukan verifikasi sebagaimana dimaksud pada ayat (5), DPMPTSP provinsi dan DPMPTSP kabupaten/kota dapat berkoordinasi dengan perangkat daerah teknis provinsi dan perangkat daerah teknis kabupaten/kota.
+
+Pasal 46 ayat (7) berbunyi: Dalam hal permohonan Perizinan Berusa ha Untuk Menunjang Kegiatan Usaha sebagaimana dimaksud pada ayat (4) disetujui /ditolak , DPMPTSP provinsi, DPMPTSP kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai kewenangan menotifikasi persetujuan /penolakan ke Sistem OSS .
+
+Pasal 46 ayat (8) berbunyi: Terhadap notifikasi sebagaimana dimaksud pada ayat
+
+Pasal 46 ayat (7) berbunyi: , Sistem OSS:
+
+Pasal 46 ayat (7) poin a berbunyi: menerbitkan Perizinan Berusaha Untuk Menunjang Kegiatan Usaha dengan nomenklatur sesuai ketentuan peraturan perundang -undangan ; atau
+
+Pasal 46 ayat (7) poin b berbunyi: menyampaikan notifikasi penolakan kepada Pelaku Usaha.
+
+Pasal 46 ayat (9) berbunyi: Format Perizinan Berusaha Untuk Menunjang Kegiatan Usaha sebagaimana tercantum pada Lampiran VII yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini. Paragraf 7 Percepatan Penerbitan Izin Pasal 4 9
+
+Pasal 46 ayat (1) berbunyi: Percepatan penerbitan Izin dib erikan atas kegiatan usaha dengan tingkat risiko tinggi dan:
+
+Pasal 46 ayat (1) poin a berbunyi: berlokasi usaha di KEK, KPBPB, dan Kawasan Industri ; atau
+
+Pasal 46 ayat (1) poin b berbunyi: termasuk dalam proyek strategis nasional .
+
+Pasal 46 ayat (2) berbunyi: Dalam hal kegiatan usaha yang dimohonkan Pelaku Usaha termasuk ke dalam kriteria sebagaimana dimaksud pada ayat (1), setelah memenuhi kelengkapan data sebagaimana dimaksud dalam Pasal 21 dan Pasal 2 9, Sistem OSS langsung menerbitkan NIB dan Izin dilengk api tanda tangan elektronik dengan format sebagaimana tercantum dalam Lampiran VI yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini .
+
+Pasal 46 ayat (3) berbunyi: Izin sebagaimana dimaksud pada ayat (2) sebagai Perizinan Berusaha untuk melakukan kegiatan persiapan , opera sional dan/atau komersial .
+
+Pasal 46 ayat (4) berbunyi: Terhadap Izin yang telah diterbitkan sebagaimana dimaksud pada ayat (2), Pelaku Usaha tetap wajib menyampaikan pemenuhan persyaratan izin .
+
+Pasal 46 ayat (5) berbunyi: Terhadap pemenuhan persyaratan Izin sebagaimana dimaksud pada ayat ( 4), ketentuan dalam Pasal 45 dan Pasal 46 berlaku secara mutatis mutandis.
+
+Pasal 46 ayat (6) berbunyi: Dalam hal Pelaku Usaha tidak menyampaikan pemenuhan persyaratan Izin sebagaimana dimaksud pada ayat (4), Lembaga OSS, DPMPTSP provinsi, DPMPTSP kabupaten/kota, administrator KEK, dan badan pengusahaan KPBPB sesuai kewenangannya, melakukan notifikasi pembatalan Izin yang telah diterbitkan sebagaimana dimaksud pada ayat (1) melalui Sistem OSS.
+
+Pasal 46 ayat (7) berbunyi: Terhadap notifikasi pembatalan sebagaimana dimaksud pada ayat (6), Sistem OSS menerbitkan pemb atalan Izin oleh Lembaga OSS atas nama menteri, DPMPTSP provinsi atas nama gubernur, DPMPTSP kabupaten/kota atas nama bupati/walikota, administrator KEK, atau badan pengusahaan KPBPB sesuai kewenangannya .
+
+Pasal 46 ayat (8) berbunyi: Terhadap pembatalan Izin sebagaimana dimaksud pada ayat (6), ketentuan dalam Pasal 46 ayat (4),
+
+Pasal 46 ayat (5) berbunyi: , ayat (6), ayat (7), ayat (8), dan ayat (9) berlaku secara mutatis mutandis.
+
+Pasal 46 ayat (9) berbunyi: Khusus untuk:
+
+Pasal 46 ayat (9) poin a berbunyi: sektor Pendidikan yang berlokasi di KEK, dilakukan melalui Perizinan Berusaha Berbasis Risiko ; dan
+
+Pasal 46 ayat (9) poin b berbunyi: usaha rin tisan berbasis teknologi, yang tidak hanya terbatas pada aspek pendanaan, infrastruktur, jejaring mentor, alih teknologi, dan akses pasar, PMA di KEK pada bidang usaha berbasis teknologi dapat melakukan investasi dengan nilai investasi sama atau kurang dar i Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar nilai tanah dan bangunan. Paragraf 8 Jangka Waktu Merealisasikan Kegiatan Usaha
+
+Pasal 50 ayat (1) berbunyi: Terhadap setiap kegiatan usaha ditetapkan jangka waktu merealisasikan kegiatan usaha.
+
+Pasal 50 ayat (2) berbunyi: Jangka waktu merealisasikan kegiatan usaha sebagaimana dimaksud pada ayat (1) merupakan waktu yang diperlukan Pelaku Usaha untuk melakukan persiapan, konstruksi/pembangunan sampai dengan produksi komersial setelah mendapatkan Perizinan Berusaha.
+
+Pasal 50 ayat (3) berbunyi: Jangka wak tu merealisasikan kegiatan usaha ditetapkan berdasarkan norma, standar, prosedur dan kriteria
+
+Pasal 50 ayat (4) berbunyi: Dalam hal jangka waktu merealisasikan kegiatan usaha merupakan jangka waktu perkiraan kesiapan Pelaku Usaha melakukan kegiatan operasi/produksi .
+
+Pasal 50 ayat (5) berbunyi: Jangka waktu merealisasikan kegiatan usaha sebagaimana dimaksud pada ayat ( 4) disampaikan oleh Pelaku Usaha berupa bulan dan tahun pada saat pengisian data kegiatan usaha sebagaimana dimaksud dalam Pasal 29 ayat (11) .
+
+Pasal 50 ayat (6) berbunyi: Jangka waktu merealisasikan kegiatan usaha digunakan oleh provinsi, DPMPTSP kabupaten/kota , administrator KEK, dan badan pengusahaan KPBPB dalam rangka pembinaan dan pemantauan realisasi investasi.
+
+Pasal 50 ayat (7) berbunyi: Dalam hal Pelaku Usaha tidak merealisasikan kegiatan usaha sesuai jangka waktu sebagaimana dimaksud pada ayat (3) dan ayat (4), DPMPTSP provinsi, DPMPTSP kabupaten/kota , administrator KEK, dan badan pengusahaan KPBPB dapat memberikan sanksi administrat if.
+
+Pasal 50 ayat (8) berbunyi: Sanksi administratif sebagaimana dimaksud pada ayat ( 7) diatur lebih lanjut dalam peraturan lembaga yang menyelenggarakan urusan pemerintah di bidang koordinasi penanaman modal tentang pedoman dan tata cara pengawasan perizinan berusaha berbasis risiko.
+
+Pasal 51 ayat (1) berbunyi: Kewajiban kemitraan Pelaku Usaha besar dengan koperasi dan UMK -M sebagaimana dimaksud dalam Pasal 1 5 ayat (1) huruf d dilaksanakan paling lama 1 (satu) tahun sejak jangka waktu beroperasi/produksi dimulai .
+
+Pasal 51 ayat (2) berbunyi: Dalam hal Pelaku Usaha tidak melaksanakan kewajiban kemitraan, akan dikenakan sanksi administratif sesuai ketentuan peraturan perundang - undangan.
+
+Pasal 51 ayat (3) berbunyi: Tata cara penyampaian pemenuhan kewajiban kemitraan dan sanksi sebagaimana dimaksud pada
+
+Pasal 51 ayat (2) berbunyi: diatur lebih lanjut pada peraturan lembaga yang menyelenggarakan urusan pemerintah an di bidang koordinasi penanaman modal tentang pedoman dan tata cara pengawasan perizinan berusaha berbasis risiko . Bagian Kempat Penerbitan Perizinan Berusaha dan Kemudahan Per izinan Berusaha untuk Pelaku UMK Paragraf 1 Penerbitan Perizinan Berusaha Untuk UMK
+
+Pasal 52 ayat (1) berbunyi: Untuk pengajuan permohonan Perizinan Berusaha, Pelaku UMK mengakses menu permohonan UMK di dalam Sistem OSS .
+
+Pasal 52 ayat (2) berbunyi: Pada menu permohonan sebagaimana dimaksud pada
+
+Pasal 52 ayat (1) berbunyi: , Pelaku UMK mengisi data sebagaimana dimaksud dalam Pasal 19.
+
+Pasal 52 ayat (3) berbunyi: Sistem OSS akan melakukan pemeriksaan kesesuaian data sebagaimana ayat (2) dengan kriteria Pelaku UMK , termasuk tingkat risiko atas kegiatan usaha yang dimohonkan.
+
+Pasal 52 ayat (4) berbunyi: Kriteria Pelaku UMK sebagaimana dimaksud pada
+
+Pasal 52 ayat (3) berbunyi: mengikuti ketentuan peraturan pemerintah tentang kemudahan, pelindungan, dan pemberdayaan koperasi dan usaha mikro, kecil, dan menengah atau sebagaimana dimaksud dalam Pasal 11 ayat (2).
+
+Pasal 52 ayat (5) berbunyi: Pelaku UMK yang memiliki kegiatan usaha dengan tingkat risiko rendah diberikan NIB yang merupakan pendaftaran usaha, sekaligus sebagai identitas dan legalitas usaha.
+
+Pasal 52 ayat (6) berbunyi: Dalam hal Pelaku UMK sebagaimana dimaksud pada
+
+Pasal 52 ayat (1) berbunyi: memiliki kegiatan usaha dengan tingkat risiko menengah rendah, menengah tinggi, dan/atau tinggi, Perizinan Berusaha Berbasis Risiko yang diberikan berupa Sertifikat Standar dan/atau Izin sesuai ketentuan peraturan perundang -undangan.
+
+Pasal 52 ayat (7) berbunyi: Dalam pemberian Perizinan Berusaha Berbasis Risiko sebagaimana dima ksud pada ayat ( 6), Pelaku UMK tetap diwajibkan memenuhi persyaratan standar usaha dan/atau pemenuhan persyaratan Izin.
+
+Pasal 52 ayat (8) berbunyi: Dalam menjalankan kegiatan usaha, Pelaku UMK wajib memperhatikan aspek keamanan, keselamatan, kesehatan, dan lingkungan hidup.
+
+Pasal 52 ayat (9) berbunyi: kabupaten/kota , Administrator KEK, dan badan pengusahaan KPBPB melakukan pembinaan terhadap Pelaku UMK dalam pemenuhan ketentuan sebagaimana dimaksud pada ayat ( 7). Paragraf 2 Kemudahan Perizinan Berusaha Berbasis Risiko Untuk UMK
+
+Pasal 53 ayat (1) berbunyi: Pelaku UMK yang memiliki kegiatan usaha berisiko rendah, diberikan kemudahan Perizinan Berusaha Berbasis Risiko berupa NIB yang sekaligus berlaku sebagai perizinan tunggal.
+
+Pasal 53 ayat (2) berbunyi: Ketentuan mengenai kemudahan Perizinan Berusaha melalui perizinan tunggal sebagaimana dimaksud pada
+
+Pasal 53 ayat (1) berbunyi: mengikuti ketentuan peraturan pemerintah tentang kemudahan, pelindungan, dan pemberdayaan koperasi dan UMK -M.
+
+Pasal 53 ayat (3) berbunyi: Perizinan tunggal sebagaimana dimaksud pada ayat (1) meliputi Perizinan Berusaha Berbasis Risiko , standar nasional indonesia, dan sertifikasi jaminan produk halal.
+
+Pasal 53 ayat (4) berbunyi: Selain perizinan tunggal sebagaimana dimaksud pada
+
+Pasal 53 ayat (1) berbunyi: , Pelaku UMK juga diberikan kemud ahan dalam persyaratan dasar berupa kesesuaian kegiatan pemanfaatan ruang dan persetujuan lingkungan.
+
+Pasal 53 ayat (5) berbunyi: Kemudahan sebagaimana dimaksud pada ayat (4) sesuai ketentuan peraturan perundang -undangan.
+
+Pasal 53 ayat (6) berbunyi: Perizinan tunggal berupa standar nasional Indonesia dan sertif ikasi jaminan produk halal dimohonkan bersamaan dengan permohonan Perizinan Berusaha sebagaimana dimaksud dalam Pasal 3 6.
+
+Pasal 54 ayat (1) berbunyi: Untuk mendapatkan perizinan tunggal berupa sertifikasi jaminan produk halal, Pelaku UMK mengisi jenis produk pada isian data kegiatan usaha sebagaimana dimaksud dalam Pasal 29 .
+
+Pasal 54 ayat (2) berbunyi: Sistem OSS menampilkan cakupan produk yang wajib bersertifikat halal untuk kemudian dipilih oleh Pelaku UMK berdasarkan isian jenis produk sebagaimana dimaksud pada ayat (1).
+
+Pasal 54 ayat (3) berbunyi: Dalam hal jenis produk yan g diisi termasuk yang wajib bersertifikat halal dan belum memiliki sertifikat halal, Pelaku UMK menyampaikan pernyataan kesanggupan untuk proses Sertifikasi Halal serta pendampingan melalui Sistem OSS.
+
+Pasal 54 ayat (4) berbunyi: Sistem OSS menerbitkan NIB yang berlaku juga sebagai p ernyataan sertifikasi halal dengan mencantumkan status bahwa sertifikasi halal dalam proses pendampingan oleh badan penyelenggara jaminan produk halal berdasarkan pernyataan sebagaimana dimaksud pada ayat (3).
+
+Pasal 54 ayat (5) berbunyi: Dalam hal sudah memiliki sertifikat halal, Pel aku UMK mengisi nomor sertifikat di dalam Sistem OSS.
+
+Pasal 54 ayat (6) berbunyi: Terhadap data nomor sertifikat sebagaimana dimaksud pada ayat (5), Sistem OSS melakukan validasi ke sistem yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang agama.
+
+Pasal 54 ayat (7) berbunyi: Dalam hal sudah tervalidasi, Pelaku UMK menyampaikan pernyataan telah memiliki sertifikat halal untuk kemudian Sistem OSS menerbitkan NIB yang berlaku juga sebagai pernyataan sertifikasi halal dengan mencantumkan nomor sertifikat dan masa berlaku pada lampiran.
+
+Pasal 54 ayat (8) berbunyi: Format pernyataan sebagaimana dimaksud ayat (7) tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini.
+
+Pasal 54 ayat (9) berbunyi: Terhadap penerbitan NIB sebagaimana dimaksud pada
+
+Pasal 54 ayat (7) berbunyi: , Sistem OSS menotifikasi ke meny elenggarakan urusan pemerintahan di bidang agama.
+
+Pasal 54 ayat (10) berbunyi: Terhadap notifikasi sebagaimana dimaksud pada
+
+Pasal 54 ayat (9) berbunyi: , pemerintahan di bidang agama melakukan pendampingan kepada Pelaku UMK termasuk melakukan permohonan pendaftaran untuk sertifikat halal.
+
+Pasal 54 ayat (11) berbunyi: Dalam hal permohonan sebagaimana dimaksud pada
+
+Pasal 54 ayat (10) berbunyi: disetujui, menyelenggarakan urusan pemerintahan di bidang agama menerbitkan Sertifikat Halal untuk kemudian dinotifikasi ke Sistem OSS.
+
+Pasal 54 ayat (12) berbunyi: Atas notif ikasi sebagaimana dimaksud pada ayat (11), Sistem OSS melakukan pemutakhiran terhadap NIB dengan mencantumkan nomor sertifikat halal.
+
+Pasal 54 ayat (13) berbunyi: Dalam hal kegiatan yang dilakukan Pelaku Usaha termasuk kegiatan dengan tingkat risiko menengah rendah, menengah tinggi, d an/atau tinggi, permohonan sertifikat halal diajukan melalui sistem elektronik yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang agama.
+
+Pasal 55 ayat (1) berbunyi: Dalam hal pengajuan permohonan Perizinan Tunggal berupa standar nasional Indo nesia, Pelaku UMK wajib mengisi jenis produk yang akan didaftarkan SNI.
+
+Pasal 55 ayat (2) berbunyi: Sistem OSS melakukan validasi terhadap daftar produk tertentu yang sudah terdapat nomor SNI berdasarkan data jenis produk sebagaimana dimaksud pada ayat (1).
+
+Pasal 55 ayat (3) berbunyi: Dalam hal sudah memiliki S ertifikat SNI, Pelaku UMK mengisi nomor sertifikat SNI tersebut untuk kemudian Sistem OSS melakukan validasi terhadap data yang dikelola oleh lembaga pemerintah non yang menyelenggarakan urusan pemerintahan di bidang standardisasi.
+
+Pasal 55 ayat (4) berbunyi: Dalam hal telah tervalidasi, Pelaku UMK menyampaikan pernyataan sebagaimana format yang tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini.
+
+Pasal 55 ayat (5) berbunyi: Atas pernyataan sebagaimana dimaksud pada ayat (4), Sistem OSS menerbitkan NIB yang mencantumkan bahwa Pelaku UMK dapat menggunakan sertifikat SNI sebelumnya yang telah dimiliki.
+
+Pasal 55 ayat (6) berbunyi: Dalam hal belum memiliki SNI dan produk yang dihasilkan terdaftar sebagai produk tertentu yang sudah terdapat nomor SNI, Pelaku UMK menyampaikan pernyataan seba gaimana format yang tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini.
+
+Pasal 55 ayat (7) berbunyi: Atas pernyataan sebagaimana dimaksud pada ayat (6), Sistem OSS menerbitkan NIB Perizinan Tunggal yang mencakup di dalamnya nomor SNI dan tand a SNI Bina UMK dengan format sebagaimana tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini.
+
+Pasal 55 ayat (8) berbunyi: Sistem OSS akan mengirimkan notifikasi pernyataan sebagaimana dimaksud pada ayat (6) dan NIB sebagaimana dimaksud pad a ayat (7) ke sistem yang dikelola lembaga pemerintah non menyelenggarakan urusan pemerintahan di bidang standardisasi untuk dilakukan pembinaan dan fasilitasi.
+
+Pasal 55 ayat (9) berbunyi: Dalam hal sesuai hasil pembinaan dan fasilitasi Pelaku UMK telah memenuhi pers yaratan, lembaga pemerintah non urusan pemerintahan di bidang standardisasi menyampaikan notifikasi persetujuan ke Sistem OSS.
+
+Pasal 55 ayat (10) berbunyi: Sistem OSS melakukan pemutakhiran pada NIB dengan mencantumkan nomor sertifikat SNI yang telah disetujui berdasarkan notifikasi persetujuan sebagaimana dimaksud pada ayat (9).
+
+Pasal 55 ayat (11) berbunyi: Dalam hal kegiatan yang dilakukan t ermasuk risiko menengah rendah, menengah tinggi, dan/atau tinggi, permohonan SNI diajukan melalui sistem elektronik yang dikelola oleh lembaga pemerintah non pemerintahan di bidang standardisasi . Bagian Kelima Perubahan Data Pelaku Usaha
+
+Pasal 56 ayat (1) berbunyi: Dalam hal terjadi perubahan atas isian data Pelaku Usaha sebagaimana dimaksud dalam Pasal 1 9 dan data kegiatan usaha sebagaimana dimaksud dalam Pasal 29, Pelaku Usaha melakukan perubahan melalui Sistem OSS .
+
+Pasal 56 ayat (2) berbunyi: Perubahan sebagaimana dimaksud pada ayat (1) paling sedikit mencakup:
+
+Pasal 56 ayat (2) poin a berbunyi: perubahan data pelaku usaha ; dan/atau
+
+Pasal 56 ayat (2) poin b berbunyi: perubahan data usaha .
+
+Pasal 57 ayat (1) berbunyi: Perubahan data pelaku usaha sebagaimana dimaksud pada Pasal 56 ayat ( 2) huruf a paling sedikit mencakup perubahan :
+
+Pasal 57 ayat (1) poin a berbunyi: nama dan/atau NIK ;
+
+Pasal 57 ayat (1) poin b berbunyi: NPWP ;
+
+Pasal 57 ayat (1) poin c berbunyi: status penanaman modal semula PMDN menjadi PMA atau sebaliknya ;
+
+Pasal 57 ayat (1) poin d berbunyi: kepemilikan dan susunan pemegang saham;
+
+Pasal 57 ayat (1) poin e berbunyi: susunan pengurus/penanggung jawab;
+
+Pasal 57 ayat (1) poin f berbunyi: maksud dan tujuan;
+
+Pasal 57 ayat (1) poin g berbunyi: alamat perusahaan; dan/atau
+
+Pasal 57 ayat (1) poin h berbunyi: alamat surat elektronik .
+
+Pasal 57 ayat (2) berbunyi: Perubahan status menjadi PMA sebagaimana dimaksud pada ay at (1 ) huruf c merupakan Perusahaan PMDN yang menjual sebagian atau seluruh sahamnya kepada perorangan/ badan usaha asing/perusahaan PMA dengan tetap memperhatikan ketentuan peraturan presiden tentang bidang usaha penanaman modal.
+
+Pasal 57 ayat (3) berbunyi: Perubahan status menjadi PMDN s ebagaimana dimaksud pada ayat (1 ) huruf c merupakan Perusahaan PMA yang pemegang saham asing menjual seluruh saham ke perorangan WNI/ badan usaha Indonesia yang seluruh sahamnya dimiliki perorangan WNI/loka l.
+
+Pasal 57 ayat (4) berbunyi: Dalam hal terjadi perubahan status dari PMDN menjadi PMA atau sebaliknya dari PMA menjadi PMDN sebagaimana dimaksud pada ayat (2 ) dan ayat (3), Pelaku Usaha melakukan pemutakhiran data pelaku usaha di Sistem OSS .
+
+Pasal 57 ayat (5) berbunyi: Sistem OSS melakukan validasi komposisi kepemilikan saham ke sistem administrasi badan hukum yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia berdasarkan perubahan sebagaimana dimaksud pada ayat (2) dan
+
+Pasal 57 ayat (3) berbunyi: .
+
+Pasal 57 ayat (6) berbunyi: Sistem OSS mencatat status Perusahaan berubah menjadi PMA atau PMDN berdasarkan validasi sebagaimana dimaksud pada ayat (5 ).
+
+Pasal 57 ayat (7) berbunyi: Dalam hal Pelaku Usaha memiliki anak Perusahaan, atas perubahan status menjadi PMA sebagaimana dimaksud pada ayat (4) harus ditinda klanjuti dengan perubahan status menjadi PMA oleh anak perusahaan dalam jangka waktu paling lama 1 (satu) tahun.
+
+Pasal 57 ayat (8) berbunyi: Terhadap perubahan status s ebagaimana dimaksud pada ayat (7), ketentuan ayat (4), ayat (5), dan ayat (6) berlaku secara mutatis mutandis .
+
+Pasal 57 ayat (9) berbunyi: Dalam hal Pelaku Usaha mengajukan permohonan perubahan s ebagaimana dimaksud pada ayat (1 ) huruf a, huruf b, huruf c, huruf d, huruf e, dan huruf f , Sistem OSS akan melakukan verifikasi dengan sistem administrasi hukum umum menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia .
+
+Pasal 57 ayat (10) berbunyi: Dalam hal terjadi perubahan pada alamat perusahaan atas kedudukan kabupaten/kota, p erubahan data pelaku usaha sebagaimana dimaksud pada ayat (1 ) huruf g perlu diverifikasi sebagaima na dima ksud pada ayat (9 ).
+
+Pasal 57 ayat (11) berbunyi: Dalam hal ditemukan ketidaksesuaian atas data pelaku usaha , Pelaku Usaha wajib melakukan penyesuaian terlebih dahulu di sistem administrasi hukum umum urusan pemerintahan di bidang hukum dan hak asasi manusia .
+
+Pasal 57 ayat (12) berbunyi: Ketentuan mengenai tata cara pemutakhiran data sebagaimana dimaksud pada ayat (4) sesuai ketentuan dalam peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia .
+
+Pasal 57 ayat (13) berbunyi: Dalam hal data pelaku usaha belum bisa diintegrasikan dengan sistem administrasi hukum umum pemerintahan di bidang hukum dan hak asasi manusia sebagaimana dimaksud dalam Pasal 1 9 ayat ( 8), perubahan data dilakukan langsung di Sistem OSS .
+
+Pasal 57 ayat (14) berbunyi: Perubahan data se bagaimana dimaksud pada ayat (13 ) menjadi tanggung jawab penuh Pelaku Usaha.
+
+Pasal 57 ayat (15) berbunyi: Terhadap perubahan data yang dilakukan oleh Pelaku Usaha sebagaimana dimaksud pada ayat (2), Sistem OSS melakukan penyesuaian terhadap ketentuan penanaman m odal dan persyaratan dan/atau tingkat risiko kegiatan usaha. Pasal 5 8
+
+Pasal 57 ayat (1) berbunyi: Perubahan data usaha sebagaimana dimaksud pada Pasal 56 ayat (2) huruf b paling sedikit mencakup:
+
+Pasal 57 ayat (1) poin a berbunyi: perubahan d ata lokasi usaha ;
+
+Pasal 57 ayat (1) poin b berbunyi: perubahan data jenis produk/jasa dan kapasitas;
+
+Pasal 57 ayat (1) poin c berbunyi: penyesuaian akses kepabeanan;
+
+Pasal 57 ayat (1) poin d berbunyi: penyesuaian angka pengenal importir ;
+
+Pasal 57 ayat (1) poin e berbunyi: penyesuaian data wajib lapor ketenagakerjaan perusahaan ; dan
+
+Pasal 57 ayat (1) poin f berbunyi: Perizinan Berusaha Untuk Menunjang Kegiatan Usaha .
+
+Pasal 57 ayat (2) berbunyi: Dalam hal perubahan data sebagaimana dimaksud pada ayat ( 1) huruf a dan huruf b menyebabkan diperlukannya Perizinan Berusaha baru, Perizinan Berusaha baru diproses melalui Sistem OSS sesuai dengan ketentuan perundang -undangan dan Perizinan Berusaha lama masih berlaku sampai dengan perubahan dipenuhi .
+
+Pasal 57 ayat (3) berbunyi: Terhadap proses Perizinan Berusaha baru sebagaimana dimaksud pada ayat ( 2), Sistem OSS akan menotifikasi kepada /Pemerintah Daerah sesuai kewenangan.
+
+Pasal 57 ayat (4) berbunyi: Dalam hal Pelaku Usaha telah memiliki Perizinan Berusaha dan akan melakukan perubahan sebagaima na dimaksud pada ayat ( 1), Perizinan Berusaha lama tetap berlaku sampai perubahan dipenuhi. Bagian Keenam Pengembangan Usaha
+
+Pasal 59 ayat (1) berbunyi: Dalam pelaksanaan kegiatan usaha, Pelaku Usaha dapat melakukan Pengembangan Usaha atas kegiatan usaha yang telah dilakukan dan mengajukan permohonan melalui Sistem OSS .
+
+Pasal 59 ayat (2) berbunyi: Pengembangan Usaha sebagaimana dimaksud pada
+
+Pasal 59 ayat (1) berbunyi: meliputi penambahan :
+
+Pasal 59 ayat (1) poin a berbunyi: kapasitas produksi/jasa;
+
+Pasal 59 ayat (1) poin b berbunyi: lokasi kegiatan usaha; dan/atau
+
+Pasal 59 ayat (1) poin c berbunyi: bidang usaha.
+
+Pasal 59 ayat (3) berbunyi: Penambahan kapasitas produksi/jasa sebagaimana dimaksud pada ayat (2) huruf a juga mencakup perluasan usaha atas usaha industri dengan kriteria berupa penambahan kapasitas produksi terpasang untuk KBLI 5 (lima) digit yang sama sebagaimana diatur di dalam peraturan pemerintah mengenai penyelenggaraan perizinan berusaha berbasis risiko .
+
+Pasal 59 ayat (4) berbunyi: Terhadap perluasan usaha industri sebagaimana dimaksud pada ayat (3) berlaku ketentuan :
+
+Pasal 59 ayat (4) poin a berbunyi: penetapan tingkat risiko akan dilakukan kembali dengan memperhitungkan kapasitas produksi terpasang yang lama dan tambahannya berdasarkan ketentuan peraturan perundang - undangan;
+
+Pasal 59 ayat (4) poin b berbunyi: Perizinan Berusaha Berbasis Risiko yang sudah didapatkan atas kapasitas produksi terpasang yang lama akan termutakhirkan sete lah penetapan risiko sebagaimana dimaksud pada huruf a ditetapkan dan disetujui; dan
+
+Pasal 59 ayat (4) poin c berbunyi: selama proses penetapan dan persetujuan sebagaimana dimaksud pada huruf b, Perizinan Berusaha Berbasis Risiko sebelumnya masih dapat digunakan sepanjang tidak bertentangan dengan ketentuan peraturan perundang - undangan.
+
+Pasal 59 ayat (5) berbunyi: Dalam hal Pelaku Usaha yang melakukan Perluasan Usaha tidak diwajibkan memiliki Perizinan Berusaha Berbasis Risiko dengan tingkat risiko berbeda sebagaimana dimaksud pada ayat (4) huruf a, Pelaku Usaha melak ukan:
+
+Pasal 59 ayat (5) poin a berbunyi: perubahan data usaha di Sistem OSS ;
+
+Pasal 59 ayat (5) poin b berbunyi: perubahan terhadap dokumen UKL-UPL sesuai dengan ketentuan peraturan perundang - undangan ; dan/atau
+
+Pasal 59 ayat (5) poin c berbunyi: penyesuaian pemenuhan persyaratan apabila atas perubahan data sebagaimana dimaksud pada huruf a terjadi perubahan tingkat risiko.
+
+Pasal 59 ayat (6) berbunyi: Pelaku Usaha mengakses menu Pengembangan Usaha pada Sistem OSS untuk mengajukan permohonan Pengembangan Usaha .
+
+Pasal 59 ayat (7) berbunyi: Dalam hal Pengembangan Usaha sebagaimana dimaksud pada ayat (2) huruf a tidak memerlukan Perizinan Berusaha Berbasis Risiko baru, Pelaku Usaha cukup melakukan perubahan data.
+
+Pasal 59 ayat (8) berbunyi: Pengembangan Usaha s ebagaimana dimaksud pada ayat (2 ) huruf b dan huruf c memerlukan Perizinan Berusaha Berbasis Risiko baru.
+
+Pasal 59 ayat (9) berbunyi: Dalam hal Pengembangan Usaha sebagaimana dimaksud pada ayat ( 8), Pelaku Usaha mengisi kembali isian data kegiatan usaha sebagaimana dimaksud pada Pasal 2 9.
+
+Pasal 59 ayat (10) berbunyi: Terhadap Pengembangan Usaha sebagaimana dimaksud pada ayat (7), ketentuan pada ayat (5) huruf c berlaku secara mutatis mutandis .
+
+Pasal 59 ayat (11) berbunyi: Dalam hal Pelaku Usaha telah memiliki persetujuan prasarana dan pemenuhan persyaratan Perizinan Berusaha yang masih sesuai atas kegiatan usaha sebelumnya dan tidak memerlukan prasarana baru, Sistem OSS mencatat Pelaku Usaha telah memenuhi persyaratan Perizinan Berusaha atas kegiatan Pengembangan Usaha . Bagian Ketujuh Penggabungan dan Peleburan
+
+Pasal 60 berbunyi: Pelaku Usaha dapat melakukan : a. penggabungan badan usaha ; atau b. peleburan badan usaha .
+
+Pasal 61 ayat (1) berbunyi: Perizinan Berusaha atas tindakan penggabungan atau peleburan badan usaha diterbitkan melalui Sistem OSS.
+
+Pasal 61 ayat (2) berbunyi: Penggabungan badan usaha sebagaimana dimaksud pada ayat (1) dilakukan oleh 2 (dua) badan usaha atau lebih dengan kategori sebagai badan usaha yang menerima penggabungan dan badan usaha yang menggabungkan diri.
+
+Pasal 61 ayat (3) berbunyi: Peleburan badan usaha sebagaimana dimaksud pada
+
+Pasal 61 ayat (1) berbunyi: , dilakukan ol eh 2 (dua) badan usaha atau lebih dengan membentuk badan usaha baru hasil peleburan.
+
+Pasal 62 ayat (1) berbunyi: Dalam hal terjadi penggabungan badan usaha sebagaimana dimaksud dalam Pasal 60 huruf a, Pelaku Usaha yang menerima penggabungan (surviving company) melakukan penyesuaian/pemutakhiran data pada Sistem OSS melalui menu penggabungan badan usaha .
+
+Pasal 62 ayat (2) berbunyi: Terhadap penyesuaian/pemutakhiran data sebagaimana dimaksud pada ayat (1 ), Sistem OSS melakukan validasi atas akta penggabungan pada sistem administrasi badan h ukum yang dikelola oleh pemerintahan di bidang hukum dan hak asasi manusia.
+
+Pasal 62 ayat (3) berbunyi: Dalam hal validasi sebagaimana dimaksud pada ayat (2 ) telah dilakukan, Sistem OSS akan menampilkan seluruh Perizinan Berusaha yang dimiliki badan usaha yang menerima penggabungan dan menggabungkan diri.
+
+Pasal 62 ayat (4) berbunyi: Pelaku Usaha dapat memilih kegiatan usaha yang akan dilanjutkan sebagaimana tertuang di dalam akta penggabungan.
+
+Pasal 62 ayat (5) berbunyi: Dalam hal terdapat ke giatan usaha yang Perizinan Berusaha tidak diterbitkan melalui Sistem OSS dan akan dilanjutkan, badan usaha yang menerima penggabungan melakukan pengisian data kegiatan usaha dan mengunggah Perizinan Berusaha lama ke dalam Sistem OSS .
+
+Pasal 62 ayat (6) berbunyi: Sistem OSS melakukan verifikasi terhadap Perizinan Berusaha atas hasil penggabungan sebagaimana dimaksud pada ayat ( 4).
+
+Pasal 62 ayat (7) berbunyi: Berdasarkan verifikasi sebagaimana dimaksud pada ayat ( 6), Sistem OSS menyesuaikan Perizinan Berusaha yang lama ke dalam Perizinan Berusaha Berbasis Risiko .
+
+Pasal 62 ayat (8) berbunyi: Dalam hal terdapat kegiatan usaha atas hasil penggabungan badan usaha sebagaimana dimaksud pada ayat ( 5) yang belum memiliki Perizinan Berusaha sebagai legalitas kegiatan usaha, badan usaha yang menerima penggabungan mengajukan permohonan Perizinan Berusah a Berbasis Risiko sesuai tingkat risiko kegiatan usahanya.
+
+Pasal 62 ayat (9) berbunyi: Perizinan Berusaha atas badan usaha yang menggabungkan diri akan dibatalkan secara otomatis oleh Sistem OSS .
+
+Pasal 63 ayat (1) berbunyi: Permohonan peleburan badan usaha sebagaimana dimaksud dalam Pasal 60 huruf b dilakukan oleh badan usaha baru hasil peleburan.
+
+Pasal 63 ayat (2) berbunyi: Permohonan sebagaimana dimaksud pada ayat (1) dilakukan melalui menu peleburan usaha.
+
+Pasal 63 ayat (3) berbunyi: Terhadap permohonan sebagaimana dimaksud pada
+
+Pasal 63 ayat (2) berbunyi: , Sistem OSS melakukan validasi atas akta peleburan pada sistem administrasi badan h ukum yang dikelola oleh menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia.
+
+Pasal 63 ayat (4) berbunyi: Dalam hal validasi sebagaimana dimaksud pada
+
+Pasal 63 ayat (3) berbunyi: telah dilakukan, Sistem OSS akan menampilkan seluruh Pe rizinan Berusaha yang dimiliki badan usaha yang meleburkan diri .
+
+Pasal 63 ayat (5) berbunyi: Pelaku Usaha dapat memilih kegiatan usaha dari badan usaha yang melebur yang akan dilanjutkan sebagaimana tertuang di dalam akta peleburan .
+
+Pasal 63 ayat (6) berbunyi: Dalam hal terdapat kegiatan usaha yang Perizinan Berusaha atas badan usaha yang melebur tidak diterbitkan melalui Sistem OSS dan akan dilanjutkan, badan usaha hasil peleburan melakukan pengisian data kegiatan usaha dan mengunggah Perizinan Berusaha lama tersebut.
+
+Pasal 63 ayat (7) berbunyi: Sistem OSS melakukan verifikasi terhadap Perizinan Berusaha atas hasil peleburan sebagaimana dimaksud pada ayat (5).
+
+Pasal 63 ayat (8) berbunyi: Berdasarkan verifikasi sebagaima na dimaksud pada ayat (7 ), Sistem OSS menyesuaikan Perizinan Berusaha yang lama ke dalam Perizinan Berusaha Berbasis Risiko .
+
+Pasal 63 ayat (9) berbunyi: Dalam hal terdapat kegiatan usaha atas hasil peleburan usaha sebagaimana ayat (5) yang belum memiliki Perizinan Berusaha sebagai legalitas kegiatan usaha, badan usaha baru hasil peleburan mengajukan permohonan Perizinan Berusaha Berbasis Risiko sesuai tingkat risiko kegiatan usahanya.
+
+Pasal 63 ayat (10) berbunyi: Perizinan Berusaha atas badan usaha yang meleburkan diri, akan dibatalkan secara otomatis oleh Sistem OSS . Bagian Kedelapan Pencabutan dan Pembatalan Perizinan Berusaha Paragraf 1 Pencabutan Perizinan Berusaha
+
+Pasal 64 ayat (1) berbunyi: Pencabutan Perizinan Berusaha dapat dilakukan atas dasar likuidasi dan non likuidasi .
+
+Pasal 64 ayat (2) berbunyi: Tata cara dan persyaratan pencabutan sebagaimana pada ayat (1) diatur dalam peraturan lembaga yang menyelenggarakan urusan pemerintah an di bidang koordinasi penanaman modal tentang pedoman dan tata cara pengawasan perizinan berusaha berbasis risiko . Paragraf 2 Pembatalan Perizinan Berusaha
+
+Pasal 65 ayat (1) berbunyi: Dalam hal Perizinan Berusaha yang diterbitkan terdapat cacat hukum, kekeliruan, penyalahgunaan , serta ketidakbenaran dan pemalsuan data, dokumen , dan informasi , dapat dilakukan pembatalan.
+
+Pasal 65 ayat (2) berbunyi: Tata cara pembatalan Perizinan Berusaha sebagaimana dimaksud pada ayat ( 1) diatur lebih lanjut dalam peraturan lembaga yang menyelenggarakan urusan pemerintah an di bidang koordinasi penanaman modal tentang pedoman dan tata cara pengawasan perizinan berusaha berbasis risiko.
+
+BAB V: FASILITAS PENANAMAN MODAL
+
+Bagian Kesatu
+
+Pasal 66 ayat (1) berbunyi: Pelaku Usaha yang memiliki:
+
+Pasal 66 ayat (1) poin a berbunyi: NIB;
+
+Pasal 66 ayat (1) poin b berbunyi: Sertifikat Standar; dan/atau
+
+Pasal 66 ayat (1) poin c berbunyi: Izin, dapat memperoleh Fasilitas Penanaman Modal sesuai dengan ketentuan peraturan perundang -undangan.
+
+Pasal 66 ayat (2) berbunyi: Fasilitas Penanaman Modal sebagaimana dimaksud pada ayat (1) mencakup fasilitas:
+
+Pasal 66 ayat (2) poin a berbunyi: pembebasan bea masuk atas impor;
+
+Pasal 66 ayat (2) poin b berbunyi: pajak penghasilan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah - daerah tertentu;
+
+Pasal 66 ayat (2) poin c berbunyi: pengurangan pajak penghasilan badan;
+
+Pasal 66 ayat (2) poin d berbunyi: pengurangan pajak penghasilan badan dan fasilitas pajak penghasilan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah -daerah tertentu pada KEK;
+
+Pasal 66 ayat (2) poin e berbunyi: pengurangan penghasilan bruto atas kegiatan penelitian dan pengembangan tertentu di Indonesia;
+
+Pasal 66 ayat (2) poin f berbunyi: penghasilan bruto atas penyelenggaraan praktik kerja, pemagangan dan/atau pembelajaran dalam rangka p embinaan dan pengembangan sumber daya manusia berbasis kompetensi tertentu; dan
+
+Pasal 66 ayat (2) poin g berbunyi: pengurangan penghasilan neto atas penanaman modal baru atau perluasan usaha pada bidang usaha tertentu yang merupakan industri padat karya.
+
+Pasal 66 ayat (3) berbunyi: Fasilitas Penanaman Modal sebagaiman a dimaksud pada ayat (2) diajukan melalui Sistem OSS.
+
+Pasal 66 ayat (4) berbunyi: Keputusan dan/atau pemberitahuan pemberian keputusan Fasilitas Penanaman Modal sebagaimana dimaksud pada ayat (2) diterbitkan melalui Sistem OSS dalam format sebagaimana tercantum dalam Lampiran VIII huruf B yang merupakan bagian tidak terpisahkan dalam Peraturan Badan ini . Bagian Kedua Fasilitas Pembebasan Bea Masuk Atas Impor Paragraf 1 Cakupan Fasilitas Pembebasan Bea Masuk Atas Impor
+
+Pasal 67 ayat (1) berbunyi: Fasilitas pembebasan bea masuk atas impor sebagaimana dimaksud pada Pasal 6 6 ayat (2) huruf a mencakup fasilitas:
+
+Pasal 67 ayat (1) poin a berbunyi: pembebasan bea masuk atas impor mesin tidak termasuk suku cadang untuk pembangunan atau pengembangan industri;
+
+Pasal 67 ayat (1) poin b berbunyi: pembebasan bea masuk atas impor barang dan bahan untuk pembangunan ata u pengembangan industri;
+
+Pasal 67 ayat (1) poin c berbunyi: pembebasan bea masuk atas impor barang modal dalam rangka pembangunan atau pengembangan industri pembangkitan tenaga listrik untuk kepentingan umum; dan
+
+Pasal 67 ayat (1) poin d berbunyi: pembebasan atau keringanan bea masuk dan/atau pembebasan pajak pertambahan ni lai atas impor barang dalam rangka kontrak karya (KK) atau perjanjian karya pengusahaan pertambangan batubara (PKP2B) ;
+
+Pasal 67 ayat (2) berbunyi: Fasilitas penanaman modal sebagaimana dimaksud pada ayat (1) diberikan sepanjang mesin, barang dan bahan, serta barang modal:
+
+Pasal 67 ayat (2) poin a berbunyi: belum diproduksi di dalam negeri;
+
+Pasal 67 ayat (2) poin b berbunyi: sudah diproduksi di dalam negeri namun belum memenuhi spesifikasi yang dibutuhkan; atau
+
+Pasal 67 ayat (2) poin c berbunyi: sudah diproduksi di dalam negeri namun jumlahnya belum mencukupi kebutuhan industri, berdasarkan daftar mesin, barang dan bahan, se rta barang modal yang ditetapkan oleh menyelenggarakan urusan pemerintahan di bidang perindustrian.
+
+Pasal 67 ayat (3) berbunyi: Untuk mendapatkan fasilitas pembebasan bea masuk atas impor mesin, barang dan bahan, serta barang modal sebagaimana dimaksud pada ayat (2) huruf b dan huruf c, Pelaku Usaha mengunggah di Sistem OSS rekomendasi dari menyelenggarakan urusan pemerintahan di bidang perindustrian.
+
+Pasal 67 ayat (4) berbunyi: Pelaku usaha yang terkena kewajiban penggunaan produk dalam negeri untuk mendapatkan fasilitas pembeb asan bea masuk atas impor mesin, barang dan bahan, serta barang modal melampirkan rekomendasi dari pemerintahan di bidang perindustrian. Paragraf 2 Objek Penerima Fasilitas Pasal 6 8
+
+Pasal 67 ayat (1) berbunyi: Fasilitas pembebasan bea masuk atas impor mesin sebagaimana dimaksud dalam Pasal 6 7 ayat (1) huruf a dan fasilitas pembebasan bea masuk atas impor barang dan bahan sebagaimana dimaksud dalam P asal 6 7 ayat (1) huruf b, diberikan kepada Pelaku Usaha yang melakukan kegiatan usaha di bidang:
+
+Pasal 67 ayat (1) poin a berbunyi: industri yang menghasilkan barang; dan/atau
+
+Pasal 67 ayat (1) poin b berbunyi: industri yang menghasilkan jasa.
+
+Pasal 67 ayat (2) berbunyi: Industri yang menghasilkan jasa sebagaimana dimaksud pada ayat (1) huruf b ditetapkan oleh pemerintahan di bidang keuangan negara.
+
+Pasal 67 ayat (3) berbunyi: Fasilitas pembebasan bea masuk atas impor barang modal sebagaimana dimaksud dalam Pasal 6 7 ayat (1) huruf c, diberikan kepada :
+
+Pasal 67 ayat (3) poin a berbunyi: perseroan terbatas perusahaan listrik negara (Persero) (PT PLN (Persero)); atau
+
+Pasal 67 ayat (3) poin b berbunyi: Pelaku Usaha lainnya di bidang usaha ketenagalistrikan.
+
+Pasal 67 ayat (4) berbunyi: Pelaku Usaha sebagaimana dimaksud pada ayat (3) huruf b wajib memiliki:
+
+Pasal 67 ayat (4) poin a berbunyi: wilayah usaha;
+
+Pasal 67 ayat (4) poin b berbunyi: perjanjian jual beli tenaga listrik ( power purchase agreement /PPA) dengan PT PLN (Persero);
+
+Pasal 67 ayat (4) poin c berbunyi: perjanjian sewa gun a usaha ( finance lease agreement /FLA) dengan PT PLN (Persero); atau
+
+Pasal 67 ayat (4) poin d berbunyi: perjanjian jual beli tenaga listrik dengan pemegang izin usaha pembangkit tenaga listrik ( IUPTL ) yang memiliki wilayah usaha.
+
+Pasal 67 ayat (5) berbunyi: Fasilitas pembebasan atau keringanan bea masuk dan/atau pembeb asan pajak pertambahan nilai atas impor barang sebagaimana dimaksud dalam Pasal 6 7
+
+Pasal 67 ayat (1) berbunyi: huruf d, dapat diberikan kepada pelaku usaha/kontraktor yang memiliki KK atau PKP2B. Paragraf 3 Ketentuan Pemberian Fasilitas Pasal 6 9
+
+Pasal 67 ayat (1) berbunyi: Terhadap Pelaku Usaha sebagaimana dimaksud dalam pasal 6 6 ayat (1) yang mengajukan fasilitas pembebasan bea masuk atas impor mesin sebagaimana dimaksud dalam Pasal 6 7 ayat (1) huruf a dapat diberikan dalam rangka Pembangunan atau Pengembangan.
+
+Pasal 67 ayat (2) berbunyi: Pengembangan sebagaimana dimaks ud pada ayat (1) meliputi :
+
+Pasal 67 ayat (2) poin a berbunyi: penambahan kapasitas dalam rangka perluasan usaha; dan/atau
+
+Pasal 67 ayat (2) poin b berbunyi: modernisasi, rehabilitasi dan/atau restrukturisasi dari alat -alat produksi untuk tujuan mempertahankan dan meningkatkan kualitas hasil produksi terhadap kegiatan usaha yang telah memiliki Perizinan Berusaha Berbasis Risiko dan sudah berproduksi komersial.
+
+Pasal 67 ayat (3) berbunyi: Pengajuan fasilitas pembebasan bea masuk atas impor mesin sebagaimana dimaksud pada ayat (1), diajukan paling lambat 3 (tiga) tahun terhitung sejak:
+
+Pasal 67 ayat (3) poin a berbunyi: diterbitkannya NIB bagi Pelaku Usaha baru; atau
+
+Pasal 67 ayat (3) poin b berbunyi: dicantumkannya kegiatan usaha yang akan dimintakan fasilitasnya pada NIB dalam rangka penambahan kegiatan usaha.
+
+Pasal 67 ayat (4) berbunyi: Pengajuan fasilitas pembebasan bea masuk atas impor mesin sebagaimana dimaksud pada ayat (3) diajukan melalui Sist em OSS.
+
+Pasal 67 ayat (5) berbunyi: Pengajuan pembebasan pajak pertambahan nilai atas impor dan/atau penyerahan barang kena pajak tertentu yang bersifat strategis dilakukan sesuai dengan ketentuan peraturan perundang -undangan, bersamaan dengan pengajuan fasilitas sebagaimana dimaksud pada ayat (4).
+
+Pasal 67 ayat (6) berbunyi: Pengajuan fasilitas pembebasan bea masuk atas impor mesin sebagaimana dimaksud pada ayat (3) diajukan oleh Pelaku Usaha sebelum Saat Mulai Berproduksi Komersial, dikecualikan terhadap Pelaku Usaha pemegang izin usaha pertambangan .
+
+Pasal 67 ayat (7) berbunyi: Pembeba san bea masuk sebagaimana dimaksud pada
+
+Pasal 67 ayat (1) berbunyi: diberikan jangka waktu pengimporan selama 2 (dua) tahun terhitung sejak berlakunya keputusan pembebasan bea masuk.
+
+Pasal 67 ayat (8) berbunyi: Jangka waktu pengimporan sebagaimana dimaksud pada ayat (7) dapat diberikan perpanjangan selama 2 (dua) tahun, kecuali untuk impor mesin dalam rangka pengembangan dengan maksud modernisasi, rehabilitasi dan/atau restrukturisasi.
+
+Pasal 67 ayat (9) berbunyi: Terhadap perpanjangan jangka waktu sebagaimana dimaksud pada ayat (8) dapat diberikan penambahan dengan ketentuan sebagai berikut:
+
+Pasal 67 ayat (9) poin a berbunyi: untuk rencana investasi paling sedikit Rp500.000.000.000,00 (lima ratus miliar rupiah) dan kurang dari Rp1.000.000.000.000,00 (satu triliun rupiah ) dapat diberika n penambahan perpanjangan jangka waktu pengimporan 1 (satu) tahun berdasarkan hasil pemeriksaan lapangan.
+
+Pasal 67 ayat (9) poin b berbunyi: untuk rencana investasi paling sedikit Rp1.000.000.000.000,00 (satu triliun rupiah) dan kurang dari Rp5.000.000.000.000,00 (lima triliun rupiah) dapat diberikan penambahan perpanjangan jangka waktu pengimporan selama 2 (dua) kali yang diberikan setiap 1 (satu) tahun berdasarkan hasil pemeriksaan lapangan.
+
+Pasal 67 ayat (9) poin c berbunyi: untuk rencana investasi lebih dari Rp5.000.000.000.000,00 (lima triliun rupiah) dapat diberik an penambahan perpanjangan jangka waktu pengimporan paling lama 5 (lima) tahun berdasarkan hasil pemeriksaan lapangan.
+
+Pasal 67 ayat (10) berbunyi: Dalam hal Pelaku Usaha telah mendapatkan keputusan menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara sebelum berlakunya Peraturan Badan ini, dapat diberikan perpanjangan sesuai dengan ketentuan sebagaimana dimaksud pada ayat (8) dan selanjutnya dapat diberikan penambahan sebagaimana dimaksud pada
+
+Pasal 67 ayat (9) berbunyi: .
+
+Pasal 67 ayat (11) berbunyi: Pengajuan perpanjangan sebagaimana dimaksud p ada
+
+Pasal 67 ayat (8) berbunyi: dan penambahan sebagaimana dimaksud pada ayat (9) diajukan paling lambat 14 (empat belas) Hari sebelum jangka waktu keputusan pemberian fasilitas berakhir.
+
+Pasal 67 ayat (12) berbunyi: Pelaku Usaha wajib menggunakan mesin yang telah mendapatkan fasilitas pembebasan bea masuk sebagaimana dimaksud pada ayat (1) sesuai dengan tujuan pemasukannya.
+
+Pasal 67 ayat (13) berbunyi: Mesin dapat digunakan pada lokasi yang berbeda sepanjang masih dikuasai oleh Pelaku Usaha untuk kegiatan usaha yang sama sesuai dengan perizinan berusaha berbasis risiko yang dimiliki oleh Pelaku Usaha .
+
+Pasal 70 ayat (1) berbunyi: Pelaku Usaha yang telah menyelesaikan pembangunan industri serta siap produksi, kecuali bagi industri yang menghasilkan jasa, dapat diberikan pembebasan bea masuk atas impor barang dan bahan sebagaimana dimaksud dalam Pasal 6 7 ayat (1) huruf b .
+
+Pasal 70 ayat (2) berbunyi: Pelaku Usaha yang telah menyelesaikan pengembangan industri, kecuali bagi industri yang menghasilkan jasa, sepanjang menambah kapasitas paling sedikit 30% (tiga puluh persen) dari kapasitas izin usaha/izin perluasan dan/atau Perizinan Berusaha Berbasis Resiko , dapat dibe rikan pembebasan bea masuk atas impor barang dan bahan sebagaimana dimaksud dalam Pasal 6 7 ayat (1) huruf b .
+
+Pasal 70 ayat (3) berbunyi: Fasilitas pembebasan bea masuk barang dan bahan atas impor mesin dan/atau menggunakan mesin produksi asal impor yang dibeli di dalam negeri, dapat diberikan kepada Pelaku Usaha yang telah menyelesaikan pembangunan atau pengembangan industri dan siap melaku kan kegiatan komersial kecuali bagi industri yang menghasilkan jasa.
+
+Pasal 70 ayat (4) berbunyi: Pengajuan fasilitas pembebasan bea masuk atas impor barang dan bahan sebagaimana dimaksud pada
+
+Pasal 70 ayat (1) berbunyi: , diajukan paling lambat 1 (satu) tahun terhitung sejak Pelaku Usaha sudah berproduksi komersial.
+
+Pasal 70 ayat (5) berbunyi: Berproduksi komersial sebagaimana dimaksud pada ayat ( 4) ditentukan berdasarkan pernyataan mandiri dalam Sistem OSS yang menyatakan perusahaan sudah berproduksi komersial.
+
+Pasal 70 ayat (6) berbunyi: Pembebasan bea masuk sebagaimana dimaksud pada
+
+Pasal 70 ayat (1) berbunyi: dan ayat (2) diberikan untuk keperluan produksi selama 2 (dua) tahun sesuai kapasitas terpasang.
+
+Pasal 70 ayat (7) berbunyi: Jangka waktu pengimporan atas pembebasan bea masuk sebagaimana dimaksud pada ayat (6) diberikan selama 2 (dua) tahun terhitung sejak berlakunya keputusan pembebasa n bea masuk.
+
+Pasal 70 ayat (8) berbunyi: Pelaku Usaha yang melakukan pembangunan dan pengembangan, dengan menggunakan mesin produksi buatan dalam negeri paling sedikit 30% (tiga puluh persen) dari total nilai mesin, atas impor barang dan bahan dapat diberikan pembebasan bea masuk unt uk keperluan produksi/keperluan tambahan produksi selama 4 (empat) tahun sesuai kapasitas terpasang, dengan jangka waktu pengimporan selama 4 (empat) tahun terhitung sejak berlakunya keputusan pembebasan bea masuk.
+
+Pasal 70 ayat (9) berbunyi: Terhadap industri yang menghasilkan jasa dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (8).
+
+Pasal 70 ayat (10) berbunyi: Penggunaan dan komposisi penggunaan mesin produksi dalam negeri sebagaimana dimaksud pada ayat ( 8) berdasarkan surat rekomendasi dari pemerintahan di bidang perindustrian terkait capaian tingkat komponen dalam negeri (TKDN).
+
+Pasal 70 ayat (11) berbunyi: Jangka waktu pengimporan sebagaimana dimaksud pada ayat (7) dan ayat (8) dapat diberikan perpanjangan waktu pengimporan selama 1 (satu) tahun sejak berakhirnya fasilitas pembebasan bea masuk dan hanya diberikan 1 (satu) kali.
+
+Pasal 70 ayat (12) berbunyi: Ketentuan sebagaimana dimaksud pada ayat (11) dapat dikecualikan untuk komoditas tertentu sebagaimana diatur dalam peraturan perundang - undangan.
+
+Pasal 70 ayat (13) berbunyi: Barang dan bahan yang telah mendapatkan fasilitas pembebasan bea m asuk sebagaimana dimaksud pada
+
+Pasal 70 ayat (1) berbunyi: wajib digunakan sesuai dengan tujuan pemasukannya oleh Pelaku Usaha.
+
+Pasal 71 ayat (1) berbunyi: Terhadap Pelaku Usaha sebagaimana yang dimaksud dalam pasal 6 6 ayat (1) yang mengajukan fasilitas pembebasan bea masuk atas impor barang modal sebagaimana dimaksud dalam Pasal 6 7 ayat (1) huruf c, dapat diberikan dalam rangka pembangunan atau pengembangan .
+
+Pasal 71 ayat (2) berbunyi: Pengajuan fasilitas pembebasan bea masuk atas impor mesin sebagaimana dimaksud pada ayat (1), diajukan paling lambat 3 (tiga) tahun terhitung sejak diterbitkanny a Izin/izin usaha penyediaan tenaga listrik (IUPTL).
+
+Pasal 71 ayat (3) berbunyi: Pembebasan bea masuk sebagaimana dimaksu d
+
+Pasal 71 ayat (1) berbunyi: diberikan sesuai dengan rencana impor barang (RIB) kebutuhan proyek yang telah disetujui dan ditandasahkan oleh menyelenggarakan urusan pemerintahan di bidang energi dan sumber daya mineral.
+
+Pasal 71 ayat (4) berbunyi: Pembebasan bea masuk sebagaimana pada a yat (1) diberikan jangka waktu 2 (dua) tahun terhitung sejak berlakunya keputusan pembebasan bea masuk.
+
+Pasal 71 ayat (5) berbunyi: Jangka waktu pengimporan sebagaimana dimaksud pada ayat ( 4) dapat diperpanjang 1 (satu) kali dengan jangka waktu 1 (satu) tahun sejak berakhirnya jangka waktu dalam keputusan pembebasan bea masuk .
+
+Pasal 71 ayat (6) berbunyi: Perpanjangan waktu pengimporan sebagaimana dimaksud pada ayat ( 5) dapat diberikan perpanjang an kembali sesuai dengan ketentuan menyelenggarakan urusan pemerintahan di bidang keuangan negara .
+
+Pasal 71 ayat (7) berbunyi: Pengajuan perpanjangan jangka waktu sebagaimana dimaksud pada ayat (6) diajukan selambat -lambatnya 14 (empat belas) Hari sebelum jangka waktu keputusan pemberian fasilitas berakhir.
+
+Pasal 71 ayat (8) berbunyi: Mesin yang telah mendapatkan fasilitas pembebasan bea masuk sebagaimana di maksud pada ayat (1) wajib digunakan sesuai dengan tujuan pemasukannya oleh Pelaku Usaha yang bersangkutan.
+
+Pasal 71 ayat (9) berbunyi: Mesin sebagaimana dimaksud pada ayat (8) dapat dilakukan pemindahtanganan yang diatur lebih lanjut dalam ketentuan peraturan perundang -undangan.
+
+Pasal 72 ayat (1) berbunyi: Terhadap Pelaku Usaha sebagaimana yang dimaksud dalam pasal 6 6 ayat (1) yang mengajukan fasilitas pembebasan atau keringanan bea masuk dan/atau pembebasan pajak pertambahan nilai atas impor barang sebagaimana dimaksud dalam Pasal 6 7 ayat
+
+Pasal 72 ayat (1) berbunyi: huruf d, dapat diberikan dalam rangka KK atau PKP2B sebagai berikut :
+
+Pasal 72 ayat (1) poin a berbunyi: kontraktor yang kontraknya mencantumkan ketentuan mengenai pemberian pembebasan atau keringanan bea masuk dan pembebasan pajak pertambahan nilai dan ketentuan mengenai jangka waktu pemberian pembebasan atau keringanan bea masuk dan pembebasan pajak pertambahan nilai atas impor barang dalam rangka KK atau PKP2B ;
+
+Pasal 72 ayat (1) poin b berbunyi: kontraktor yang kontraknya mencantumkan ketentuan mengenai pembebasan atau keringanan b ea masuk dan pembebasan Pajak Pertambahan Nilai atas impor barang, namun tidak mencantumkan ketentuan mengenai jangka waktu pemberian pembebasan atau keringanan bea masuk dan pembebasan pajak pertambahan nilai dalam rangka KK atau PKP2B ;
+
+Pasal 72 ayat (1) poin c berbunyi: kontraktor PKP2B dengan ketentuan sebagai berikut : 1. kontraknya ditandatangani sebelum tahun 1990; 2. kontraktor PKP2B yang kontraknya mencantumkan ketentuan mengenai pemberian pembebasan atau keringanan bea masuk atas impor barang dalam rangka PKP2B; 3. kontraktor PKP2B yang kontr aknya tidak mencantumkan ketentuan mengenai jangka waktu pemberian pembebasan atau keringanan bea masuk; dan 4. kontraktor PKP2B yang barang impornya merupakan barang milik negara .
+
+Pasal 72 ayat (1) poin d berbunyi: kontraktor KK atau PKP2B sebagai berikut: 1. kontraknya mencantumkan ketentuan mengenai pemberian pembebasan atau keringanan bea masuk dan/atau pembebasan pajak atas impor barang dalam rangka KK atau PKP2B sepanjang memenuhi ketentuan peraturan perundang -undangan ; atau 2. kontraknya tidak mencantumkan ketentuan mengenai pemberian pembebasan pajak pertambahan nilai atas impor Barang Kena Pajak dalam rangka KK atau PKP2B, sesuai dengan ketentuan peraturan perundang - undangan di bidang perpajakan yang mengatur ketentuan mengena i perlakuan pajak pertambahan nilai dan pajak penjualan atas barang mewah atas impor barang kena pajak yang dibebaskan dari pungutan bea masuk.
+
+Pasal 72 ayat (2) berbunyi: Pembebasan atau keringanan bea masuk dan/atau pembebasan pajak pertambahan nilai sebagaimana dimaksud pada ayat (1) huruf a, diberikan sesuai dengan jangka waktu yang tercantum dalam kontrak.
+
+Pasal 72 ayat (3) berbunyi: Pembebasan atau keringanan bea masuk dan/atau pembebasan pajak pertambahan nilai sebagaimana dimaksud pada ayat (1) huruf b dan huruf d, diberikan sejak tanggal ditandatanganin ya kontrak sampai dengan tahun kesepuluh dari periode operasi produksi .
+
+Pasal 72 ayat (4) berbunyi: Fasilitas pembebasan atau keringanan bea masuk dan/atau pembebasan pajak pertambahan nilai sebagaimana dimaksud pada ayat (1) huruf c, diberikan sampai dengan berakhirnya masa kontrak.
+
+Pasal 72 ayat (5) berbunyi: Pengajuan fasilitas sebagaimana dimaksud pada
+
+Pasal 72 ayat (1) berbunyi: dilakukan setiap tahun berdasarkan rencana kerja anggaran belanja (RKAB) yang telah disetujui dan ditandasahkan oleh menyelenggarakan urusan pemerintahan di bidang energi dan su mber daya mineral, dengan ketentuan bahwa jangka waktu fasilitas pembebasan atau keringanan bea masuk dan/atau pembebasan pajak pertambahan nilai atas impor barang untuk KK dan PKP2B berakhir pada tanggal 31 Desember pada tahun berjalan.
+
+Pasal 72 ayat (6) berbunyi: Terhadap barang impor yang mendapatkan pembebasan atau keringanan bea masuk dan/atau pembebasan pajak pertambahan nilai dalam rangka KK atau PKP2B sebagaimana dimaksud pada ayat (1) dapat dilakukan pemindahtanganan sebagaimana diatur oleh urusan pemerintahan di bidang keuangan negara . Pasal 7 3 Pembebasan bea masuk sebagaimana dimaksud dalam Pasal 6 7, Pasal 6 8, Pasal 6 9, dan Pasal 70 dapat diberikan terhadap mesin, barang, dan bahan yang berasal dari KPBPB, KEK, atau tempat penimbunan berikat sebagaimana diatur oleh menyelenggarakan urusan pemerintahan di bidang keuangan negara . Paragraf 4 Pengajuan Persetujuan Pemberian Fasilitas Pasal 7 4
+
+Pasal 72 ayat (1) berbunyi: Pengajuan fasilitas pembebasan bea masuk atas impor sebagaimana dimaksud dalam Pasal 6 6 ayat (2) huruf a diajukan dan diterbitkan dalam Sistem OSS.
+
+Pasal 72 ayat (2) berbunyi: Pelaku usaha yang mengajukan fasilitas bea masuk atas impor sebagaimana yang dimaksud pada ayat (1) harus mengisi data permohonan , mengunggah dan mengirimkan dokumen yang dipersyaratkan sebagaimana tercantum dalam Lampiran VIII huruf A yang merupakan bagian tidak terpisahkan dalam Peraturan Badan ini .
+
+Pasal 72 ayat (3) berbunyi: Terhadap pengajuan sebag aimana yang dimaksud pada ayat (2) dilakukan klarifikasi teknis.
+
+Pasal 72 ayat (4) berbunyi: Terhadap pengajuan dalam rangka rehabilitasi/ resktrukturisasi/modernisasi serta barang dan bahan dilakukan klarifikasi teknis dalam bentuk kunjungan ke lapangan, atau dalam hal kondisi tert entu dapat dilakukan melalui media elektronik lainnya.
+
+Pasal 72 ayat (5) berbunyi: Pengajuan sebagaimana yang dimaksud pada ayat (2) dilakukan klarifikasi teknis paling lambat 5 (lima) hari.
+
+Pasal 72 ayat (6) berbunyi: Hasil klarifikasi teknis sebagaimana dimaksud pada
+
+Pasal 72 ayat (3) berbunyi: dan ayat (4) berupa:
+
+Pasal 72 ayat (3) poin a berbunyi: pengajuan dinyatakan lengkap dan benar sesuai ketentuan, dapat diproses lebih lanjut;
+
+Pasal 72 ayat (3) poin b berbunyi: pengajuan dikembalikan ke Pelaku Usaha secara daring untuk melengkapi, memperbaiki kekurangan dan/atau kesalahan dokumen sesuai hasil klarifikasi teknis; atau
+
+Pasal 72 ayat (3) poin c berbunyi: pengajuan d itolak apabila tidak sesuai ketentuan.
+
+Pasal 72 ayat (7) berbunyi: Terhadap hasil klarifikasi teknis sebagaimana dimaksud dalam ayat (6) huruf a, sistem OSS akan mengirimkan pemberitahuan dan selanjutnya dalam waktu 5 (lima) Hari akan diterbitkan Keputusan Pemberian Fasilitas Pembe basan Bea Masuk.
+
+Pasal 72 ayat (8) berbunyi: Terhadap hasil klarifikasi teknis sebagaimana dimaksud dalam ayat (6) huruf b, sistem OSS akan mengirimkan pemberitahuan dan selanjutnya pelaku usaha melengkapi dokumen melalui Sistem OSS.
+
+Pasal 72 ayat (9) berbunyi: Terhadap hasil klarifikasi teknis sebagaimana dima ksud dalam ayat (6) huruf c, dalam waktu 3 (tiga) Hari Sistem OSS akan memberikan pemberitahuan penolakan disertai dengan alasan penolakan.
+
+Pasal 72 ayat (10) berbunyi: Pengajuan sebagaimana dimaksud pada ayat (1), meliputi:
+
+Pasal 72 ayat (10) poin a berbunyi: pengajuan fasilitas pembebasan bea masuk atas impor mesin/barang modal/barang dan bahan;
+
+Pasal 72 ayat (10) poin b berbunyi: pengajuan perubahan atas fasilitas pembebasan bea masuk atas impor mesin/barang modal/barang dan bahan; dan
+
+Pasal 72 ayat (10) poin c berbunyi: perpanjangan jangka waktu atas fasilitas pembebasan bea masuk atas impor mesin /barang modal/barang dan bahan .
+
+Pasal 72 ayat (11) berbunyi: Ketentuan ayat (1) sampai dengan ayat (9) berlaku mutatis mutandis terhadap permohonan sebagaimana dimaksud pada ayat (10).
+
+Pasal 72 ayat (12) berbunyi: Terhadap pengajuan perpanjangan jangka waktu sebagaimana yang dimaksud pada ayat (10) huruf c, Sistem OSS akan memberikan pemberitahuan 3 (tiga) bulan sebelum habis masa berlaku.
+
+Pasal 72 ayat (13) berbunyi: Apabila dalam jangka waktu sebagaimana dimaksud pada ayat (5), tidak ada hasil klarifikasi teknis sebagaimana dimaksud pada ayat (6), pengajuan dianggap telah memenuhi persyaratan dan sistem OSS akan memberikan notifikasi bahwa pengajuan akan diproses lebih lanjut .
+
+Pasal 72 ayat (14) berbunyi: Apabila dalam jangka waktu 5 (lima) hari sejak dokumen dinyatakan lengkap dan benar sebagaimana dimaksud pada ayat (6) huruf a dan
+
+Pasal 72 ayat (13) berbunyi: belum diterbitkan keputusan pemberian fasilitas pembebasan bea masuk, maka sistem oss secara otomatis akan menerbitkan keputusan pemberian fasilitas pembebasan bea masuk. Bagian Ketiga Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang -Bidang Usaha Tertentu dan/atau di Daerah -Daerah Tertentu
+
+Pasal 75 berbunyi: Ketentuan dan tata cara pengajuan fasilitas pajak penghasilan badan untuk penanaman modal di bidang - bidang usaha tertentu dan/atau di daerah -daerah tertentu sebagaimana dimaksud dalam Pasal 66 ayat (2) huruf b sebagaimana diatur dalam peraturan menteri yang menyelenggarakan urusan keuangan negara dan peraturan lembaga yang menyelenggarakan urusan pemerintah an di bidang koordinasi penanaman modal tentang fasilitas pajak penghasilan badan untuk penanaman modal di bidang - bidang usaha terte ntu dan/atau di daerah -daerah tertentu. Bagian Keempat Fasilitas Pengurangan Pajak Penghasilan Badan
+
+Pasal 76 berbunyi: Ketentuan dan tata cara pengajuan fasilitas pengurangan pajak penghasilan badan sebagaimana dimaksud dalam Pasal 66 ayat (2) huruf c sebagaimana diatur dalam peraturan menteri yang menyelenggarakan urusan keuangan negara dan peraturan lembaga yang menyelenggarakan urusan pemerintah an di bidang koordinasi penanaman modal tentang fasilitas pajak penghasilan badan . Bagian Kelima Pemberian Fasilitas Pengurangan Pajak Penghasilan Badan dan/atau Fasilitas Pajak Penghasilan untuk Penanaman Modal di Bidang -Bidang Usaha Tertentu dan/atau di Daerah - Daerah Tertentu pada KEK
+
+Pasal 77 berbunyi: Ketentuan dan tata cara pengajuan fasilitas pajak penghasilan badan dan/atau fasilitas pajak penghasilan badan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah -daerah tertentu pada KEK sebagaimana dimaksud dalam Pasal 66 ayat (2) huruf d sebagaimana diatur dalam peraturan menteri y ang menyelenggarakan urusan keuangan negara dan peraturan lembaga yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal tentang Fasilitas Pajak Penghasilan Badan dan/atau fasilitas pajak penghasilan badan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah - daerah tertentu pada KEK. Bagian Keenam Fasilitas Pengurangan Penghasilan Bruto Atas Kegiatan Penelitian Dan Pengembangan Tertentu di Indonesia
+
+Pasal 78 berbunyi: Ketentuan dan tata cara pengajuan fasilitas pengurangan penghasilan bruto atas kegiatan penelitian dan pengembangan tertentu di Indonesia sebagaimana dimaksud dalam Pasal 6 6 ayat (2) huruf e sebagaimana diatur dalam peraturan menteri yang menyelenggarakan urusan keuangan negara . Bagian Ketujuh Pemberian Pengurangan Penghasilan Bruto Atas Penyelenggaraan Kegiatan Praktik Kerja, Pemagangan, Dan/Atau Pembelajaran Dalam Rangka Pembinaan Dan Pengembangan Sumber Daya Manusia Berbasis Kompetensi Tertentu
+
+Pasal 79 berbunyi: Ketentuan dan tata cara pengajuan pem berian pengurangan penghasilan bruto atas penyelenggaraan kegiatan praktik kerja, pemagangan, dan/atau pembelajaran dalam rangka pembinaan dan pengembangan sumber daya manusia berbasis kompetensi tertentu sebagaimana dimaksud dalam Pasal 6 6 ayat (2) huruf f sebagaimana diatur dalam peraturan menteri yang menyelenggarakan urusan keuangan negara . Bagian Kedelapan Pemberian Fasilitas Pengurangan Penghasilan Neto Atas Penanaman Modal Baru Atau Perluasan Usaha Pada Bidang Usaha Tertentu Yang Mer upakan Industri Padat Karya Pasal 8 0 Ketentuan dan tata cara pengajuan pemberian fasilitas pengurangan penghasilan neto atas penanaman modal baru atau perluasan usaha pada bidang usaha tertentu yang merupakan industri padat karya sebagaimana dimaksud dalam Pasal 6 6 ayat (2) huruf g sebagaimana diatur dalam peraturan menteri yang menyelenggarakan urusan keuangan negara . Bagian Kesembilan Komitmen Pelaku Usaha Terhadap Pemberdayaan UMK -M dan/atau Pengusaha Lokal
+
+Pasal 81 ayat (1) berbunyi: Pelaku Usaha yang mengajukan Fasilitas Penanaman Modal sebagaimana dimaksud dalam Pasal 6 6 ayat 2 huruf a, huruf b, huruf c, dan huruf d perlu menyampaikan komitmen rencana kerjasama pelaksanaan kegiatan usaha dengan Pelaku Usaha UMK -M dan/atau pengusaha nasional di daerah melalui Sistem OSS.
+
+Pasal 81 ayat (2) berbunyi: Terhadap pernyataan Pelaku Usaha sebagaimana dimaksud pada ayat ( 1), BKPM dan DPMPTSP kabupaten/kota sesuai kewenangannya melakukan pengawasan .
+
+Pasal 81 ayat (3) berbunyi: Komitmen sebagaimana dimaksud pada ayat (1), dilaksanakan sesuai dengan rencana waktu pelaksanaan yang disampaikan oleh Pelaku Usaha melalui sistem OSS. Bagian Kesepuluh Rekomendasi Keimigrasian Paragraf 1 Umum
+
+Pasal 82 ayat (1) berbunyi: Bagi PMA diberikan kemudahan pelayanan dan/atau perizinan atas fasilitas keimigrasian oleh yang menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia.
+
+Pasal 82 ayat (2) berbunyi: Kemudahan pelayanan dan/atau perizinan atas fasilitas keimigrasian sebagaimana dimaksud pada ayat (1 ) diberikan setelah mendapat rekomendasi dari lembaga pemerintah yang mempunyai tugas menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal .
+
+Pasal 82 ayat (3) berbunyi: Rekomendasi sebagaimana dimaksud pada ayat (2) berupa:
+
+Pasal 82 ayat (3) poin a berbunyi: rekomendasi alih status izin tinggal kunjungan menjadi izin tinggal terbatas; dan
+
+Pasal 82 ayat (3) poin b berbunyi: rekomendasi alih status izin tinggal terbatas menjadi izin tinggal tetap. Paragraf 2 Rekomendasi Alih Status Izin Tinggal Kunjungan Menjadi Izin Tinggal Terbatas
+
+Pasal 83 ayat (1) berbunyi: Rekomendasi alih status izin tinggal kunjungan menjadi izin tinggal terbatas sebagaimana dimaksud dalam Pasal 82 ayat (3) huruf a merupakan persyaratan untuk memperoleh persetujuan alih status izin tinggal kunjungan menjadi izin tinggal terbatas.
+
+Pasal 83 ayat (2) berbunyi: Rekomendasi alih status izin tinggal kunjunga n menjadi izin tinggal terbatas sebagaimana dimaksud pada ayat (1) diberikan kepada:
+
+Pasal 83 ayat (2) poin a berbunyi: orang asing sebagai pemegang saham yang menjabat sebagai direksi atau komisaris perusahaan; dan
+
+Pasal 83 ayat (2) poin b berbunyi: orang asing sebagai pemegang saham yang tidak menjabat sebagai direksi atau komisaris perusahaan.
+
+Pasal 83 ayat (3) berbunyi: Orang asing sebagai pemegang saham sebagaimana dimaksud pada ayat (2) harus memenuhi kriteria, yaitu:
+
+Pasal 83 ayat (3) poin a berbunyi: sebagai pemegang saham dan menjabat sebagai direksi at au komisaris perusahaan dengan ketentuan kepemilikan saham paling sedikit Rp1.000.000.000,00 (satu miliar Rupiah) atau yang setara dalam mata uang dollar Amerika Serikat yang tercantum dalam akta; atau
+
+Pasal 83 ayat (3) poin b berbunyi: sebagai pemegang saham dan tidak sebagai direksi atau komisaris perusahaan dengan ketentuan kepemilikan saham paling sedikit Rp1.125.000.000,00 (satu miliar seratus dua puluh lima juta Rupiah) atau yang setara dalam mata uang dollar Amerika Serikat yang tercantum dalam akta.
+
+Pasal 83 ayat (4) berbunyi: Permohonan rekomendasi alih statu s izin tinggal kunjungan menjadi izin tinggal terbatas sebagaimana dimaksud pada ayat (1) diajukan secara luring ke BKPM melalui alamat surat elektronik rekomaltus@bkpm.go.id, menggunakan formulir permohonan dan persyaratan sebagaimana tercantum pada Lampi ran IX yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini.
+
+Pasal 83 ayat (5) berbunyi: Atas permohonan sebagaimana dimaksud pada
+
+Pasal 83 ayat (4) berbunyi: , BKPM melakukan pemeriksaan kelengkapan dan kesesuaian dari dokumen persyaratan yang dilampirkan.
+
+Pasal 83 ayat (6) berbunyi: Dalam hal disetujui, rekome ndasi alih status izin tinggal kunjungan menjadi izin tinggal terbatas sebagaimana dimaksud pada ayat (1) diterbitkan paling lambat 3 (tiga) Hari sejak diterimanya permohonan yang lengkap dan benar.
+
+Pasal 83 ayat (7) berbunyi: Bentuk rekomendasi alih status izin tinggal kunjungan menjadi izin tinggal terbatas sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran IX yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini. Paragraf 3 Rekomendasi Alih Status Izin Tinggal Kunjungan Menjadi Izin Tinggal Tetap
+
+Pasal 84 ayat (1) berbunyi: Rekomendasi alih status izin tinggal terbatas menjadi izin tinggal tetap sebagaimana dimaksud dalam Pasal 82 ayat (3) huruf b merupakan persyaratan untuk memperoleh persetujuan alih status izin tinggal terbatas menjadi izin tinggal tetap.
+
+Pasal 84 ayat (2) berbunyi: Rekomendasi alih status izin tinggal terbatas menjadi izin tinggal tetap sebagaimana dimaksud pada ayat (1) diberikan kepada:
+
+Pasal 84 ayat (2) poin a berbunyi: orang asing sebagai pemegang saham yang menjabat sebagai direksi atau komisaris perusahaan; dan
+
+Pasal 84 ayat (2) poin b berbunyi: orang asing sebagai pemegang saham yang tidak menjabat sebagai direksi atau komisaris perusahaan.
+
+Pasal 84 ayat (3) berbunyi: Orang asing sebagai pemegang saham sebagaimana dimaksud pada ayat (2) harus memenuhi kriteria, yaitu:
+
+Pasal 84 ayat (3) poin a berbunyi: sebagai pemegang saham dan menjabat sebagai direksi at au komisaris perusahaan dengan ketentuan kepemilikan saham paling sedikit Rp1.000.000.000,00 (satu miliar Rupiah) atau yang setara dalam mata uang dollar Amerika Serikat yang tercantum dalam akta; atau
+
+Pasal 84 ayat (3) poin b berbunyi: sebagai pemegang saham dan tidak sebagai direksi atau komisaris perusahaan dengan ketentuan kepemilikan saham paling sedikit Rp10.000.000.000,00 (sepuluh miliar Rupiah) atau yang setara dalam mata uang dollar Amerika Serikat yang tercantum dalam akta.
+
+Pasal 84 ayat (4) berbunyi: Permohonan rekomendasi alih status izin tinggal terbatas menjadi izin tinggal tetap sebagaimana dimaksud pada ayat (1) diajukan secara luring ke BKPM melalui alamat surat elektronik rekomaltus@bkpm.go.id, menggunakan formulir permohonan dan persyaratan sebagaimana tercantum dalam Lampiran IX yang merupakan bagia n tidak terpisahkan dari Peraturan Badan ini.
+
+Pasal 84 ayat (5) berbunyi: Dalam hal disetujui, rekomendasi alih status izin tinggal terbatas menjadi izin tinggal tetap sebagaimana dimaksud pada ayat (1) diterbitkan paling lambat 3 (tiga) Hari sejak diterimanya permohonan yang lengka p dan benar.
+
+Pasal 84 ayat (6) berbunyi: Bentuk rekomendasi alih status izin tinggal terbatas menjadi izin tinggal tetap sebagaimana dimaksud pada
+
+Pasal 84 ayat (1) berbunyi: tercantum dalam Lampiran IX yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini.
+
+Pasal 85 ayat (1) berbunyi: Dalam hal orang asing sebagai pemegang saham, baik sebagai direksi atau komisaris yang tidak memenuhi kriteria kepemilikan saham sebagaimana dimaksud dalam Pasal 83 ayat (3) dan Pasal 84 ayat (3) , permohonan izin penggunaan tenaga kerja asing disampaikan t erlebih dahulu kepada yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan sebagai dasar:
+
+Pasal 85 ayat (1) poin a berbunyi: pemberian persetujuan alih status izin tinggal kunjungan menjadi izin tinggal terbatas atau perpanjangan izin tinggal terbatas; dan
+
+Pasal 85 ayat (1) poin b berbunyi: pemberian persetujuan alih status izin tinggal terbatas menjadi izin tinggal tetap atau perpanjangan izin tinggal tetap, oleh pemerintahan di bidang hukum dan hak asasi manusia.
+
+BAB VI: PELAYANAN PERIZINAN BERUSAHA BERBASIS RISIKO
+
+Pasal 86 ayat (1) berbunyi: Pelaku Usaha dapat memperoleh pelayanan berbantuan dalam permohonan Perizinan Berusaha Berbasis Risiko apabila layanan Sistem OSS:
+
+Pasal 86 ayat (1) poin a berbunyi: belum tersedia; dan
+
+Pasal 86 ayat (1) poin b berbunyi: terjadi gangguan teknis.
+
+Pasal 86 ayat (2) berbunyi: Gangguan teknis sebagaimana dimaksud pada ayat (1) huruf b termasuk keadaan kahar (force majeure) yang mengakibatkan tidak dapat dilaksanakannya pelayanan perizinan berusaha berbasis risiko.
+
+Pasal 86 ayat (3) berbunyi: Dalam hal pelayanan Sistem OSS belum tersedia sebagaimana dimaksu d pada ayat (1) huruf a pelayanan berbantuan dilakukan dengan tahapan:
+
+Pasal 86 ayat (3) poin a berbunyi: Pelaku Usaha dapat mengajukan permohonan Perizinan Berusaha Berbasis Risiko secara luring kepada petugas PTSP Pusat di BKPM, DPMPTSP Provinsi/Kabupaten/Kota, Administrator KEK, dan Bad an Pengusahaan KPBPB;
+
+Pasal 86 ayat (3) poin b berbunyi: petugas PTSP Pusat di BKPM, DPMPTSP Provinsi/Kabupaten/Kota, administrator KEK, dan Badan Pengusahaan KPBPB menghubungkan perizinan luring sebagaimana dimaksud dalam huruf a ke dalam Sistem OSS; dan
+
+Pasal 86 ayat (3) poin c berbunyi: persetujuan atau penolakan diterb itkannya dokumen Perizinan Berusaha diinformasikan kepada Pelaku Usaha melalui sarana komunikasi.
+
+Pasal 86 ayat (4) berbunyi: Dalam hal pelayanan Sistem OSS terjadi gangguan teknis sebagaimana dimaksud pada ayat (1) huruf b, pelayanan berbantuan harus tersedia paling lama 1 (satu) Hari sejak dinyatakan terjadinya gangguan teknis.
+
+Pasal 86 ayat (5) berbunyi: Pernyataan terjadinya gangguan teknis sebagaimana dimaksud pada ayat (3) disampaikan kepada masyarakat oleh:
+
+Pasal 86 ayat (5) poin a berbunyi: deputi bidang pelayanan penanaman modal untuk gangguan teknis tingkat nasional;
+
+Pasal 86 ayat (5) poin b berbunyi: kepal a DPMPTSP provins i untuk gangguan teknis tingkat provinsi;
+
+Pasal 86 ayat (5) poin c berbunyi: kepala DPMPTSP kabupaten/kota untuk gangguan teknis tingkat kabupaten/kota;
+
+Pasal 86 ayat (5) poin d berbunyi: admini strator KEK untuk gangguan teknis di KEK; atau
+
+Pasal 86 ayat (5) poin e berbunyi: badan pengusahaan KPBPB untuk gangguan teknis di KPBPB.
+
+Pasal 86 ayat (6) berbunyi: Terhadap kondisi kahar (force majeure) , pelayanan Perizinan Berusaha Berbasis Risiko dilakukan secara manual.
+
+Pasal 87 ayat (1) berbunyi: Bagi Pelaku Usaha di daerah tertinggal, terdepan, terluar, dan/atau wilayah yang belum memiliki aksesib ilitas yang memadai, permohonan Perizinan Berusaha Berbasis Risiko dapat diajukan di kantor kecamatan atau kantor kelurahan/desa atau nama lain.
+
+Pasal 87 ayat (2) berbunyi: Selain mengajukan di kantor kecamatan atau kantor kelurahan/desa atau nama lain sebagaimana dimaksud pada ayat (1), Pelaku Usaha dapat mengajukan permohonan Perizinan Berusaha Berbasis Risiko kepada DPMPTSP terdekat.
+
+Pasal 87 ayat (3) berbunyi: Pengajuan Perizinan Berusaha Berbasis Risiko sebagaimana dimaksud pada ayat (1) dan ayat (2), didaftarkan di Sistem OSS oleh perangkat kecamatan atau perangkat kelurahan/desa atau nama lain atau DPMPTSP terdekat dengan menggunakan hak akses yang dimiliki oleh Pelaku Usaha paling lama 3 (tiga) Hari setelah diterima dari Pelaku Usaha yang memberi kuasa pengajuan Perizinan Berusaha di daerah.
+
+BAB VII: KETENTUAN LAIN -LAIN
+
+Bagian Kesatu
+
+Pasal 88 ayat (1) berbunyi: Segala biaya Perizinan Berusaha Berbasis Risiko yang merupakan:
+
+Pasal 88 ayat (1) poin a berbunyi: penerimaan negara bukan pajak;
+
+Pasal 88 ayat (1) poin b berbunyi: bea masuk dan/atau bea keluar;
+
+Pasal 88 ayat (1) poin c berbunyi: cukai; dan/atau
+
+Pasal 88 ayat (1) poin d berbunyi: pajak daerah atau retribusi daerah, wajib dibayar oleh Pelaku Usaha sesuai dengan ketentuan peraturan perundang -undangan.
+
+Pasal 88 ayat (2) berbunyi: Biaya sebagaimana dimaksud pada ayat (1) dibayarkan oleh Pelaku Usaha sebagai bagian dari pemenuhan persyaratan yang telah diverifikasi dan dinotifikasi oleh non melalui Sistem OSS . Bagian Ke dua Fasilitasi Perizinan Berusaha Berbasis Risiko
+
+Pasal 89 ayat (1) berbunyi: Lembaga OSS, daerah memberikan fasilitasi Perizinan Berusaha kepada Pelaku Usaha terutama UMK -M.
+
+Pasal 89 ayat (2) berbunyi: Fasilitasi sebagaimana dimaksud pada ayat (1) berupa:
+
+Pasal 89 ayat (2) poin a berbunyi: penyediaan subsistem pelayanan informasi pada Sistem OSS ;
+
+Pasal 89 ayat (2) poin b berbunyi: pelayanan konsultasi dan informasi yang berkaitan dengan Perizinan Berusaha; dan
+
+Pasal 89 ayat (2) poin c berbunyi: bantuan untuk mengakses laman OSS dalam rangka mendapatkan Perizinan Berusaha
+
+Pasal 89 ayat (3) berbunyi: Dalam rangka memberikan fasilitasi sebagaimana dimaksud pada ayat (1) dan ayat (2) huruf b dan huruf c, Lembaga OSS, pemerintah daerah menyediakan t empat pelayanan dan petugas.
+
+Pasal 89 ayat (4) berbunyi: Fasilitasi sebagaimana dimaksud pada ayat (1) tidak dikenakan biaya.
+
+Pasal 90 ayat (1) berbunyi: Fasilitasi subsistem pelayanan informasi seb agaimana dimaksud dalam Pasal 89 ayat (2) huruf a menyediakan informasi bagi pelaku usaha dalam memperoleh Perizinan Berusaha Berbasis Risiko serta informasi lain terkait dengan Perizinan dan Pengawasan Berusaha Berbasis Risiko.
+
+Pasal 90 ayat (2) berbunyi: Fasilitasi subsistem pelayanan informasi sebagaimana pada ayat (1) diatur dalam peraturan lembaga pemerintah yang menyelenggarakan urusan pemerintah di bidang koordinasi penanaman modal tentang sistem penyelenggaraan Perizinan Berusaha Berbasis Risiko secara elektronik.
+
+Pasal 91 ayat (1) berbunyi: Fasilitasi seb agaimana dimaksud dalam Pasal 89
+
+Pasal 91 ayat (2) berbunyi: huruf b dan huruf c diselenggarakan oleh unit PTSP di BKPM , daerah.
+
+Pasal 91 ayat (2) berbunyi: Pelaksanaan fasilitasi sebagaimana dimaksud pada
+
+Pasal 91 ayat (1) berbunyi: oleh PTSP di BKPM dilakukan antara lain:
+
+Pasal 91 ayat (1) poin a berbunyi: layanan mandiri; dan
+
+Pasal 91 ayat (1) poin b berbunyi: layanan berbantuan .
+
+Pasal 91 ayat (3) berbunyi: Layanan mandiri sebagaimana dimaksud pada ayat (2) huruf a dilaksanakan dengan menyediakan ruangan dengan fasilitas perangkat elektronik yang memadai bagi pelaku usaha untuk melakukan proses permohonan dan penerbitan perizinan berusaha secara mandiri.
+
+Pasal 91 ayat (4) berbunyi: Layanan berbantuan sebagaimana dimaksud pada
+
+Pasal 91 ayat (2) berbunyi: huruf b dilaksanakan secara interaktif antara lain:
+
+Pasal 91 ayat (2) poin a berbunyi: pusat panggilan;
+
+Pasal 91 ayat (2) poin b berbunyi: surat elektronik;
+
+Pasal 91 ayat (2) poin c berbunyi: tatap muka; dan
+
+Pasal 91 ayat (2) poin d berbunyi: klinik OSS.
+
+Pasal 91 ayat (5) berbunyi: Pelaksanaan layanan berbantuan melalui pusat panggilan sebagaimana pada ayat (4) huruf a dilakukan melalui nomor telepon resmi Lembaga OSS yang tercantum pada laman OSS dengan mekanime pemberian tanggapan pada saat yang sama.
+
+Pasal 91 ayat (6) berbunyi: Pelaksanaan layanan berbantuan melalui surat elektronik sebagaimana pada ayat (4) huruf b dilakukan melalui alamat surat elektronik resmi Lembaga OSS yang tercantum pada laman OSS dengan mekanisme pemberian tanggapan paling lama 10 (sepuluh) Hari.
+
+Pasal 91 ayat (7) berbunyi: Pelaksanaan layanan berbantuan melalui tatap muka sebagaimana pada ayat (4) huruf c dilakukan baik secara langsung di PTSP Pusat di BKPM pada Lembaga OSS maupun secara daring menggunakan aplikasi elektronik, setelah sebelumnya melakukan pendaftaran secara daring melalui tautan pada laman BKPM atau aplikasi OSS.
+
+Pasal 91 ayat (8) berbunyi: Pelaksanaan layanan berbantuan melalui Klinik OSS sebagaimana dima ksud pada ayat (4) huruf d dilakukan melalui kegiatan tatap muka secara luring maupun daring antara petugas pelayanan PTSP Pusat di BKPM dengan Pelaku Usaha, baik di dalam maupun di luar negeri. Bagian Ketiga Masa Berlaku Perizinan Berusaha Berbasis Risiko
+
+Pasal 92 ayat (1) berbunyi: NIB berlaku selama Pelaku Usaha menjalankan kegiatan usahanya.
+
+Pasal 92 ayat (2) berbunyi: Sertifikat Standar , Izin, dan/atau Perizinan Berusaha Untuk Menunjang Kegiatan Usaha berlaku selama Pelaku Usaha menjalankan usaha dan/atau kegiatannya atau sesuai dengan jangka waktu yang ditetapkan dalam ketentuan peraturan perundang - undangan.
+
+Pasal 92 ayat (3) berbunyi: Dalam hal Sertifikat Standar , Izin, dan/atau Perizinan Berusaha Untuk Menunjang Kegiatan Usaha diatur masa berlakunya, permohonan perpanjangan dilakukan paling lambat 30 (tiga puluh) Hari melalui Sistem OSS sebelum masa berlaku berakhir atau sebagaimana ditetapkan di dalam ketentuan peraturan perundang -undangan.
+
+Pasal 92 ayat (4) berbunyi: Dalam hal permohonan perpanjangan dilakukan kurang dari 30 (tiga puluh) Hari sebagaimana dimaksud pada ayat (3), dianggap sebagai permohonan baru.
+
+Pasal 92 ayat (5) berbunyi: Bagi UMK , ketentuan masa berlaku sebagaimana dimaksud pada ayat (1) dikecualikan untuk sertifikat jaminan pro duk halal sesuai dengan ketentuan peraturan perundang -undangan mengenai jaminan produk halal.
+
+Pasal 93 ayat (1) berbunyi: Pelaku Usaha yang telah memiliki Perizinan Berusaha Berbasis Risiko , dapat mengembalikannya kepada menteri, pimpinan lembaga, gubernur, atau bupati/wali kota sebelum jangka waktu Perizinan Berusaha berakhir.
+
+Pasal 93 ayat (2) berbunyi: Pengembalian Perizinan Berusaha Berbasis Risiko sebagaimana dimaksud pada ayat (1) tidak menghilangkan kewajiban Pelaku Usaha yang melekat dalam Perizinan Berusaha Berbasis Risiko tersebut. Bagian Keempat Kewajiban LKPM
+
+Pasal 94 ayat (1) berbunyi: Pelaku Usaha yang telah mendapatkan perizinan berusaha wajib menyampaikan LKPM.
+
+Pasal 94 ayat (2) berbunyi: Tata cara penyampaian LKPM sebagaimana pada
+
+Pasal 94 ayat (1) berbunyi: diatur lebih lanjut dalam peraturan lembaga yang menyelenggarakan urusan pemerintah di bidang koordinasi penanaman modal tentang pedoman dan tata cara pengawasan perizinan berusaha berbasis risiko.
+
+BAB VIII: KETENTUAN PERALIHAN
+
+Pasal 95 ayat (1) berbunyi: Pelaku Usaha yang telah memiliki NIB dan Perizinan Berusaha yang berdasarkan komitmen atau belum berlaku efektif sebagaimana ketentuan Peraturan Pemerintah Nomor 24 Tahun 2018 , Sistem OSS memberikan notifikasi bahwa Pelaku Usaha wajib melakukan konfirmasi kembali atas data usaha sebelumnya untuk kemudian Sistem OSS melakukan penyesuaian Perizinan Berusaha Berbasis Risiko.
+
+Pasal 95 ayat (2) berbunyi: Dalam hal atas Perizinan Berusaha lama telah dilakukan penyesuaian Perizinan Berusaha Berbasis Risiko, Sistem OSS memberikan notifikasi k epada terkait dan Pelaku Usaha sebagai dasar proses permohonan Fasilitas Penanaman Modal yang meliputi:
+
+Pasal 95 ayat (2) poin a berbunyi: fasilitas pembebasan bea masuk atas impor;
+
+Pasal 95 ayat (2) poin b berbunyi: fasilitas pajak penghasilan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah -daerah tertentu;
+
+Pasal 95 ayat (2) poin c berbunyi: fasilitas pengurangan pajak penghasilan badan;
+
+Pasal 95 ayat (2) poin d berbunyi: fasilitas pengurangan pajak penghasilan badan dan fasilitas pajak penghasilan untuk penanaman modal di bidang -bidang usaha tertentu dan/atau di daerah -daerah tertentu pada KEK;
+
+Pasal 95 ayat (2) poin e berbunyi: fasilitas pengurangan penghasilan bruto atas kegiatan penelitian dan pengembangan tertentu di Indonesia;
+
+Pasal 95 ayat (2) poin f berbunyi: fasilitas pengurangan penghasilan bruto atas penyelenggaraan praktik kerja, pemagangan dan/atau pembelajaran dalam rangka pem binaan dan pengembangan sumber daya manusia berbasis kompetensi tertentu; dan
+
+Pasal 95 ayat (2) poin g berbunyi: fasilitas pengurangan penghasilan neto atas penanaman modal baru atau perluasan usaha pada bidang usaha tertentu yang merupakan industri padat karya.
+
+Pasal 96 berbunyi: Permohonan Perizinan Berusaha yang diajukan sebelum diberlakukannya Peraturan Badan ini , diproses dengan menggunakan Sistem OSS dan/ atau prosedur yang berlaku sampai diberlakukannya Peraturan Badan ini .
+
+Pasal 97 ayat (1) berbunyi: Pelaku Usaha yang telah memiliki Perizinan Berusaha yang masih berlaku sebelum Peraturan Badan ini diundangkan tetap dapat digunakan sesuai kegiatan usaha.
+
+Pasal 97 ayat (2) berbunyi: Pelaku Usaha yang telah mendapatkan Perizinan Berusaha yang masih berlaku sebelum Peraturan Badan ini diundangkan sebagaimana dimaksud pada
+
+Pasal 97 ayat (1) berbunyi: dan belum memiliki NIB, Pelaku Usaha wajib mendaftarkan NIB melalui Sistem OSS .
+
+Pasal 98 berbunyi: Perizinan Berusaha yang telah diajukan oleh Pelaku Usaha sebelum berlakunya Peraturan Badan ini dan belum diterbitk an Perizinan Berusahanya, diproses melalui Sistem OSS sesuai dengan ketentuan Peraturan Badan ini.
+
+Pasal 99 berbunyi: Pelaku Usaha yang telah mendapatkan Perizinan Berusaha sebelum Peraturan Badan ini mulai berlaku dan memerlukan Perizinan Berusaha yang baru, diatur ketentuan sebagai berikut: a. pengajuan dan penerbitan Perizinan Berusaha untuk Pengembangan Usaha dan/atau kegiatan atau komersial atau operasional dilakukan melalui Sistem OSS dengan melengkapi data dan/atau pemenuhan persyaratan sesuai dengan ketentuan peraturan perundang -undangan ; dan b. Pelaku Usaha diberikan Perizinan Berusaha sesuai dengan ketentuan peraturan perundang -undangan .
+
+Pasal 100 berbunyi: Terhadap pelaku usaha yang telah memiliki keputusan menteri keuangan pembebasan bea masuk atas impor mesin sebagaimana dimaksud dalam Pasal 67 ayat (1) sejak berlakunya Peraturan Badan Koordinasi Penanaman Modal Nomor 6 tahun 2018 tentang Pedoman dan Tata Cara Perizinan dan Fasilitas Penanaman Modal sampai dengan sebelum berlakunya Peraturan Badan ini, mengikuti ketentuan dalam Pasal 69, Pasal 70, Pasal 71 dan Pasal 72 Peraturan Badan ini.
+
+BAB IX: KETENTUAN PENUTUP
+
+Pasal 101 ayat (1) berbunyi: Perizinan Berusaha sebagaimana diatur di dalam Peraturan Badan ini akan diterapkan pada tanggal 2 Juni 2021.
+
+Pasal 101 ayat (2) berbunyi: Pada saat Peraturan Badan ini berlaku, Peraturan Badan Koordinasi Penanaman Modal Nomor 6 Tahun 2018 tentang Pedoman dan Tata Cara Perizinan dan Fasilitas Penanaman Modal (Berita Negara Republik Indonesia Tahun 2018 Nomor 934) sebagaimana telah diubah dengan Peraturan Badan Koordinasi Penanaman Modal Nomor 5 Tahun 2019 tentang Perubahan atas Peraturan Badan Koordinasi Penanaman Modal Nomor 6 Tahun 2018 tentang Pedoman dan Tata Cara Perizinan dan Fasilitas Penanaman Modal (Berita Negara Republik Indonesia Tahun 2019 Nomor 821) dan Perat uran Badan Koordinasi Penanaman Modal Nomor 1 Tahun 2020 tentang Pedoman Pelaksanaan Pelayanan Perizinan Terintegrasi Secara Elektronik (Berita Negara Republik Indonesia Tahun 2020 Nomor 308) , dicabut dan dinyatakan tidak berlaku.
+
+Pasal 102 berbunyi: Peraturan Badan ini mulai berlaku pada tanggal 2 Juni 2021 . Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Badan ini dengan penempatannya dalam Berita Negara Republik Indonesia. KEPALA BADAN KOORDINASI PENANAMAN MODAL REPUBLIK INDONESIA, BAHLIL LAHADALIA DIREKTUR JENDERAL PERATURAN PERUNDANG -UNDANGAN REPUBLIK INDONESIA , WIDODO EKATJAHJANA BERITA NEGARA REPUBLIK INDONESIA TAHUN 2021 NOMOR 272
+
