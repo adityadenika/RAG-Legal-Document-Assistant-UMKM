@@ -1,0 +1,28 @@
+LEGAL DOCUMENTS PREPROCESSING SUMMARY
+==================================================
+
+Processing Date: 2025-09-06T22:51:26.049594
+Total PDF Files: 9
+Successfully Processed: 9
+Failed Files: 0
+Total Elements Extracted: 10383
+
+PROCESSED DOCUMENTS:
+  - BKPM Nomor 4 Tahun 2021: 1016 elements
+    Types: {'bab': 8, 'pasal': 17, 'ayat': 618, 'poin': 370, 'bagian': 3}
+  - PM Keuangan Nomor 164 Tahun 2023: 229 elements
+    Types: {'bab': 7, 'pasal': 10, 'ayat': 113, 'poin': 99}
+  - PP Nomor 23 Tahun 2018: 56 elements
+    Types: {'pasal': 17, 'ayat': 18, 'poin': 21}
+  - PP Nomor 55 Tahun 2022: 538 elements
+    Types: {'bab': 13, 'bagian': 3, 'pasal': 45, 'ayat': 199, 'poin': 278}
+  - PP Nomor 7 Tahun 2021: 847 elements
+    Types: {'bab': 10, 'ayat': 378, 'bagian': 3, 'pasal': 68, 'poin': 388}
+  - PP Nomor 8 Tahun 2021: 83 elements
+    Types: {'bab': 4, 'pasal': 7, 'ayat': 43, 'poin': 28, 'bagian': 1}
+  - UU Nomor 1 Tahun 2022: 1103 elements
+    Types: {'bab': 11, 'pasal': 75, 'bagian': 3, 'ayat': 642, 'poin': 372}
+  - UU Nomor 20 Tahun 2008: 166 elements
+    Types: {'bab': 11, 'pasal': 41, 'bagian': 3, 'ayat': 55, 'poin': 56}
+  - UU Nomor 6 Tahun 2023: 6345 elements
+    Types: {'pasal': 1277, 'bab': 16, 'ayat': 2960, 'poin': 2084, 'bagian': 8}
